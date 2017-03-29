@@ -218,7 +218,7 @@ def weight_neighbors(data_frame):
 
 if __name__ == '__main__':
     #--- Read data ---#
-    file_loc = 'D:/Desktop/Back-end/user_sample.csv'
+    file_loc = 'data/user_sample.csv'
 
     #--- Get parameters ---#
     target_id = 'user1'
