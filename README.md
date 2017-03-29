@@ -2,6 +2,9 @@
 Final project for CSCU21
 
 ## Database: [bangkok, singopore, tokyo]
+- imp_main:
+  Input data: user_sample.csv
+  Output data: hotel recommended list
 - hotel_profile:
   hotel_name, near_station, restaurant, entertain, shopping_mall, convenience_store
 - user_profile:
