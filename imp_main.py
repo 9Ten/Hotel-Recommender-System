@@ -4,8 +4,6 @@ from sklearn import linear_model
 from sklearn import preprocessing
 
 #--- Check Trip_type, Companion ---#
-
-
 def check_input(trip_type, companion):
     # default = leisure
     check_type = ["business", "leisure", None]
@@ -24,8 +22,6 @@ def check_input(trip_type, companion):
     return ok
 
 #---Part preprocessing ---#
-
-
 def check_case(target_id, trip_type, companion, file_loc):
     user_data = pd.read_csv(file_loc)
     group_user = user_data.drop('hotel_name', axis=1)
@@ -59,7 +55,6 @@ def check_case(target_id, trip_type, companion, file_loc):
                     data_out, target_id, user_data, trip_type, companion)
                 del data_out['others']
                 return data_out, status[1]
-
 
 def get_main(target_id, target, other, trip_type, companion, status):
     if status == 1:
@@ -103,7 +98,6 @@ def get_weight(df):
     regr.fit(x, y)
     return regr.coef_
 
-
 def get_rank_weight(weight):
     rank = pd.Series(list(weight)).rank(ascending=False)
     rank_f = rank.values.tolist()
@@ -125,8 +119,6 @@ def cal_corr(target_id, group_user_rank):
     return group_user_rank
 
 #--- Before recommendation ---#
-
-
 def get_neighbor(group_user_rank):
     corr = pd.Series(group_user_rank['neighbors'][1]).rank(ascending=True)
     neighbor = corr.values.tolist()
@@ -134,8 +126,6 @@ def get_neighbor(group_user_rank):
     return group_user_rank
 
 #--- Solve case not regression ---#
-
-
 def re_get_main(data_main, target_id, user_data, trip_type, companion):
     target_data = user_data.loc[(user_data['user_id'] == target_id) & (
         user_data['trip_type'] == trip_type) & (user_data['companion'] == companion)]
@@ -176,8 +166,6 @@ def re_get_main(data_main, target_id, user_data, trip_type, companion):
     return data_out, buff_data
 
 #--- Part recommendation ---#
-
-
 def prediction_rating(dataset, data_frame, **kwargs):
     data_frame = weight_neighbors(data_frame)
     data_rec = pd.DataFrame()
@@ -218,12 +206,10 @@ def prediction_rating(dataset, data_frame, **kwargs):
         data={'hotel_name': result1, 'predict_rating': result2})
     return hotel_rec
 
-
 def recommendation(target_id, data_rec, top_k):
     topk_hotels = data_rec.sort_values(
         by=('predict_rating'), ascending=False).head(top_k)
     return topk_hotels['hotel_name']
-
 
 def weight_neighbors(data_frame):
     scale = preprocessing.MinMaxScaler(feature_range=(0.1, 1))
