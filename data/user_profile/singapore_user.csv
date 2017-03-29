@@ -1,0 +1,889 @@
+﻿user_id,hotel_name,rating,price,trip_type,companion
+,5footway.inn Project Ann Siang,4,0.008646241,leisure,solo
+,5footway.inn Project Ann Siang,4,0.008646241,business,solo
+,5footway.inn Project Boat Quay,3,0.042985573,business,family
+,5footway.inn Project Boat Quay,3,0.045392765,business,friend
+,5footway.inn Project Boat Quay,3,0.007041446,leisure,solo
+,5footway.inn Project Boat Quay,3,0.042985573,leisure,family
+,5footway.inn Project Boat Quay,3,0.045392765,leisure,friend
+,5footway.inn Project Boat Quay,3,0.007041446,business,solo
+,5footway.inn Project Chinatown 1,3,0.006239049,leisure,solo
+,5footway.inn Project Chinatown 1,3,0.042952822,business,family
+,5footway.inn Project Chinatown 1,3,0.006239049,business,solo
+,5footway.inn Project Chinatown 2,3,0.042985573,business,family
+,60s hostel,4,0.059688539,business,couple
+,60s hostel,4,0.059688539,leisure,couple
+,7 Wonders Boutique Capsule,4,0.121014623,leisure,family
+,7 Wonders Boutique Capsule,4,0.005764161,leisure,solo
+,7 Wonders Boutique Capsule,4,0.121014623,business,family
+,85 Beach Garden Hotel,3,0.027183258,business,family
+,85 Beach Garden Hotel,3,0.025955098,business,couple
+,85 Beach Garden Hotel,3,0.025955098,leisure,solo
+,85 Beach Garden Hotel,3,0.025955098,business,solo
+,85 Beach Garden Hotel,3,0.025955098,leisure,couple
+,ABC Premium Hostel,4,0.018799024,leisure,couple
+,ABC Premium Hostel,4,0.018799024,business,couple
+,ABC Premium Hostel,4,0.004486875,leisure,solo
+,ABC Premium Hostel,4,0.004486875,business,solo
+,AMOY by Far East Hospitality,5,0.215042494,business,friend
+,AMOY by Far East Hospitality,5,0.215042494,leisure,friend
+,Adamson Inn,4,0.009808898,business,solo
+,Adamson Inn,4,0.049453879,business,family
+,Adamson Inn,4,0.009808898,leisure,solo
+,Aljunied@SG,3,0.018799024,business,couple
+,Aljunied@SG,3,0.030654855,leisure,friend
+,Aljunied@SG,3,0.018799024,leisure,couple
+,Amara Sanctuary Resort Sentosa,3.5,0.180293776,business,family
+,Amara Sanctuary Resort Sentosa,3.5,0.095861922,business,couple
+,Amara Sanctuary Resort Sentosa,3.5,0.180293776,leisure,family
+,Amara Sanctuary Resort Sentosa,3.5,0.095861922,leisure,couple
+,Amara Singapore,4,0.088296461,business,family
+,Amara Singapore,4,0.064797681,leisure,solo
+,Amara Singapore,4,0.064797681,business,solo
+,Amara Singapore,4,0.064797681,business,couple
+,Ambassador Transit Hotel - Terminal 2,4,0.039235594,leisure,couple
+,Ambassador Transit Hotel - Terminal 2,4,0.016752092,leisure,solo
+,Ambassador Transit Hotel - Terminal 2,4,0.039235594,business,couple
+,Amber Hotel Katong,4,0.031064241,business,solo
+,Amber Hotel Katong,4,0.031064241,leisure,solo
+,Amrise Hotel,2,0.011986834,business,solo
+,Amrise Hotel,2,0.011986834,leisure,couple
+,Amrise Hotel,2,0.011986834,business,couple
+,Aqueen Heritage Hotel Joo Chiat,4,0.076031244,leisure,friend
+,Aqueen Heritage Hotel Joo Chiat,4,0.035158105,business,solo
+,Aqueen Heritage Hotel Joo Chiat,4,0.076031244,business,friend
+,Aqueen Heritage Hotel Joo Chiat,4,0.035158105,leisure,solo
+,Aqueen Hotel Balestier,4,0.034126451,business,couple
+,Aqueen Hotel Balestier,4,0.034126451,leisure,couple
+,Aqueen Hotel Balestier,4,0.024923445,leisure,solo
+,Aqueen Hotel Balestier,4,0.024923445,business,solo
+,Aqueen Hotel Paya Lebar,4,0.100561678,business,family
+,Aqueen Hotel Paya Lebar,4,0.100561678,leisure,family
+,Aqueen Hotel Paya Lebar,4,0.047423322,leisure,couple
+,Aqueen Hotel Paya Lebar,4,0.047423322,business,couple
+,Aqueen Jalan Besar Hotel,3,0.048242095,business,solo
+,Aqueen Jalan Besar Hotel,3,0.048242095,leisure,couple
+,Aqueen Jalan Besar Hotel,3,0.048242095,business,couple
+,Aqueen Jalan Besar Hotel,3,0.055594675,leisure,family
+,Aqueen Jalan Besar Hotel,3,0.055594675,business,family
+,Arena Suites,3,0.071134983,leisure,couple
+,Arena Suites,3,0.147985,leisure,friend
+,Arena Suites,3,0.147985,business,friend
+,Arena Suites,3,0.071134983,business,family
+,Arena Suites,3,0.071134983,business,solo
+,Arena Suites,3,0.071134983,leisure,solo
+,Arena Suites,3,0.071134983,business,couple
+,Arianna Hotel,1.5,0.02043657,leisure,couple
+,Arianna Hotel,1.5,0.046604549,leisure,friend
+,Arianna Hotel,1.5,0.046604549,business,friend
+,Ark Hostel,4.5,0.043329458,business,family
+,Arton Boutique Hotel,4,0.038040185,leisure,solo
+,Arton Boutique Hotel,4,0.038040185,business,solo
+,Ascott Orchard Singapore,5,0.300899013,business,friend
+,Ascott Orchard Singapore,5,0.12019585,business,couple
+,Ascott Orchard Singapore,5,0.300899013,leisure,friend
+,Ascott Raffles Place Singapore,5,0.321335582,leisure,friend
+,Ascott Raffles Place Singapore,5,0.321335582,business,friend
+,Asphodel Inn,3,0.027265135,leisure,couple
+,Asphodel Inn,3,0.027265135,business,couple
+,Asphodel Inn,3,0.027265135,business,solo
+,Backpackers@SG,4,0.012265217,leisure,couple
+,Backpackers@SG,4,0.012265217,business,couple
+,Backpackers@SG,4,0.038416821,business,family
+,Backpackers@SG,4,0.038416821,business,friend
+,Backpackers@SG,4,0.038416821,leisure,friend
+,Bay Hotel Singapore,4,0.082172041,leisure,family
+,Bay Hotel Singapore,4,0.0645848,business,solo
+,Bay Hotel Singapore,4,0.0645848,leisure,solo
+,Bay Hotel Singapore,4,0.082172041,business,family
+,Beach Hotel Singapore,3,0.032226898,leisure,couple
+,Beach Hotel Singapore,3,0.032226898,business,couple
+,Beary Best! by a beary good hostel,4,0.031146118,leisure,couple
+,Beary Best! by a beary good hostel,4,0.031146118,business,couple
+,Beds and Dreams Inn @ Chinatown 1,4,0.061309709,leisure,friend
+,Beds and Dreams Inn @ Chinatown 1,4,0.061309709,business,friend
+,Beds and Dreams Inn @ Chinatown 1,4,0.061309709,business,couple
+,Betel Box Backpackers Hostel,4,0.002439943,leisure,solo
+,Betel Box Backpackers Hostel,4,0.002439943,business,solo
+,Betel Box Backpackers Hostel,4,0.010627671,business,couple
+,Blanc Inn,4,0.016113449,leisure,solo
+,Blanc Inn,4,0.016113449,business,solo
+,Bliss Hotel Singapore,4,0.112712267,leisure,friend
+,Bliss Hotel Singapore,4,0.112712267,business,friend
+,Blissful Loft,3,0.016129825,business,couple
+,Blissful Loft,3,0.016129825,leisure,couple
+,Box Capsule Hostel,4,0.047996463,leisure,friend
+,Box Capsule Hostel,4,0.00825323,leisure,solo
+,Box Capsule Hostel,4,0.047996463,business,friend
+,Bright Star Hotel,3,0.024841567,business,solo
+,Bright Star Hotel,3,0.024841567,leisure,solo
+,Bunc Hostel,4,0.020174562,business,couple
+,Bunc Hostel,4,0.020174562,leisure,couple
+,Bunc Hostel,4,0.003618976,business,solo
+,Bunc Hostel,4,0.003618976,leisure,solo
+,Bunc Hostel,4,0.05759248,business,family
+,Burrow Hostel @ Smith,4.5,0.01650646,business,couple
+,Burrow Hostel @ Smith,4.5,0.043493212,business,friend
+,Burrow Hostel @ Smith,4.5,0.01650646,leisure,couple
+,Burrow Hostel @ Smith,4.5,0.043493212,leisure,friend
+,Carlton City Hotel Singapore,5,0.161887763,business,family
+,Carlton Hotel Singapore,5,0.10260861,business,family
+,Central 65 Hostel,3,0.004077489,business,solo
+,Central 65 Hostel,3,0.076031244,leisure,couple
+,Central 65 Hostel,3,0.076031244,business,couple
+,Central 65 Hostel,3,0.004077489,leisure,solo
+,Champion Hotel,4,0.068089148,business,friend
+,Champion Hotel,4,0.068089148,leisure,friend
+,Champion Hotel,4,0.024677813,business,solo
+,Champion Hotel,4,0.024677813,leisure,solo
+,Changi Cove,4,0.038416821,business,solo
+,Changi Cove,4,0.038416821,leisure,solo
+,Changi Cove,4,0.082581427,business,friend
+,Checkers Backpackers,3,0.038416821,business,friend
+,Checkers Backpackers,3,0.030245468,business,couple
+,Checkers Backpackers,3,0.030245468,leisure,couple
+,Checkers Backpackers,3,0.038416821,leisure,friend
+,Chinatown Hotel,3,0.048536853,leisure,family
+,Chinatown Hotel,3,0.048536853,business,family
+,Chinatown Hotel,3,0.037679925,leisure,couple
+,Chinatown Hotel,3,0.037679925,business,couple
+,City Backpackers @ Hongkong Street,3,0.001375538,business,solo
+,City Backpackers @ Hongkong Street,3,0.001375538,leisure,solo
+,City Backpackers @ Hongkong Street,3,0.034257455,business,friend
+,City Backpackers @ Hongkong Street,3,0.034257455,leisure,friend
+,Classique Hotel,3,0.02205774,leisure,couple
+,Classique Hotel,3,0.02205774,business,couple
+,Copthorne King's Hotel,4,0.091571553,leisure,family
+,Copthorne King's Hotel,4,0.062292236,leisure,solo
+,Copthorne King's Hotel,4,0.091571553,business,family
+,Copthorne King's Hotel,4,0.062292236,business,solo
+,Coziee Lodge,4,0.022811011,leisure,friend
+,Coziee Lodge,4,0.022811011,business,friend
+,Coziee Lodge,4,0.008531613,business,couple
+,Coziee Lodge,4,0.001408289,leisure,solo
+,Coziee Lodge,4,0.008531613,leisure,couple
+,Coziee Lodge,4,0.001408289,business,solo
+,D'Kranji Farm Resort,3,0.116920759,leisure,friend
+,D'Kranji Farm Resort,3,0.055594675,business,solo
+,D'Kranji Farm Resort,3,0.116920759,business,friend
+,D'Kranji Farm Resort,3,0.055594675,leisure,solo
+,D'Resort @ Downtown East,4,0.059279152,leisure,family
+,D'Resort @ Downtown East,4,0.059279152,business,family
+,D'Resort @ Downtown East,4,0.067859892,leisure,friend
+,Days Hotel Singapore at Zhongshan Park,4,0.046391668,business,solo
+,Days Hotel Singapore at Zhongshan Park,4,0.046391668,leisure,couple
+,Days Hotel Singapore at Zhongshan Park,4,0.046391668,business,couple
+,Days Hotel Singapore at Zhongshan Park,4,0.046391668,leisure,solo
+,Dorsett Singapore,4,0.074393699,leisure,solo
+,Dorsett Singapore,4,0.074393699,business,solo
+,Dorsett Singapore,4,0.204824209,business,friend
+,Dorsett Singapore,4,0.204824209,leisure,friend
+,Dream Lodge,5,0.053957129,leisure,friend
+,Dream Lodge,5,0.053957129,business,friend
+,Five Stones Hostel,4,0.029017309,leisure,couple
+,Five Stones Hostel,4,0.029017309,business,couple
+,"Footprints Hostel, Singapore",4,0.038416821,leisure,couple
+,"Footprints Hostel, Singapore",4,0.003258716,business,solo
+,"Footprints Hostel, Singapore",4,0.038416821,business,couple
+,"Footprints Hostel, Singapore",4,0.003258716,leisure,solo
+,Fort Canning Lodge,3,0.053858876,leisure,solo
+,Fort Canning Lodge,3,0.053858876,business,solo
+,"Four Points by Sheraton Singapore, Riverview",4,0.054775902,business,solo
+,Four Seasons Hotel Singapore,5,0.204414823,leisure,family
+,Four Seasons Hotel Singapore,5,0.204414823,business,family
+,Fragrance Hotel - Balestier,3.5,0.035927751,leisure,family
+,Fragrance Hotel - Balestier,3.5,0.025512961,business,solo
+,Fragrance Hotel - Balestier,3.5,0.025512961,business,couple
+,Fragrance Hotel - Balestier,3.5,0.056740957,business,friend
+,Fragrance Hotel - Balestier,3.5,0.025512961,leisure,solo
+,Fragrance Hotel - Balestier,3.5,0.025512961,leisure,couple
+,Fragrance Hotel - Balestier,3.5,0.056740957,leisure,friend
+,Fragrance Hotel - Balestier,3.5,0.035927751,business,family
+,Fragrance Hotel - Bugis,3,0.0304911,leisure,solo
+,Fragrance Hotel - Bugis,3,0.042559811,business,family
+,Fragrance Hotel - Bugis,3,0.0304911,business,solo
+,Fragrance Hotel - Bugis,3,0.066697234,business,friend
+,Fragrance Hotel - Classic,3,0.030572977,leisure,solo
+,Fragrance Hotel - Classic,3,0.030572977,business,couple
+,Fragrance Hotel - Classic,3,0.030572977,business,solo
+,Fragrance Hotel - Classic,3,0.030572977,business,family
+,Fragrance Hotel - Crystal,3,0.028280413,business,family
+,Fragrance Hotel - Crystal,3,0.051730067,business,friend
+,Fragrance Hotel - Crystal,3,0.028280413,leisure,family
+,Fragrance Hotel - Crystal,3,0.021468223,leisure,couple
+,Fragrance Hotel - Crystal,3,0.021468223,business,couple
+,Fragrance Hotel - Crystal,3,0.021468223,leisure,solo
+,Fragrance Hotel - Crystal,3,0.051730067,leisure,friend
+,Fragrance Hotel - Crystal,3,0.021468223,business,solo
+,Fragrance Hotel - Emerald,3,0.066418851,business,friend
+,Fragrance Hotel - Emerald,3,0.030343721,business,couple
+,Fragrance Hotel - Emerald,3,0.030343721,leisure,couple
+,Fragrance Hotel - Imperial,3,0.033094798,business,solo
+,Fragrance Hotel - Imperial,3,0.046031408,business,family
+,Fragrance Hotel - Imperial,3,0.033094798,business,couple
+,Fragrance Hotel - Imperial,3,0.033094798,leisure,couple
+,Fragrance Hotel - Imperial,3,0.033094798,leisure,solo
+,Fragrance Hotel - Kovan,2.5,0.043558714,leisure,couple
+,Fragrance Hotel - Kovan,2.5,0.043558714,business,couple
+,Fragrance Hotel - Kovan,2.5,0.092848838,leisure,friend
+,Fragrance Hotel - Kovan,2.5,0.092848838,business,friend
+,Fragrance Hotel - Kovan,2.5,0.043558714,business,solo
+,Fragrance Hotel - Lavender,2,0.051206052,business,family
+,Fragrance Hotel - Lavender,2,0.108143515,business,friend
+,Fragrance Hotel - Lavender,2,0.108143515,leisure,friend
+,Fragrance Hotel - Lavender,2,0.051206052,business,solo
+,Fragrance Hotel - Oasis,3,0.032488906,leisure,family
+,Fragrance Hotel - Oasis,3,0.022925639,business,solo
+,Fragrance Hotel - Oasis,3,0.022925639,leisure,solo
+,Fragrance Hotel - Ocean View,3,0.047390571,leisure,couple
+,Fragrance Hotel - Ocean View,3,0.047390571,business,couple
+,Fragrance Hotel - Ocean View,3,0.047390571,business,solo
+,Fragrance Hotel - Ocean View,3,0.047390571,leisure,solo
+,Fragrance Hotel - Riverside,3,0.038302193,leisure,couple
+,Fragrance Hotel - Riverside,3,0.052974602,business,family
+,Fragrance Hotel - Riverside,3,0.038302193,business,solo
+,Fragrance Hotel - Riverside,3,0.038302193,business,couple
+,Fragrance Hotel - Riverside,3,0.038302193,leisure,solo
+,Fragrance Hotel - Royal,3,0.034110076,business,solo
+,Fragrance Hotel - Royal,3,0.034110076,business,couple
+,Fragrance Hotel - Royal,3,0.034110076,leisure,couple
+,Fragrance Hotel - Royal,3,0.034110076,leisure,solo
+,Fragrance Hotel - Royal,3,0.047390571,business,family
+,Fragrance Hotel - Ruby,3,0.019634172,business,solo
+,Fragrance Hotel - Ruby,3,0.019634172,business,couple
+,Fragrance Hotel - Ruby,3,0.025987849,business,family
+,Fragrance Hotel - Ruby,3,0.019634172,leisure,solo
+,Fragrance Hotel - Ruby,3,0.019634172,leisure,couple
+,Fragrance Hotel - Viva,3,0.047390571,leisure,solo
+,Fragrance Hotel - Viva,3,0.047390571,business,solo
+,Fragrance Hotel - Waterfront,3,0.034110076,business,couple
+,Fragrance Hotel - Waterfront,3,0.034110076,leisure,solo
+,Fragrance Hotel - Waterfront,3,0.034110076,leisure,couple
+,Furama City Centre,4,0.089098859,business,family
+,Furama City Centre,4,0.132100807,leisure,friend
+,Furama City Centre,4,0.132100807,business,friend
+,Furama RiverFront,4,0.060998575,leisure,solo
+,Furama RiverFront,4,0.060998575,business,solo
+,Furama RiverFront,4,0.060998575,leisure,couple
+,G4 Station Backpackers' Hostel,4,0.042101299,business,family
+,G4 Station Backpackers' Hostel,4,0.042101299,leisure,family
+,Genting Hotel Jurong,3.5,0.064175414,business,solo
+,Genting Hotel Jurong,3.5,0.064175414,leisure,solo
+,Genting Hotel Jurong,3.5,0.064175414,business,couple
+,Genting Hotel Jurong,3.5,0.064175414,leisure,couple
+,Golden Royal Hotel,3,0.034208329,business,solo
+,Golden Royal Hotel,3,0.046375293,business,family
+,Golden Royal Hotel,3,0.034208329,leisure,solo
+,Grand Copthorne Waterfront,4,0.100561678,business,family
+,Grand Copthorne Waterfront,4,0.100561678,leisure,family
+,Grand Copthorne Waterfront,4,0.164344081,leisure,friend
+,Grand Copthorne Waterfront,4,0.079306336,leisure,solo
+,Grand Copthorne Waterfront,4,0.164344081,business,friend
+,Grand Copthorne Waterfront,4,0.079306336,business,solo
+,Grand Hyatt Singapore,4,0.190512061,business,family
+,Grand Hyatt Singapore,4,0.157810274,leisure,couple
+,Grand Hyatt Singapore,4,0.190512061,leisure,family
+,Grand Hyatt Singapore,4,0.157810274,business,couple
+,Grand Mercure Singapore Roxy,4,0.117330146,business,friend
+,Grand Mercure Singapore Roxy,4,0.05579118,leisure,solo
+,Grand Mercure Singapore Roxy,4,0.117330146,leisure,friend
+,Grand Mercure Singapore Roxy,4,0.05579118,business,solo
+,Grand Park City Hall,3,0.110779963,leisure,couple
+,Grand Park City Hall,3,0.163934695,business,family
+,Grand Park City Hall,3,0.245697349,business,friend
+,Grand Park City Hall,3,0.110779963,business,couple
+,Grand Park City Hall,3,0.245697349,leisure,friend
+,Grand Park Orchard,4,0.237525996,business,friend
+,Grand Park Orchard,4,0.115905481,leisure,couple
+,Grand Park Orchard,4,0.115905481,business,couple
+,Grand Park Orchard,4,0.237525996,leisure,friend
+,Grand Park Orchard,4,0.115905481,business,solo
+,Harbour Ville Hotel,3,0.064437421,business,friend
+,Harbour Ville Hotel,3,0.029344818,business,couple
+,Harbour Ville Hotel,3,0.064437421,leisure,friend
+,Harbour Ville Hotel,3,0.029344818,leisure,couple
+,Hilton Singapore,4,0.119377078,leisure,couple
+,Hilton Singapore,4,0.119377078,business,couple
+,Hilton Singapore,4,0.112417509,leisure,solo
+,Hilton Singapore,4,0.112417509,business,solo
+,Holiday Inn Express Singapore Orchard Road,4,0.185599424,business,family
+,Holiday Inn Express Singapore Orchard Road,4,0.089934007,leisure,solo
+,Holiday Inn Express Singapore Orchard Road,4,0.089934007,business,solo
+,Holiday Inn Singapore Atrium,4,0.0645848,business,couple
+,Holiday Inn Singapore Atrium,4,0.0645848,leisure,solo
+,Holiday Inn Singapore Atrium,4,0.0645848,leisure,couple
+,Holiday Inn Singapore Atrium,4,0.0645848,business,solo
+,Holiday Inn Singapore Orchard City Centre,5,0.091162166,leisure,solo
+,Holiday Inn Singapore Orchard City Centre,5,0.091162166,business,solo
+,Hornbill Hotel,2,0.039235594,business,friend
+,Hornbill Hotel,2,0.016752092,leisure,couple
+,Hornbill Hotel,2,0.039235594,leisure,friend
+,Hotel 165,2,0.035158105,leisure,couple
+,Hotel 165,2,0.076031244,leisure,friend
+,Hotel 165,2,0.076031244,business,friend
+,Hotel 1929,4,0.042920071,business,solo
+,Hotel 1929,4,0.042920071,leisure,solo
+,Hotel 81 - Premier Star,3,0.023793538,leisure,solo
+,Hotel 81 - Premier Star,3,0.023793538,business,solo
+,Hotel 81 Balestier,3,0.028657049,business,solo
+,Hotel 81 Balestier,3,0.063045507,business,family
+,Hotel 81 Balestier,3,0.028657049,leisure,solo
+,Hotel 81 Changi,3,0.028657049,leisure,couple
+,Hotel 81 Changi,3,0.063045507,business,family
+,Hotel 81 Changi,3,0.063045507,leisure,family
+,Hotel 81 Changi,3,0.028657049,business,couple
+,Hotel 81 Chinatown,3,0.035600242,leisure,couple
+,Hotel 81 Chinatown,3,0.035600242,business,couple
+,Hotel 81 Classic,3,0.028657049,leisure,solo
+,Hotel 81 Classic,3,0.028657049,business,solo
+,Hotel 81 Classic,3,0.042559811,business,family
+,Hotel 81 Cosy,3,0.035600242,leisure,couple
+,Hotel 81 Cosy,3,0.035600242,business,solo
+,Hotel 81 Cosy,3,0.07694827,business,friend
+,Hotel 81 Cosy,3,0.035600242,business,couple
+,Hotel 81 Cosy,3,0.07694827,leisure,friend
+,Hotel 81 Dickson,3,0.032128646,business,solo
+,Hotel 81 Dickson,3,0.032128646,business,couple
+,Hotel 81 Dickson,3,0.032128646,leisure,solo
+,Hotel 81 Elegance,3,0.056102314,leisure,family
+,Hotel 81 Elegance,3,0.056102314,business,family
+,Hotel 81 Gold,4,0.053318486,leisure,family
+,Hotel 81 Gold,4,0.053318486,business,family
+,Hotel 81 Gold,4,0.023793538,business,couple
+,Hotel 81 Heritage,3,0.035600242,leisure,couple
+,Hotel 81 Heritage,3,0.035600242,business,couple
+,Hotel 81 Lucky,3,0.02205774,leisure,couple
+,Hotel 81 Lucky,3,0.02205774,business,couple
+,Hotel 81 Lucky,3,0.02205774,leisure,solo
+,Hotel 81 Lucky,3,0.02205774,business,solo
+,Hotel 81 Osaka,3,0.07694827,business,friend
+,Hotel 81 Osaka,3,0.07694827,business,family
+,Hotel 81 Osaka,3,0.07694827,leisure,family
+,Hotel 81 Osaka,3,0.035600242,business,solo
+,Hotel 81 Osaka,3,0.035600242,leisure,solo
+,Hotel 81 Osaka,3,0.035600242,business,couple
+,Hotel 81 Osaka,3,0.035600242,leisure,couple
+,Hotel 81 Palace,3,0.02205774,business,solo
+,Hotel 81 Palace,3,0.02205774,business,couple
+,Hotel 81 Palace,3,0.02205774,leisure,solo
+,Hotel 81 Palace,3,0.02205774,leisure,couple
+,Hotel 81 Premier Hollywood,3,0.053318486,business,family
+,Hotel 81 Premier Hollywood,3,0.023793538,leisure,solo
+,Hotel 81 Premier Hollywood,3,0.023793538,business,couple
+,Hotel 81 Premier Hollywood,3,0.023793538,leisure,couple
+,Hotel 81 Premier Hollywood,3,0.053318486,business,friend
+,Hotel 81 Premier Hollywood,3,0.053318486,leisure,family
+,Hotel 81 Premier Hollywood,3,0.023793538,business,solo
+,Hotel 81 Premier Hollywood,3,0.053318486,leisure,friend
+,Hotel 81 Princess,3,0.02205774,business,couple
+,Hotel 81 Princess,3,0.02205774,leisure,couple
+,Hotel 81 Rochor,3,0.032128646,leisure,solo
+,Hotel 81 Rochor,3,0.032128646,business,couple
+,Hotel 81 Rochor,3,0.032128646,business,solo
+,Hotel 81 Rochor,3,0.032128646,leisure,couple
+,Hotel 81 Sakura,3,0.025185452,leisure,couple
+,Hotel 81 Sakura,3,0.025185452,business,couple
+,Hotel 81 Sakura,3,0.039088215,leisure,family
+,Hotel 81 Sakura,3,0.056102314,leisure,friend
+,Hotel 81 Sakura,3,0.039088215,business,family
+,Hotel 81 Sakura,3,0.025185452,leisure,solo
+,Hotel 81 Sakura,3,0.025185452,business,solo
+,Hotel 81 Sakura,3,0.056102314,business,friend
+,Hotel 81 Selegie,3,0.032128646,leisure,couple
+,Hotel 81 Selegie,3,0.032128646,business,solo
+,Hotel 81 Selegie,3,0.032128646,business,couple
+,Hotel 81 Tristar,3,0.042559811,leisure,family
+,Hotel 81 Tristar,3,0.069988701,business,friend
+,Hotel 81 Tristar,3,0.032128646,leisure,couple
+,Hotel 81 Tristar,3,0.069988701,leisure,friend
+,Hotel 81 Tristar,3,0.032128646,business,couple
+,Hotel 81 Tristar,3,0.042559811,business,family
+,Hotel Bencoolen Singapore,3,0.088296461,leisure,family
+,Hotel Bencoolen Singapore,3,0.030098089,business,couple
+,Hotel Bencoolen Singapore,3,0.030098089,leisure,solo
+,Hotel Bencoolen Singapore,3,0.088296461,business,family
+,Hotel Bencoolen Singapore,3,0.030098089,leisure,couple
+,Hotel Chancellor@Orchard,3,0.097843352,leisure,family
+,Hotel Chancellor@Orchard,3,0.051500811,business,couple
+,Hotel Chancellor@Orchard,3,0.051500811,leisure,solo
+,Hotel Chancellor@Orchard,3,0.051500811,leisure,couple
+,Hotel Chancellor@Orchard,3,0.097843352,business,family
+,Hotel Clover 33 Jalan Sultan,4,0.044311985,leisure,couple
+,Hotel Clover 33 Jalan Sultan,4,0.149622546,leisure,friend
+,Hotel Clover 33 Jalan Sultan,4,0.149622546,business,friend
+,Hotel Clover 33 Jalan Sultan,4,0.071953756,business,family
+,Hotel Clover 33 Jalan Sultan,4,0.044311985,business,couple
+,Hotel Clover 5 HongKong Street,4,0.042920071,business,solo
+,Hotel Clover 5 HongKong Street,4,0.042920071,leisure,solo
+,Hotel Clover 7,4,0.044639494,business,couple
+,Hotel Clover 7,4,0.044639494,leisure,couple
+,Hotel Conforto,3,0.035158105,leisure,couple
+,Hotel Conforto,3,0.035158105,business,couple
+,Hotel Fort Canning,5,0.211767403,business,friend
+,Hotel Fort Canning,5,0.211767403,leisure,friend
+,Hotel Fort Canning,5,0.211767403,business,family
+,Hotel Fort Canning,5,0.211767403,leisure,family
+,Hotel Indigo Singapore Katong,5,0.135719783,leisure,friend
+,Hotel Indigo Singapore Katong,5,0.135719783,business,friend
+,Hotel Jen Orchardgateway Singapore by Shangri-La,5,0.181931321,business,friend
+,Hotel Jen Orchardgateway Singapore by Shangri-La,5,0.181931321,leisure,friend
+,Hotel Jen Orchardgateway Singapore by Shangri-La,5,0.165981627,business,family
+,Hotel Jen Tanglin Singapore by Shangri-la,4.5,0.13327984,leisure,family
+,Hotel Jen Tanglin Singapore by Shangri-la,4.5,0.13327984,business,family
+,Hotel Kai,4,0.03964498,business,solo
+,Hotel Kai,4,0.182340708,leisure,friend
+,Hotel Kai,4,0.182340708,business,friend
+,Hotel Kai,4,0.043329458,business,couple
+,Hotel Kai,4,0.043329458,leisure,couple
+,Hotel NuVe,4,0.025594838,leisure,solo
+,Hotel NuVe,4,0.025594838,business,solo
+,Hotel NuVe Heritage,4.5,0.078536689,business,family
+,Hotel Royal,3,0.116920759,leisure,friend
+,Hotel Royal,3,0.116920759,business,friend
+,Hotel Royal,3,0.055594675,business,solo
+,Hotel Royal @ Queens,3.5,0.106702474,leisure,family
+,Hotel Royal @ Queens,3.5,0.067254,business,solo
+,Hotel Royal @ Queens,3.5,0.067254,leisure,couple
+,Hotel Royal @ Queens,3.5,0.067254,leisure,solo
+,Hotel Royal @ Queens,3.5,0.067254,business,couple
+,Hotel Royal @ Queens,3.5,0.147166227,business,friend
+,Hotel Royal @ Queens,3.5,0.106702474,business,family
+,Hotel Yan,4,0.040463753,business,couple
+,Hotel Yan,4,0.040463753,leisure,couple
+,Hotel Yan,4,0.035600242,leisure,solo
+,Hotel Yan,4,0.06026168,business,family
+,Hotel Yan,4,0.035600242,business,solo
+,Ibis Singapore Novena,3,0.039235594,business,solo
+,Ibis Singapore Novena,3,0.039235594,leisure,solo
+,Ibis Singapore on Bencoolen,4,0.088460216,leisure,friend
+,Ibis Singapore on Bencoolen,4,0.041364403,business,solo
+,Ibis Singapore on Bencoolen,4,0.041364403,leisure,couple
+,Ibis Singapore on Bencoolen,4,0.088460216,business,friend
+,Ibis Singapore on Bencoolen,4,0.041364403,leisure,solo
+,Ibis Styles Singapore On Macpherson,3.5,0.051500811,business,family
+,J8 Hotel,3,0.088050829,business,friend
+,J8 Hotel,3,0.037679925,business,solo
+,J8 Hotel,3,0.041167898,leisure,family
+,J8 Hotel,3,0.088050829,leisure,friend
+,J8 Hotel,3,0.037679925,leisure,solo
+,J8 Hotel,3,0.041167898,business,couple
+,Jayleen 1918,3,0.044639494,business,solo
+,Jayleen 1918,3,0.044639494,leisure,solo
+,Jayleen 1918,3,0.044639494,business,family
+,Jinshan Hotel,3,0.034290206,leisure,solo
+,Jinshan Hotel,3,0.043656967,business,couple
+,Jinshan Hotel,3,0.034290206,business,solo
+,Jinshan Hotel,3,0.043656967,leisure,couple
+,Joyfor Backpackers' Hostel,4,0.002439943,business,solo
+,Joyfor Backpackers' Hostel,4,0.002439943,leisure,solo
+,Kam Leng Hotel by JL Asia,3,0.026642868,leisure,couple
+,Kam Leng Hotel by JL Asia,3,0.059033521,leisure,friend
+,Kam Leng Hotel by JL Asia,3,0.026642868,business,couple
+,Kam Leng Hotel by JL Asia,3,0.026642868,business,solo
+,Kam Leng Hotel by JL Asia,3,0.059033521,business,friend
+,Kam Leng Hotel by JL Asia,3,0.026642868,leisure,solo
+,Kawan Hostel,3,0.000163755,leisure,solo
+,Kawan Hostel,3,0.000163755,business,solo
+,Le Peranakan Hotel,2,0.018799024,business,solo
+,Le Peranakan Hotel,2,0.026970377,business,couple
+,Le Peranakan Hotel,2,0.026970377,leisure,couple
+,Lemon Grass Hotel,3,0.024923445,business,family
+,Lloyd's Inn,4.5,0.059688539,leisure,family
+,Lloyd's Inn,4.5,0.059688539,business,family
+,M Social Singapore,4,0.075621858,business,couple
+,M Social Singapore,4,0.156991501,leisure,friend
+,M Social Singapore,4,0.156991501,business,friend
+,Mandarin Orchard Singapore,4,0.100610805,business,couple
+,Mandarin Orchard Singapore,4,0.100610805,business,solo
+,Mandarin Orchard Singapore,4,0.132870454,business,family
+,Mandarin Orchard Singapore,4,0.100610805,leisure,solo
+,Mandarin Orchard Singapore,4,0.132870454,leisure,family
+,Mandarin Orchard Singapore,4,0.100610805,leisure,couple
+,Mandarin Orchard Singapore,4,0.246925508,business,friend
+,Maple Lodge @ Chinatown,4,0.008990126,leisure,couple
+,Maple Lodge @ Chinatown,4,0.008990126,business,couple
+,Marina Bay Sands,5,0.239163542,business,family
+,Marrison @ Desker,3,0.023809914,business,couple
+,Marrison @ Desker,3,0.023809914,leisure,couple
+,Marrison @ Desker,3,0.022418,business,solo
+,Marrison Hotel,3,0.032669036,leisure,solo
+,Marrison Hotel,3,0.032669036,business,solo
+,Marrison Hotel,3,0.032669036,leisure,couple
+,Marrison Hotel,3,0.039448475,business,family
+,Marrison Hotel,3,0.032669036,business,couple
+,May & May Hostel,3,0.003668102,business,solo
+,May & May Hostel,3,0.003668102,leisure,solo
+,Meadows Hostel,4,0.003258716,leisure,solo
+,Meadows Hostel,4,0.030245468,business,friend
+,Meadows Hostel,4,0.030245468,leisure,friend
+,Meadows Hostel,4,0.012265217,business,couple
+,Meadows Hostel,4,0.003258716,business,solo
+,Meadows Hostel,4,0.012265217,leisure,couple
+,Mercure Singapore Bugis,4,0.055758429,business,couple
+,Mercure Singapore Bugis,4,0.055758429,leisure,solo
+,Mercure Singapore Bugis,4,0.055758429,business,solo
+,Mitraa Inn,4,0.004077489,leisure,solo
+,Mitraa Inn,4,0.028280413,business,family
+,Mitraa Inn,4,0.028280413,leisure,couple
+,Mitraa Inn,4,0.028280413,leisure,family
+,Moni Gallery Hostel,3,0,leisure,solo
+,Moni Gallery Hostel,3,0,business,solo
+,Moni Gallery Hostel,3,0.023335025,leisure,couple
+,Moon 23 Hotel,3,0.082663304,business,family
+,Moon 23 Hotel,3,0.038465947,leisure,couple
+,Moon 23 Hotel,3,0.082663304,leisure,family
+,Moon 23 Hotel,3,0.038465947,business,solo
+,Moon 23 Hotel,3,0.038465947,leisure,solo
+,Moon 23 Hotel,3,0.038465947,business,couple
+,Nano Hostel,3,0.021910361,leisure,friend
+,Nano Hostel,3,0.021910361,business,friend
+,New Cape Inn,3,0.035158105,leisure,solo
+,New Cape Inn,3,0.055594675,business,family
+,New Cape Inn,3,0.076031244,business,friend
+,New Cape Inn,3,0.076031244,leisure,friend
+,New Cape Inn,3,0.035158105,business,solo
+,New Cape Inn,3,0.035158105,business,couple
+,New Cape Inn,3,0.035158105,leisure,couple
+,New Orchid Hotel,1,0.029000933,leisure,couple
+,New Orchid Hotel,1,0.063733277,business,friend
+,New Orchid Hotel,1,0.063733277,leisure,friend
+,New Society Backpackers Hostel,3,0.012134213,leisure,couple
+,New Society Backpackers Hostel,3,0.012134213,business,couple
+,Novotel Clarke Quay,4,0.091571553,business,family
+,Novotel Clarke Quay,4,0.087477688,leisure,couple
+,Novotel Clarke Quay,4,0.087477688,business,solo
+,Novotel Clarke Quay,4,0.087477688,business,couple
+,Novotel Clarke Quay,4,0.087477688,leisure,solo
+,Novotel Clarke Quay,4,0.091571553,leisure,family
+,"Oasia Hotel Novena, Singapore by Far East Hospitality",4.5,0.088296461,business,family
+,One Farrer Hotel & Spa,5,0.100561678,leisure,family
+,One Farrer Hotel & Spa,5,0.100561678,business,family
+,Orchard Parade Hotel by Far East Hospitality,4,0.088296461,business,family
+,Orchard Parade Hotel by Far East Hospitality,4,0.069497437,leisure,solo
+,Orchid Country Club,4,0.062947255,leisure,couple
+,Orchid Country Club,4,0.062947255,business,couple
+,PARKROYAL on Beach Road,4,0.070725596,business,solo
+,PARKROYAL on Beach Road,4,0.070725596,business,couple
+,PARKROYAL on Beach Road,4,0.070725596,leisure,solo
+,PARKROYAL on Beach Road,4,0.070725596,leisure,couple
+,PARKROYAL on Kitchener Road,4,0.141451193,business,friend
+,PARKROYAL on Kitchener Road,4,0.056413448,leisure,solo
+,PARKROYAL on Kitchener Road,4,0.13327984,business,family
+,PARKROYAL on Kitchener Road,4,0.056413448,business,solo
+,PARKROYAL on Kitchener Road,4,0.141451193,leisure,friend
+,PARKROYAL on Kitchener Road,4,0.13327984,leisure,family
+,Pan Pacific Orchard,4,0.114873827,business,family
+,Pan Pacific Orchard,4,0.235479064,leisure,friend
+,Parc Sovereign Hotel - Albert St,3,0.046080534,leisure,couple
+,Parc Sovereign Hotel - Albert St,3,0.063356641,business,family
+,Parc Sovereign Hotel - Albert St,3,0.046080534,business,couple
+,Parc Sovereign Hotel - Tyrwhitt,4,0.046080534,leisure,solo
+,Parc Sovereign Hotel - Tyrwhitt,4,0.063356641,business,family
+,Parc Sovereign Hotel - Tyrwhitt,4,0.046080534,business,solo
+,Park 22 Hotel Chinatown,3,0.106702474,business,family
+,Park 22 Hotel Chinatown,3,0.02403917,leisure,solo
+,Park 22 Hotel Chinatown,3,0.027952904,business,couple
+,Park 22 Hotel Chinatown,3,0.02403917,business,solo
+,Park 22 Hotel Chinatown,3,0.027952904,leisure,couple
+,Park 22 Hotel Little India,3,0.096484189,business,family
+,Park 22 Hotel Little India,3,0.037712676,leisure,couple
+,Park 22 Hotel Little India,3,0.037712676,business,couple
+,Park 22 Hotel Little India,3,0.096484189,leisure,friend
+,Park 22 Hotel Little India,3,0.096484189,business,friend
+,Park 22 Hotel Little India,3,0.02728151,business,solo
+,Park Avenue Changi,4,0.075212472,business,family
+,Park Avenue Changi,4,0.067122996,business,couple
+,Park Avenue Changi,4,0.075212472,leisure,family
+,Park Avenue Changi,4,0.067122996,leisure,solo
+,Park Avenue Changi,4,0.067122996,business,solo
+,Park Avenue Rochester,4,0.0834002,leisure,solo
+,Park Avenue Rochester,4,0.0834002,business,family
+,Park Avenue Rochester,4,0.0834002,business,solo
+,Park Hotel Alexandra,4.5,0.179065616,business,family
+,Park Hotel Alexandra,4.5,0.179065616,leisure,family
+,Park Hotel Clarke Quay,4,0.227307711,leisure,friend
+,Park Hotel Clarke Quay,4,0.227307711,business,friend
+,Park Hotel Clarke Quay,4,0.096811699,business,couple
+,Park Hotel Clarke Quay,4,0.096811699,leisure,solo
+,Park Hotel Clarke Quay,4,0.096811699,business,solo
+,Park View Hotel,3,0.034748719,leisure,solo
+,Park View Hotel,3,0.034748719,business,solo
+,Park View Hotel,3,0.096484189,leisure,friend
+,Park View Hotel,3,0.096484189,business,friend
+,Parkroyal on Pickering,5,0.21094863,leisure,family
+,Parkroyal on Pickering,5,0.21094863,business,family
+,Pasir Panjang Inn,3,0.035256358,leisure,couple
+,Pasir Panjang Inn,3,0.035256358,business,couple
+,Peninsula Excelsior Hotel,4,0.06689374,leisure,solo
+,Peninsula Excelsior Hotel,4,0.139535265,business,friend
+,Perak Hotel,3.5,0.03874433,leisure,couple
+,Perak Hotel,3.5,0.075212472,business,family
+,Perak Hotel,3.5,0.03874433,business,couple
+,Perak Hotel,3.5,0.075212472,leisure,family
+,Pillow Talk Hostel,3,0.058050993,leisure,friend
+,Pillow Talk Hostel,3,0.058050993,business,friend
+,Pillow Talk Hostel,3,0.004486875,leisure,solo
+,Pillow Talk Hostel,3,0.004486875,business,solo
+,Pine Hostel - By Just Inn,4,0.01290386,leisure,couple
+,Pine Hostel - By Just Inn,4,0.01290386,business,couple
+,Plush Pods,2.5,0.009808898,leisure,solo
+,Plush Pods,2.5,0.009808898,business,solo
+,Porcelain Hotel by JL Asia,3,0.037352416,leisure,couple
+,Porcelain Hotel by JL Asia,3,0.032488906,leisure,solo
+,Porcelain Hotel by JL Asia,3,0.032488906,business,solo
+,Porcelain Hotel by JL Asia,3,0.037352416,business,couple
+,Premier Inn Singapore Beach Road,4,0.047439697,business,solo
+,Premier Inn Singapore Beach Road,4,0.047439697,business,couple
+,Premier Inn Singapore Beach Road,4,0.047439697,leisure,solo
+,Quality Hotel Marlow,3,0.046080534,leisure,couple
+,Quality Hotel Marlow,3,0.046080534,business,couple
+,Quarters Hostel,4,0.050125272,leisure,family
+,Quarters Hostel,4,0.050125272,business,family
+,Quarters Hostel,4,0.006959569,business,solo
+,Quarters Hostel,4,0.050125272,business,friend
+,Quarters Hostel,4,0.050125272,leisure,friend
+,Quarters Hostel,4,0.006959569,leisure,solo
+,Raffles Singapore,5,0.648402574,business,friend
+,Raffles Singapore,5,0.648402574,leisure,friend
+,Raintr33 Hotel Singapore,3,0.104655542,business,friend
+,Raintr33 Hotel Singapore,3,0.104655542,leisure,friend
+,Regin Hotel,2.5,0.03247253,business,couple
+,Regin Hotel,2.5,0.03247253,leisure,couple
+,Rendezvous Hotel Singapore by Far East Hospitality,4,0.088296461,business,family
+,Rendezvous Hotel Singapore by Far East Hospitality,4,0.144726284,leisure,friend
+,Rendezvous Hotel Singapore by Far East Hospitality,4,0.144726284,business,friend
+,Resorts World Sentosa - Beach Villas,4.5,0.533938134,leisure,couple
+,Resorts World Sentosa - Beach Villas,4.5,0.533938134,business,couple
+,Resorts World Sentosa - Festive Hotel,3.5,0.110779963,business,solo
+,Resorts World Sentosa - Festive Hotel,3.5,0.110779963,leisure,solo
+,River City Inn,5,0.019650548,leisure,couple
+,River City Inn,5,0.019650548,business,couple
+,Robertson Quay Hotel,3,0.037188662,leisure,couple
+,Robertson Quay Hotel,3,0.035665744,business,solo
+,Robertson Quay Hotel,3,0.035665744,leisure,solo
+,Robertson Quay Hotel,3,0.037188662,business,couple
+,Royal Hostel Singapore,4,0.03319305,business,friend
+,Royal Hostel Singapore,4,0.003995611,business,solo
+,Royal Hostel Singapore,4,0.013722633,leisure,couple
+,Royal Hostel Singapore,4,0.03319305,leisure,friend
+,Royal Hostel Singapore,4,0.003995611,leisure,solo
+,Royal Plaza on Scotts,4.5,0.088296461,business,family
+,Royal Plaza on Scotts,4.5,0.174971752,leisure,friend
+,Royal Plaza on Scotts,4.5,0.174971752,business,friend
+,Rucksack Inn @ Lavender Street,4,0.003487972,business,solo
+,Rucksack Inn @ Lavender Street,4,0.003487972,leisure,solo
+,Rucksack Inn @ Lavender Street,4,0.062947255,business,friend
+,Rucksack Inn @ Lavender Street,4,0.062947255,leisure,friend
+,Rucksack Inn @ Lavender Street,4,0.031162494,business,couple
+,Rucksack Inn@Mackenzie,4,0.046146036,business,couple
+,Rucksack Inn@Mackenzie,4,0.030769483,business,solo
+,Rucksack Inn@Mackenzie,4,0.046146036,leisure,couple
+,Rucksack Inn@Mackenzie,4,0.030769483,leisure,solo
+,Rucksack Inn@Mackenzie,4,0.06581296,business,family
+,Santa Grand Hotel Bugis,3,0.029017309,business,solo
+,Santa Grand Hotel Bugis,3,0.040594757,business,family
+,Santa Grand Hotel Bugis,3,0.029017309,leisure,solo
+,Santa Grand Hotel Bugis,3,0.029017309,leisure,couple
+,Santa Grand Hotel Bugis,3,0.029017309,business,couple
+,Santa Grand Hotel East Coast,4,0.04393535,leisure,solo
+,Santa Grand Hotel East Coast,4,0.093618485,business,friend
+,Santa Grand Hotel East Coast,4,0.049453879,business,family
+,Santa Grand Hotel East Coast,4,0.093618485,leisure,friend
+,Santa Grand Hotel East Coast,4,0.049453879,leisure,family
+,Santa Grand Hotel East Coast,4,0.04393535,business,solo
+,Santa Grand Hotel Lai Chun Yuen,3,0.074148067,leisure,friend
+,Santa Grand Hotel Lai Chun Yuen,3,0.074148067,business,friend
+,Santa Grand Hotel Lai Chun Yuen,3,0.034208329,leisure,couple
+,Santa Grand Hotel Lai Chun Yuen,3,0.034208329,business,couple
+,Santa Grand Hotel Lai Chun Yuen,3,0.023793538,business,solo
+,Santa Grand Hotel Lai Chun Yuen,3,0.023793538,leisure,solo
+,Santa Grand Hotel Little India,3,0.032488906,leisure,couple
+,Santa Grand Hotel Little India,3,0.02728151,business,solo
+,Santa Grand Hotel Little India,3,0.02728151,leisure,solo
+,Santa Grand Hotel Little India,3,0.032488906,business,couple
+,Santa Grand Hotel West Coast,2.5,0.041184273,business,solo
+,Santa Grand Hotel West Coast,2.5,0.041184273,leisure,couple
+,Santa Grand Hotel West Coast,2.5,0.041184273,business,couple
+,Shangri-La's Rasa Sentosa Resort & Spa,5,0.382661667,business,friend
+,Shangri-La's Rasa Sentosa Resort & Spa,5,0.382661667,leisure,friend
+,Sheraton Towers Singapore Hotel,4,0.161887763,business,family
+,Sheraton Towers Singapore Hotel,4,0.104655542,leisure,couple
+,Sheraton Towers Singapore Hotel,4,0.215042494,leisure,friend
+,Sheraton Towers Singapore Hotel,4,0.104655542,leisure,solo
+,Sheraton Towers Singapore Hotel,4,0.104655542,business,couple
+,Sheraton Towers Singapore Hotel,4,0.104655542,business,solo
+,Sheraton Towers Singapore Hotel,4,0.215042494,business,friend
+,"Siloso Beach Resort, Sentosa",3,0.064175414,leisure,solo
+,"Siloso Beach Resort, Sentosa",3,0.064175414,business,solo
+,Singapore Marriott Tang Plaza Hotel,4,0.13327984,business,couple
+,Singapore Marriott Tang Plaza Hotel,4,0.13327984,leisure,couple
+,Sleepy Kiwi Boutique Hostel & Bar,3,0.028002031,leisure,couple
+,Sleepy Kiwi Boutique Hostel & Bar,3,0.028002031,business,couple
+,Sleepy Kiwi Boutique Hostel & Bar,3,0.002358066,business,solo
+,Sleepy Kiwi Boutique Hostel & Bar,3,0.002358066,leisure,solo
+,So Sofitel Singapore,5,0.170075491,leisure,family
+,So Sofitel Singapore,5,0.170075491,business,family
+,Sofitel Singapore Sentosa Resort & Spa,4.5,1,business,friend
+,Sofitel Singapore Sentosa Resort & Spa,4.5,0.264103362,leisure,family
+,Sofitel Singapore Sentosa Resort & Spa,4.5,0.264103362,business,family
+,Sofitel Singapore Sentosa Resort & Spa,4.5,1,leisure,friend
+,Studio M Hotel,4,0.0645848,business,solo
+,Studio M Hotel,4,0.0645848,leisure,couple
+,Studio M Hotel,4,0.13490101,business,friend
+,Studio M Hotel,4,0.0645848,business,couple
+,Studio M Hotel,4,0.0645848,leisure,solo
+,Studio M Hotel,4,0.13490101,leisure,friend
+,Summer View Hotel,4,0.088296461,business,friend
+,Summer View Hotel,4,0.043329458,leisure,couple
+,Summer View Hotel,4,0.088296461,leisure,friend
+,Summer View Hotel,4,0.043329458,business,solo
+,Superb Hostel,3,0.017980251,leisure,solo
+,Superb Hostel,3,0.017980251,business,solo
+,Swissotel Merchant Court Singapore,5,0.12304518,business,family
+,Tai Hoe Hotel,3,0.039432099,business,family
+,Tai Hoe Hotel,3,0.028657049,business,couple
+,Tai Hoe Hotel,3,0.028657049,leisure,couple
+,The Bohemian Chic,5,0.046604549,leisure,family
+,The Bohemian Chic,5,0.046604549,business,family
+,The Club,5,0.108749406,business,family
+,The Club,5,0.108749406,leisure,family
+,The Club,5,0.223213847,leisure,friend
+,The Club,5,0.223213847,business,friend
+,The Club Residences by Capella Singapore,5,0.24446919,business,family
+,The Club Residences by Capella Singapore,5,0.24446919,leisure,family
+,The Daulat,4,0.055381794,leisure,couple
+,The Daulat,4,0.055381794,business,solo
+,The Daulat,4,0.055381794,leisure,solo
+,The Daulat,4,0.055381794,business,couple
+,The Elizabeth Hotel by Far East Hospitality,4,0.151260091,leisure,friend
+,The Elizabeth Hotel by Far East Hospitality,4,0.072772529,leisure,solo
+,The Elizabeth Hotel by Far East Hospitality,4,0.092390325,leisure,family
+,The Elizabeth Hotel by Far East Hospitality,4,0.092390325,business,family
+,The Elizabeth Hotel by Far East Hospitality,4,0.072772529,business,solo
+,The Fragrance Hotel (Joo Chiat),4,0.034388459,leisure,family
+,The Fragrance Hotel (Joo Chiat),4,0.026364485,leisure,couple
+,The Fragrance Hotel (Joo Chiat),4,0.026364485,business,couple
+,The Fragrance Hotel (Joo Chiat),4,0.034388459,business,family
+,The Fullerton Bay Hotel Singapore,5,0.571961943,business,family
+,The Fullerton Bay Hotel Singapore,5,0.582999001,business,friend
+,The Fullerton Bay Hotel Singapore,5,0.571961943,leisure,family
+,The Fullerton Bay Hotel Singapore,5,0.582999001,leisure,friend
+,The Fullerton Hotel Singapore,5,0.218317586,business,family
+,The Fullerton Hotel Singapore,5,0.218317586,leisure,family
+,The Haven by JetQuay,3.5,0.116920759,business,couple
+,The Haven by JetQuay,3.5,0.178246844,leisure,family
+,The Haven by JetQuay,3.5,0.116920759,leisure,couple
+,The Haven by JetQuay,3.5,0.178246844,business,family
+,The Inn at Temple Street,3,0.081811781,leisure,friend
+,The Inn at Temple Street,3,0.050534659,business,family
+,The Inn at Temple Street,3,0.038040185,leisure,couple
+,The Inn at Temple Street,3,0.038040185,business,couple
+,"The InnCrowd Backpackers' Hostel, Singapore",4,0.025332831,business,friend
+,"The InnCrowd Backpackers' Hostel, Singapore",4,0.001424665,leisure,solo
+,"The InnCrowd Backpackers' Hostel, Singapore",4,0.001424665,business,solo
+,"The InnCrowd Backpackers' Hostel, Singapore",4,0.025332831,leisure,friend
+,The Metropolitan Y,3,0.040054367,business,couple
+,The Metropolitan Y,3,0.051500811,leisure,family
+,The Metropolitan Y,3,0.040054367,leisure,couple
+,The Metropolitan Y,3,0.040054367,business,solo
+,The Metropolitan Y,3,0.040054367,leisure,solo
+,The Metropolitan Y,3,0.051500811,business,family
+,The Quincy Hotel by Far East Hospitality,5,0.213208443,leisure,family
+,The Quincy Hotel by Far East Hospitality,5,0.213208443,business,family
+,The Residence at Singapore Recreation Club,4,0.080125108,business,family
+,The Residence at Singapore Recreation Club,4,0.067679762,leisure,couple
+,The Residence at Singapore Recreation Club,4,0.067679762,business,couple
+,"The Ritz-Carlton, Millenia Singapore",5,0.202777277,business,family
+,"The Ritz-Carlton, Millenia Singapore",5,0.202777277,leisure,family
+,The Shophouse at Arab Street,4,0.002439943,business,solo
+,The Shophouse at Arab Street,4,0.002439943,leisure,solo
+,The Shophouse at Arab Street,4,0.026970377,business,couple
+,The Shophouse at Arab Street,4,0.026970377,leisure,couple
+,The Southbridge Hotel,4,0.043329458,leisure,couple
+,The Southbridge Hotel,4,0.034339332,leisure,solo
+,The Southbridge Hotel,4,0.034339332,business,solo
+,The Southbridge Hotel,4,0.043329458,business,family
+,The St. Regis Singapore,5,0.223213847,business,family
+,The Sultan,4,0.049781388,leisure,couple
+,The Sultan,4,0.093258225,leisure,family
+,The Sultan,4,0.049781388,business,couple
+,The Sultan,4,0.093258225,business,family
+,Travellers Loft @ Jalan Besar,2.5,0.014426777,business,couple
+,Travellers Loft @ Jalan Besar,2.5,0.014426777,leisure,couple
+,Travellers Loft @ Lavender,3.5,0.000393011,business,solo
+,Travellers Loft @ Lavender,3.5,0.000393011,leisure,solo
+,Travellers Loft @ Lavender,3.5,0.006533807,business,couple
+,Travellers Loft @ Lavender,3.5,0.006533807,leisure,couple
+,V Hotel Bencoolen,3,0.110976468,leisure,friend
+,V Hotel Bencoolen,3,0.110976468,business,friend
+,V Hotel Lavender,3,0.062701623,business,family
+,V Hotel Lavender,3,0.045687524,leisure,couple
+,V Hotel Lavender,3,0.045687524,business,solo
+,V Hotel Lavender,3,0.045687524,business,couple
+,Value Hotel Balestier,3,0.032128646,business,solo
+,Value Hotel Balestier,3,0.032128646,business,couple
+,Value Hotel Balestier,3,0.032128646,leisure,couple
+,Value Hotel Balestier,3,0.032128646,leisure,solo
+,Value Hotel Nice,3,0.032128646,leisure,solo
+,Value Hotel Nice,3,0.069988701,leisure,friend
+,Value Hotel Nice,3,0.069988701,business,friend
+,Value Hotel Nice,3,0.032128646,business,solo
+,Value Hotel Thomson,2.5,0.035600242,business,couple
+,Venue Hotel The Lily,3.5,0.042199551,business,family
+,Venue Hotel The Lily,3.5,0.042199551,leisure,family
+,Venue Hotel The Lily,3.5,0.031080616,business,solo
+,Venue Hotel The Lily,3.5,0.031080616,leisure,couple
+,Venue Hotel The Lily,3.5,0.031080616,leisure,solo
+,Village Hotel Albert Court by Far East Hospitality,4,0.073984312,business,family
+,Village Hotel Albert Court by Far East Hospitality,4,0.113858549,leisure,friend
+,Village Hotel Albert Court by Far East Hospitality,4,0.054055382,business,couple
+,Village Hotel Albert Court by Far East Hospitality,4,0.113858549,business,friend
+,Village Hotel Albert Court by Far East Hospitality,4,0.054055382,leisure,solo
+,Village Hotel Albert Court by Far East Hospitality,4,0.054055382,business,solo
+,Village Hotel Bugis by Far East Hospitality,4,0.084218973,business,family
+,Village Hotel Bugis by Far East Hospitality,4,0.084218973,leisure,family
+,Village Hotel Bugis by Far East Hospitality,4,0.061719095,leisure,solo
+,Village Hotel Bugis by Far East Hospitality,4,0.061719095,business,couple
+,Village Hotel Bugis by Far East Hospitality,4,0.061719095,business,solo
+,Village Hotel Bugis by Far East Hospitality,4,0.061719095,leisure,couple
+,Village Hotel Changi by Far East Hospitality,4,0.051500811,leisure,solo
+,Village Hotel Changi by Far East Hospitality,4,0.051500811,business,couple
+,Village Hotel Changi by Far East Hospitality,4,0.051500811,leisure,couple
+,Village Hotel Changi by Far East Hospitality,4,0.051500811,business,solo
+,Village Hotel Katong by Far East Hospitality,5,0.071953756,business,family
+,W Singapore - Sentosa Cove,4.5,0.157597393,leisure,solo
+,W Singapore - Sentosa Cove,4.5,0.186418196,business,family
+,W Singapore - Sentosa Cove,4.5,0.186418196,leisure,family
+,W Singapore - Sentosa Cove,4.5,0.280446067,leisure,friend
+,W Singapore - Sentosa Cove,4.5,0.280446067,business,friend
+,W Singapore - Sentosa Cove,4.5,0.157597393,business,solo
+,YMCA @ One Orchard,4,0.05705209,business,family
+,ZEN Premium Little India,4,0.046391668,business,couple
+,ZEN Premium Little India,4,0.046391668,leisure,couple
+,ZEN Rooms Arab Street,4,0.034928849,business,couple
+,ZEN Rooms Arab Street,4,0.034928849,leisure,couple
+,ZEN Rooms Balestier,4,0.076981021,business,friend
+,ZEN Rooms Balestier,4,0.076981021,leisure,friend
+,ZEN Rooms Bukit Merah,3,0.031801136,business,solo
+,ZEN Rooms Bukit Merah,3,0.031801136,leisure,solo
+,ZEN Rooms Bukit Merah,3,0.069333683,leisure,friend
+,ZEN Rooms Bukit Merah,3,0.069333683,business,friend
+,ZEN Rooms Clarke Quay,4,0.039448475,business,solo
+,ZEN Rooms Clarke Quay,4,0.039448475,leisure,solo
+,ZEN Rooms Evergreen Residence,3,0.02548021,business,solo
+,ZEN Rooms Evergreen Residence,3,0.02548021,leisure,solo
+,ZEN Rooms Evergreen Residence,3,0.02548021,leisure,couple
+,ZEN Rooms Evergreen Residence,3,0.02548021,business,couple
+,ZEN Rooms Farrer Park,3,0.05543092,leisure,friend
+,ZEN Rooms Farrer Park,3,0.05543092,business,friend
+,ZEN Rooms Farrer Park,3,0.024841567,business,solo
+,ZEN Rooms Farrer Park,3,0.024841567,leisure,couple
+,ZEN Rooms Farrer Park,3,0.024841567,leisure,solo
+,ZEN Rooms Farrer Park,3,0.024841567,business,couple
+,ZEN Rooms People's Park Complex,3,0.035616618,leisure,solo
+,ZEN Rooms People's Park Complex,3,0.035616618,business,solo
+,ZEN Rooms Suntec,4,0.050911294,business,solo
+,ZEN Rooms Suntec,4,0.050911294,leisure,solo
+,ZEN Rooms Temple Street,3,0.068629538,leisure,friend
+,ZEN Rooms Temple Street,3,0.068629538,business,friend
+,ZEN Rooms Temple Street,3,0.031457252,business,solo

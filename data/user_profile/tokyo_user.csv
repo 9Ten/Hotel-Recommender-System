@@ -1,0 +1,927 @@
+﻿user_id,hotel_name,rating,price,trip_type,companion
+,ANA InterContinental Tokyo,3.4,0.294580085,business,family
+,ANA InterContinental Tokyo,3.4,0.294580085,leisure,family
+,APA Hotel - Higashishinjuku Kabukicho Higashi,3.4,0.039589808,business,solo
+,APA Hotel - Higashishinjuku Kabukicho Higashi,3.4,0.101284757,leisure,family
+,APA Hotel - Higashishinjuku Kabukicho Higashi,3.4,0.101284757,business,family
+,APA Hotel Akihabara-Ekimae,3.4,0.034454103,business,solo
+,APA Hotel Akihabara-Ekimae,3.4,0.039589808,leisure,couple
+,APA Hotel Akihabara-Ekimae,3.4,0.090996726,leisure,friend
+,APA Hotel Asakusa Kuramae,3.4,0.024166071,leisure,solo
+,APA Hotel Asakusa Kuramae,3.4,0.070437283,business,friend
+,APA Hotel Asakusabashi-Ekikita,3.4,0.080725315,leisure,friend
+,APA Hotel Asakusabashi-Ekikita,3.4,0.070437283,leisure,family
+,APA Hotel Ginza Kyobashi,3.4,0.101284757,leisure,friend
+,APA Hotel Ginza Kyobashi,3.4,0.039589808,leisure,solo
+,APA Hotel Ginza-Takaracho,3.4,0.037013645,business,solo
+,APA Hotel Ginza-Takaracho,3.4,0.093572889,leisure,family
+,APA Hotel Ginza-Takaracho,3.4,0.093572889,business,family
+,APA Hotel Ginza-Takaracho,3.4,0.044725514,leisure,couple
+,APA Hotel Ginza-Takaracho,3.4,0.101284757,business,friend
+,APA Hotel Hanzomon Hirakawacho,3.4,0.065301577,business,friend
+,APA Hotel Hanzomon Hirakawacho,3.4,0.065301577,leisure,friend
+,APA Hotel Hanzomon Hirakawacho,3.4,0.021606528,leisure,solo
+,APA Hotel Hanzomon Hirakawacho,3.4,0.021606528,business,solo
+,APA Hotel Hatchobori-eki Minami,3.4,0.070437283,business,friend
+,APA Hotel Higashi Shinjuku Kabukicho,3.4,0.034454103,leisure,solo
+,APA Hotel Higashi Shinjuku Kabukicho,3.4,0.039589808,leisure,couple
+,APA Hotel Higashi Shinjuku Kabukicho,3.4,0.090996726,business,friend
+,APA Hotel Iidabashi Ekimae,3.4,0.070437283,leisure,family
+,APA Hotel Iidabashi Ekimae,3.4,0.070437283,business,family
+,APA Hotel Kanda Jimbocho Ekihigashi,3.4,0.070437283,leisure,friend
+,APA Hotel Kanda Jimbocho Ekihigashi,3.4,0.024166071,business,solo
+,APA Hotel Kanda Jimbocho Ekihigashi,3.4,0.024166071,leisure,solo
+,APA Hotel Kanda Jimbocho Ekihigashi,3.4,0.065301577,leisure,family
+,APA Hotel Keikyu Kamata-Ekimae,3.4,0.024166071,leisure,solo
+,APA Hotel Keisei Ueno Ekimae,3.4,0.1218442,business,friend
+,APA Hotel Keisei Ueno Ekimae,3.4,0.055013546,business,couple
+,APA Hotel Keisei Ueno Ekimae,3.4,0.111556169,leisure,family
+,APA Hotel Keisei Ueno Ekimae,3.4,0.044725514,leisure,solo
+,APA Hotel Keisei Ueno Ekimae,3.4,0.055013546,leisure,couple
+,APA Hotel Keisei Ueno Ekimae,3.4,0.044725514,business,solo
+,APA Hotel Kodemmacho-ekimae,3.4,0.029301777,business,solo
+,APA Hotel Kodemmacho-ekimae,3.4,0.034454103,leisure,couple
+,APA Hotel Kodemmacho-ekimae,3.4,0.075572989,business,family
+,APA Hotel Kodemmacho-ekimae,3.4,0.029301777,leisure,solo
+,APA Hotel Kodemmacho-ekimae,3.4,0.034454103,business,couple
+,APA Hotel Nihombashi Hamacho-eki Minami,3.4,0.096149052,business,family
+,APA Hotel Nihombashi Hamacho-eki Minami,3.4,0.023650838,business,solo
+,APA Hotel Nihombashi Hamacho-eki Minami,3.4,0.079694849,leisure,friend
+,APA Hotel Nihombashi Hamacho-eki Minami,3.4,0.023650838,leisure,solo
+,APA Hotel Nihombashi Hamacho-eki Minami,3.4,0.096149052,leisure,family
+,APA Hotel Nihombashi Hamacho-eki Minami,3.4,0.079694849,business,friend
+,APA Hotel Ningyocho-eki Kita,3.4,0.024166071,business,solo
+,APA Hotel Ningyocho-eki Kita,3.4,0.029301777,business,couple
+,APA Hotel Okachimachi Eki-Kita S,3.4,0.099223827,leisure,friend
+,APA Hotel Okachimachi Eki-Kita S,3.4,0.092293117,leisure,family
+,APA Hotel Okachimachi Eki-Kita S,3.4,0.092293117,business,family
+,APA Hotel Okachimachi Eki-Kita S,3.4,0.043711669,business,couple
+,APA Hotel Okachimachi Eki-Kita S,3.4,0.043711669,leisure,couple
+,APA Hotel Roppongi Ekimae,3.4,0.1218442,business,friend
+,APA Hotel Roppongi Ekimae,3.4,0.044725514,leisure,solo
+,APA Hotel Roppongi Ekimae,3.4,0.044725514,business,solo
+,APA Hotel Roppongi Ekimae,3.4,0.055013546,leisure,couple
+,APA Hotel Roppongi-Ichome Ekimae,2.6,0.111556169,leisure,friend
+,APA Hotel Shibuya Dogenzakaue,2.6,0.109511859,business,friend
+,APA Hotel Shimbashi Onarimon,3,0.090996726,business,friend
+,APA Hotel Shimbashi Toranomon,3.4,0.039589808,leisure,solo
+,APA Hotel Shimbashi Toranomon,3.4,0.101284757,business,friend
+,APA Hotel Shinagawa Sengakuji Eki-Mae,3.4,0.023650838,leisure,solo
+,APA Hotel Shinagawa Sengakuji Eki-Mae,3.4,0.064786345,business,family
+,APA Hotel Shinjuku Gyoemmae,3.4,0.056559243,business,solo
+,APA Hotel Shinjuku Gyoemmae,3.4,0.056559243,leisure,solo
+,APA Hotel Shintomicho-Ekikita,4.2,0.070437283,business,family
+,APA Hotel Shintomicho-Ekimae,3.4,0.075572989,leisure,family
+,APA Hotel Shintomicho-Ekimae,3.4,0.075572989,leisure,friend
+,APA Hotel Shintomicho-Ekimae,3.4,0.024166071,business,solo
+,APA Hotel Shintomicho-Ekimae,3.4,0.075572989,business,family
+,APA Hotel Shintomicho-Ekimae,3.4,0.024166071,leisure,solo
+,APA Hotel Shintomicho-Ekimae,3.4,0.075572989,business,friend
+,APA Hotel Sugamo Ekimae,4.2,0.029301777,business,couple
+,APA Hotel Sugamo Ekimae,4.2,0.029301777,leisure,couple
+,APA Hotel Sugamo Ekimae,4.2,0.019030365,business,solo
+,APA Hotel Sugamo Ekimae,4.2,0.019030365,leisure,solo
+,APA Hotel TKP Nippori Ekimae,3.4,0.070437283,leisure,friend
+,APA Hotel TKP Nippori Ekimae,3.4,0.070437283,business,friend
+,APA Hotel Tokyo Itabashi,2.6,0.070437283,business,friend
+,APA Hotel Tokyo Kudanshita,3,0.075572989,leisure,friend
+,APA Hotel Tsukiji-eki Minami,3.4,0.073013446,leisure,family
+,APA Hotel Tsukiji-eki Minami,3.4,0.073013446,business,family
+,APA Hotel Tsukiji-eki Minami,3.4,0.075572989,business,friend
+,APA Hotel Ueno-Ekimae,3.4,0.039589808,business,solo
+,APA Hotel Ueno-Ekimae,3.4,0.044725514,leisure,couple
+,APA Hotel Ueno-Ekimae,3.4,0.101284757,business,friend
+,APA Hotel Ueno-Ekimae,3.4,0.039589808,leisure,solo
+,APA Hotel Ueno-Ekimae,3.4,0.044725514,business,couple
+,ARTnSHELTER,3.4,0.049213024,business,friend
+,ARTnSHELTER,3.4,0.049213024,leisure,friend
+,ARTnSHELTER,3.4,0.001811624,business,solo
+,Ace Inn Asakusa,3.4,0.04987784,leisure,family
+,Ace Inn Asakusa,3.4,0.001030465,leisure,solo
+,Ace Inn Shinjuku,3,0.055944288,leisure,friend
+,Ai Hotel Nihonbashi,3.4,0.051672844,leisure,couple
+,Ai Hotel Nihonbashi,3.4,0.051672844,business,couple
+,Ai Hotel Nihonbashi,3.4,0.04499144,leisure,solo
+,Akasaka Excel Hotel Tokyu,3.4,0.203566739,leisure,family
+,Akasaka Excel Hotel Tokyu,3.4,0.203566739,business,family
+,Akasaka Granbell Hotel,3.4,0.054498313,leisure,couple
+,Akasaka Granbell Hotel,3.4,0.120813735,business,friend
+,Akihabara Hotel 3000,3.4,0.004836538,leisure,solo
+,Akihabara Hotel 3000,3.4,0.004836538,business,solo
+,Akihabara Hotel 3000,3.4,0.071467748,leisure,friend
+,Akihabara Washington Hotel,3.8,0.046487277,leisure,solo
+,Akihabara Washington Hotel,3.8,0.046487277,business,solo
+,Anne Hostel,3.4,0.020060831,business,couple
+,Anne Hostel,3.4,0.020060831,leisure,couple
+,Anne Hostel,3.4,0.05192215,business,friend
+,Annex Check In Shimbashi,3,0.032492895,business,solo
+,Annex Check In Shimbashi,3,0.045855702,business,family
+,Annex Check In Shimbashi,3,0.032492895,leisure,solo
+,Annex Check In Shimbashi,3,0.045855702,leisure,family
+,Annex Check In Shimbashi,3,0.103545133,business,friend
+,Annex Katsutaro Ryokan,3.8,0.115678029,leisure,friend
+,Annex Katsutaro Ryokan,3.8,0.05192215,business,family
+,Ark Hotel Tokyo Ikebukuro,3.4,0.076088221,business,family
+,Ark Hotel Tokyo Ikebukuro,3.4,0.041900045,leisure,couple
+,Ark Hotel Tokyo Ikebukuro,3.4,0.076088221,leisure,family
+,Asakusa Central Hotel,3.4,0.055013546,leisure,family
+,Asakusa Hotel Hatago,4.2,0.111556169,leisure,friend
+,Asakusa Hotel Wasou,3.4,0.080210082,leisure,family
+,Asakusa Hotel Wasou,3.4,0.080210082,business,family
+,Asakusa Hotel Wasou,3.4,0.034969335,leisure,couple
+,Asakusa Hotel Wasou,3.4,0.034969335,business,couple
+,Asakusa View Hotel,3.4,0.162979706,leisure,friend
+,Asakusa View Hotel,3.4,0.070437283,business,couple
+,Asakusa View Hotel,3.4,0.162979706,business,friend
+,Asakusa View Hotel,3.4,0.070437283,leisure,couple
+,Belle Via Tokyo,2.6,0.052952615,business,friend
+,Belmont Hotel,3,0.08586102,business,friend
+,Best Western Tokyo Nishikasai,3.4,0.06992205,leisure,family
+,Best Western Tokyo Nishikasai,3.4,0.032143866,business,couple
+,Best Western Tokyo Nishikasai,3.4,0.032143866,leisure,couple
+,Best Western Tokyo Nishikasai,3.4,0.076088221,business,friend
+,Best Western Tokyo Nishikasai,3.4,0.076088221,leisure,friend
+,Best Western Tokyo Nishikasai,3.4,0.06992205,business,family
+,Best Western Tokyo Nishikasai,3.4,0.023600977,business,solo
+,Book And Bed Tokyo,3.8,0.094786178,leisure,friend
+,Book And Bed Tokyo,3.8,0.014825403,business,couple
+,Book And Bed Tokyo,3.8,0.014825403,leisure,couple
+,Business Hotel Ban,3.4,0.034454103,leisure,couple
+,Business Hotel Ban,3.4,0.034454103,business,couple
+,Capsule Hotel & Sauna Ikebukuro Plaza,3.4,0.049661775,business,friend
+,Capsule Hotel Anshin Oyado Shinbashi,4.2,0.090996726,business,friend
+,Capsule Hotel Anshin Oyado Shinbashi,4.2,0.01389466,business,solo
+,Capsule Hotel Shibuya,3,0.031362707,business,couple
+,Capsule Hotel Shibuya,3,0.031362707,leisure,couple
+,Capsule and Sauna Oriental,3.4,0.062210182,business,friend
+,Capsule and Sauna Oriental,3.4,0.006698024,leisure,solo
+,Capsule and Sauna Rosco,3.4,0.077018964,leisure,friend
+,Celestine Hotel,4.2,0.058354247,leisure,solo
+,Centurion Cabin & Spa,4.2,0.029301777,leisure,couple
+,Centurion Cabin & Spa,4.2,0.029301777,business,couple
+,Centurion Hotel Grand Akasaka,3.4,0.049362607,business,couple
+,Centurion Hotel Grand Akasaka,3.4,0.049362607,business,solo
+,Centurion Hotel Grand Akasaka,3.4,0.132132232,business,friend
+,Centurion Hotel Ikebukuro,3.4,0.081024482,business,friend
+,Centurion Hotel Ikebukuro,3.4,0.045755979,business,couple
+,Centurion Hotel Residential Akasaka,3.4,0.049362607,business,solo
+,Cerulean Tower Tokyu Hotel,4.2,0.198879785,leisure,family
+,Cerulean Tower Tokyu Hotel,4.2,0.198879785,business,family
+,Chisun Hotel Hamamatsucho,2.6,0.070437283,business,friend
+,Chisun Inn Kamata,3.4,0.020576063,business,solo
+,Chisun Inn Kamata,3.4,0.032592617,leisure,couple
+,Chisun Inn Kamata,3.4,0.032592617,business,couple
+,Chiyoda Inn,4.2,0.086891485,leisure,friend
+,Chiyoda Inn,4.2,0.037528878,business,couple
+,Chiyoda Inn,4.2,0.086891485,business,friend
+,Claska,3.4,0.568384663,business,friend
+,Claska,3.4,0.305765619,business,solo
+,Claska,3.4,0.305765619,leisure,solo
+,Claska,3.4,0.305765619,business,couple
+,Comfort Hotel Tokyo Higashi Nihombashi,3.4,0.032908405,business,solo
+,Comfort Hotel Tokyo Higashi Nihombashi,3.4,0.032908405,leisure,solo
+,Courtyard by Marriott Tokyo Station,3.4,0.089982881,leisure,solo
+,Courtyard by Marriott Tokyo Station,3.4,0.277278242,leisure,friend
+,Courtyard by Marriott Tokyo Station,3.4,0.089982881,business,solo
+,Dai-ichi Hotel Ryogoku,3.4,0.039589808,leisure,solo
+,Dai-ichi Hotel Ryogoku,3.4,0.15782738,business,friend
+,Dai-ichi Hotel Ryogoku,3.4,0.044725514,business,couple
+,Dai-ichi Hotel Ryogoku,3.4,0.073013446,business,family
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.110027091,leisure,friend
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.065301577,leisure,couple
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.065301577,business,couple
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.060149251,business,solo
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.081489853,leisure,family
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.110027091,business,friend
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.081489853,business,family
+,Dai-ichi Hotel Tokyo Seafort,3.4,0.060149251,leisure,solo
+,Daiichi Hotel Annex,3.4,0.120049196,leisure,friend
+,Daiichi Hotel Tokyo,4.2,0.119268037,business,family
+,Daiichi Hotel Tokyo,4.2,0.119268037,leisure,family
+,Daiwa Roynet Hotel Ginza,4.2,0.183273223,business,family
+,Daiwa Roynet Hotel Ginza,4.2,0.183273223,leisure,family
+,Daiwa Roynet Hotel Ginza,4.2,0.082769625,business,solo
+,Daiwa Roynet Hotel Ginza,4.2,0.088686489,business,couple
+,Daiwa Roynet Hotel Tokyo Akabane,4.2,0.090996726,business,family
+,Daiwa Roynet Hotel Tokyo Akabane,4.2,0.03187794,business,solo
+,Daiwa Roynet Hotel Tokyo Akabane,4.2,0.090996726,leisure,family
+,Daiwa Roynet Hotel Tokyo Osaki,4.2,0.060149251,business,family
+,Daiwa Roynet Hotel Tokyo Osaki,4.2,0.060149251,leisure,family
+,Dormy Inn Akihabara,3.8,0.13203251,leisure,friend
+,Dormy Inn Express Meguro Aobadai Hot Spring,3.4,0.141373178,business,couple
+,Dormy Inn Express Meguro Aobadai Hot Spring,3.4,0.294580085,business,friend
+,Dormy Inn Express Meguro Aobadai Hot Spring,3.4,0.141373178,leisure,couple
+,Dormy Inn Premium Shibuya-jingumae,4.2,0.142303921,leisure,family
+,Dormy Inn Premium Shibuya-jingumae,4.2,0.142303921,business,family
+,E Hotel Higashi Shinjuku,3,0.09973906,business,friend
+,E Hotel Higashi Shinjuku,3,0.09973906,business,family
+,E Hotel Higashi Shinjuku,3,0.09973906,leisure,family
+,Emblem Hostel Nishiarai,4.2,0.01391128,business,couple
+,FLEXSTAY INN Higashi Jujo,2.6,0.090996726,business,friend
+,FLEXSTAY INN Iidabashi,3,0.070437283,business,friend
+,FLEXSTAY INN Kiyosumi Shirakawa,3.4,0.02494723,business,couple
+,FLEXSTAY INN Kiyosumi Shirakawa,3.4,0.061694949,business,friend
+,FLEXSTAY INN Shinagawa,3.4,0.028287932,leisure,couple
+,FLEXSTAY INN Shinagawa,3.4,0.028287932,business,couple
+,FLEXSTAY INN Shirogane,3,0.066332042,business,family
+,FLEXSTAY INN Shirogane,3,0.066332042,leisure,family
+,FLEXSTAY INN Shirogane,3,0.069406818,leisure,friend
+,FLEXSTAY INN Sugamo,2.6,0.109511859,business,friend
+,FLEXSTAY INN Tokiwadai,3.4,0.026227002,business,couple
+,FLEXSTAY INN Tokiwadai,3.4,0.059118786,leisure,family
+,FLEXSTAY INN Tokiwadai,3.4,0.059118786,business,family
+,FLEXSTAY INN Tokiwadai,3.4,0.021091296,business,solo
+,FLEXSTAY INN Tokiwadai,3.4,0.026227002,leisure,couple
+,First Cabin Akasaka,3.8,0.04781691,leisure,couple
+,First Cabin Akasaka,3.8,0.04781691,business,couple
+,First Cabin Akasaka,3.8,0.107450928,leisure,friend
+,First Cabin Atagoyama,3.4,0.016969435,leisure,solo
+,First Cabin Atagoyama,3.4,0.103345688,business,friend
+,First Cabin Atagoyama,3.4,0.016969435,business,solo
+,Forest Hongo,3.4,0.09811026,leisure,family
+,Forest Hongo,3.4,0.09811026,business,family
+,Forest Hongo,3.4,0.058420729,business,couple
+,Four Seasons Hotel Tokyo at Marunouchi,3.8,0.518141174,business,family
+,Four Seasons Hotel Tokyo at Marunouchi,3.8,0.361061712,business,couple
+,Four Seasons Hotel Tokyo at Marunouchi,3.8,0.361061712,leisure,couple
+,GRIDS AKIHABARA HOTEL & HOSTEL,4.2,0.022105141,leisure,couple
+,GRIDS AKIHABARA HOTEL & HOSTEL,4.2,0.022105141,business,couple
+,GUEST HOUSE KAMATA1,4.2,0.04987784,business,friend
+,GUEST HOUSE KAMATA1,4.2,0.04987784,leisure,friend
+,Ginza Capital Hotel Main,3,0.059251749,business,couple
+,Ginza Creston,3.4,0.115977197,business,couple
+,Ginza Creston,3.4,0.115977197,leisure,couple
+,Global Cabin Gotanda,3.4,0.113417654,business,friend
+,Global Cabin Gotanda,3.4,0.019495737,business,solo
+,Global Cabin Gotanda,3.4,0.019495737,leisure,solo
+,Good Diner Inn Copain,4.2,0.074542523,leisure,friend
+,Grand Nikko Tokyo Daiba,4.2,0.113101866,leisure,family
+,Grand Nikko Tokyo Daiba,4.2,0.113101866,business,family
+,Grand Park Hotel Panex Tokyo,3,0.064271112,leisure,friend
+,Grand Prince Hotel New Takanawa,3.4,0.09811026,leisure,solo
+,Grand Prince Hotel New Takanawa,3.4,0.09811026,business,solo
+,Guest House Denchi,4.2,0.004637093,leisure,solo
+,Guest House Denchi,4.2,0.004637093,business,solo
+,Guest House Shinagawa-shuku,3.4,0.058104941,business,friend
+,Guest House Shinagawa-shuku,3.4,0.058104941,leisure,friend
+,H-Seven Ohtsuka (Adult Only),2.6,0.089966261,business,friend
+,HOTEL & SPA J-MEX Shinjuku Kabukicho (Adult Only),4.2,0.104475875,business,couple
+,HOTEL Guest1 Ueno Ekimae,4.2,0.143650174,leisure,friend
+,HOTEL MYSTAYS Asakusa,3,0.059434574,leisure,friend
+,HOTEL MYSTAYS Asakusa,3,0.059434574,leisure,family
+,HOTEL MYSTAYS Asakusa,3,0.059434574,business,family
+,HOTEL MYSTAYS Asakusa bashi,3.4,0.026742234,leisure,couple
+,HOTEL MYSTAYS Asakusa bashi,3.4,0.026742234,business,couple
+,HOTEL MYSTAYS Asakusa bashi,3.4,0.065301577,business,family
+,HOTEL MYSTAYS Asakusa bashi,3.4,0.065301577,leisure,family
+,HOTEL MYSTAYS Gotanda Station,3.4,0.01593897,business,solo
+,HOTEL MYSTAYS Gotanda Station,3.4,0.01593897,leisure,solo
+,HOTEL MYSTAYS Gotanda Station,3.4,0.068376352,business,friend
+,HOTEL MYSTAYS Hamamatsucho,3.4,0.049229644,leisure,couple
+,HOTEL MYSTAYS Haneda,4.2,0.039074576,business,solo
+,HOTEL MYSTAYS Haneda,4.2,0.089966261,business,family
+,HOTEL MYSTAYS Haneda,4.2,0.039074576,leisure,couple
+,HOTEL MYSTAYS Haneda,4.2,0.039074576,leisure,solo
+,HOTEL MYSTAYS Higashi Ikebukuro,3.4,0.028287932,leisure,couple
+,HOTEL MYSTAYS Kamata,3.4,0.074542523,leisure,friend
+,HOTEL MYSTAYS Kameido,2.6,0.069406818,leisure,friend
+,HOTEL MYSTAYS Kanda,3.4,0.06704672,leisure,family
+,HOTEL MYSTAYS Kanda,3.4,0.027606495,leisure,solo
+,HOTEL MYSTAYS Maihama,3.4,0.093057656,business,family
+,HOTEL MYSTAYS Maihama,3.4,0.197932421,business,friend
+,HOTEL MYSTAYS Maihama,3.4,0.197932421,leisure,friend
+,HOTEL MYSTAYS Nippori,3.4,0.022936161,leisure,couple
+,HOTEL MYSTAYS Nippori,3.4,0.060365317,leisure,friend
+,HOTEL MYSTAYS Ochanomizu Conference Center,3.4,0.028287932,business,solo
+,HOTEL MYSTAYS Ochanomizu Conference Center,3.4,0.028287932,leisure,solo
+,HOTEL MYSTAYS PREMIER Hamamatsucho,3.4,0.077118686,leisure,couple
+,HOTEL MYSTAYS PREMIER Hamamatsucho,3.4,0.086891485,leisure,friend
+,HOTEL MYSTAYS PREMIER Omori,3.4,0.048332142,leisure,solo
+,HOTEL MYSTAYS PREMIER Omori,3.4,0.048332142,leisure,couple
+,HOTEL MYSTAYS Ueno Inaricho,3.4,0.095517476,business,family
+,HOTEL MYSTAYS Ueno Inaricho,3.4,0.041850184,leisure,solo
+,HOTEL MYSTAYS Ueno Inaricho,3.4,0.095517476,business,friend
+,HOTEL MYSTAYS Ueno Inaricho,3.4,0.095517476,leisure,family
+,HOTEL MYSTAYS Ueno Inaricho,3.4,0.041850184,business,couple
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.072082703,leisure,family
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.040620274,leisure,couple
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.040620274,business,couple
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.093057656,business,friend
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.03187794,business,solo
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.072082703,business,family
+,HOTEL MYSTAYS Ueno Iriyaguchi,3.4,0.03187794,leisure,solo
+,HOTEL THE HOTEL (Adult Only),3.4,0.314109063,business,friend
+,HOTEL UNIZO Tokyo Ginza-itchome,3.4,0.055013546,leisure,couple
+,HOTEL UNIZO Tokyo Ginza-itchome,3.4,0.1218442,leisure,friend
+,HOTEL UNIZO Tokyo Ginza-itchome,3.4,0.1218442,business,friend
+,HOTEL UNIZO Tokyo Ginza-itchome,3.4,0.055013546,business,couple
+,HOTEL VARKIN (Adult Only),3,0.055013546,leisure,solo
+,HOTEL VARKIN (Adult Only),3,0.055013546,business,couple
+,Haneda Excel Hotel Tokyu,3.8,0.070437283,business,solo
+,Haneda Excel Hotel Tokyu,3.8,0.093057656,business,couple
+,Haneda Excel Hotel Tokyu,3.8,0.070437283,leisure,solo
+,Haneda Excel Hotel Tokyu,3.8,0.197932421,leisure,friend
+,Haru Hotel,2.6,0.075572989,business,friend
+,Harumi Grand Hotel,2.6,0.031861319,leisure,family
+,Harumi Grand Hotel,2.6,0.060980272,business,friend
+,Harumi Grand Hotel,2.6,0.031861319,business,family
+,Hikarihouse,3.4,0.048332142,leisure,couple
+,Hikarihouse,3.4,0.058104941,leisure,family
+,Hikarihouse,3.4,0.048332142,business,couple
+,Hikarihouse,3.4,0.006698024,leisure,solo
+,Hikarihouse,3.4,0.058104941,business,family
+,Hilton Tokyo Hotel,3.8,0.397593365,business,friend
+,Hilton Tokyo Hotel,3.8,0.192879818,leisure,couple
+,Hilton Tokyo Hotel,3.8,0.175860522,business,solo
+,Hotel 3000 Asakusa Honten,4.2,0.003606628,leisure,solo
+,Hotel Allamanda Aoyama Tokyo,4.2,0.238020842,business,couple
+,Hotel Allamanda Aoyama Tokyo,4.2,0.583492612,leisure,family
+,Hotel Allamanda Aoyama Tokyo,4.2,0.238020842,leisure,couple
+,Hotel Allamanda Aoyama Tokyo,4.2,0.583492612,business,family
+,Hotel Amanek Ginza East,3.4,0.090996726,leisure,family
+,Hotel Amanek Ginza East,3.4,0.090996726,business,family
+,Hotel Arca Torre Roppongi,3.4,0.060365317,leisure,couple
+,Hotel Arca Torre Roppongi,3.4,0.060365317,leisure,solo
+,Hotel Axas Nihonbashi,4.2,0.090996726,business,couple
+,Hotel Axas Nihonbashi,4.2,0.234946067,leisure,friend
+,Hotel Business Villa Omori,2.6,0.070437283,business,family
+,Hotel Business Villa Omori,2.6,0.070437283,leisure,family
+,Hotel Cadenza Hikarigaoka,3.4,0.294663187,leisure,friend
+,Hotel Cerezo,3.4,0.026742234,leisure,couple
+,Hotel Cerezo,3.4,0.065301577,leisure,friend
+,Hotel Chinzanso Tokyo,4.2,0.15860854,business,family
+,Hotel Chinzanso Tokyo,4.2,0.15860854,leisure,family
+,Hotel Coco Grand Ueno Shinobazu,4.2,0.238020842,leisure,family
+,Hotel Coco Grand Ueno Shinobazu,4.2,0.238020842,business,family
+,Hotel East 21 Tokyo,3.8,0.052437383,leisure,couple
+,Hotel East 21 Tokyo,3.8,0.039074576,business,solo
+,Hotel East 21 Tokyo,3.8,0.093057656,business,family
+,Hotel East 21 Tokyo,3.8,0.052437383,business,couple
+,Hotel East 21 Tokyo,3.8,0.039074576,leisure,solo
+,Hotel East 21 Tokyo,3.8,0.093057656,leisure,family
+,Hotel Edoya,3.4,0.072448352,business,friend
+,Hotel Edoya,3.4,0.023600977,business,solo
+,Hotel Edoya,3.4,0.023600977,leisure,solo
+,Hotel Fukudaya,3.4,0.089966261,business,friend
+,Hotel Gracery Ginza,3.4,0.124935596,business,friend
+,Hotel Gracery Shinjuku,4.2,0.111057556,leisure,couple
+,Hotel Gracery Shinjuku,4.2,0.111057556,business,couple
+,Hotel Grand Arc Hanzomon,4.2,0.053733774,business,solo
+,Hotel Grand Arc Hanzomon,4.2,0.084581249,business,family
+,Hotel Grand Arc Hanzomon,4.2,0.084581249,leisure,family
+,Hotel Grand Arc Hanzomon,4.2,0.053733774,leisure,solo
+,Hotel Grand City,3.4,0.105389998,leisure,friend
+,Hotel Grand City,3.4,0.105389998,business,friend
+,Hotel Grand City,3.4,0.019030365,leisure,solo
+,Hotel Grand Fresa Akasaka,3.8,0.032143866,business,couple
+,Hotel Grand Fresa Akasaka,3.8,0.027506773,business,solo
+,Hotel Grand Fresa Akasaka,3.8,0.076088221,leisure,friend
+,Hotel Grand Palace,3.4,0.081622816,leisure,solo
+,Hotel Grand Palace,3.4,0.081622816,business,solo
+,Hotel Graphy Nezu,3.4,0.084415045,business,family
+,Hotel Graphy Nezu,3.4,0.084415045,leisure,family
+,Hotel Hikari,3.4,0.064271112,business,friend
+,Hotel Hokke Club Asakusa,4.2,0.078664384,leisure,friend
+,Hotel Hokke Inn Nihonbashi,4.2,0.028803165,business,solo
+,Hotel Hokke Inn Nihonbashi,4.2,0.028803165,leisure,solo
+,Hotel Hokke Inn Nihonbashi,4.2,0.084830555,leisure,friend
+,Hotel Horidome Villa,3.4,0.019030365,business,couple
+,Hotel Horidome Villa,3.4,0.019030365,leisure,couple
+,Hotel Horidome Villa,3.4,0.016454202,leisure,solo
+,Hotel Houshi Kaikan,3,0.046786444,business,family
+,Hotel JAL City Haneda Tokyo West Wing,3.8,0.055013546,business,family
+,Hotel JAL City Haneda Tokyo West Wing,3.8,0.055013546,business,couple
+,Hotel JAL City Haneda Tokyo West Wing,3.8,0.055013546,business,solo
+,Hotel JAL City Haneda Tokyo West Wing,3.8,0.055013546,leisure,family
+,Hotel JAL City Haneda Tokyo West Wing,3.8,0.055013546,leisure,couple
+,Hotel JAL City Tamachi Tokyo,3.4,0.03393887,leisure,couple
+,Hotel Kaminarimon,3.8,0.023650838,business,solo
+,Hotel Keihan Asakusa,3.4,0.085345788,leisure,family
+,Hotel Keihan Asakusa,3.4,0.113101866,leisure,friend
+,Hotel Kuramae,2.6,0.097162897,business,friend
+,Hotel Listel Shinjuku,2.6,0.1038443,leisure,family
+,Hotel Listel Shinjuku,2.6,0.11773896,leisure,friend
+,Hotel Listel Shinjuku,2.6,0.1038443,business,family
+,Hotel Lumiere Kasai,3.4,0.041650739,leisure,couple
+,Hotel Lumiere Kasai,3.4,0.041650739,business,couple
+,Hotel Lumiere Kasai,3.4,0.025196536,business,solo
+,Hotel Lumiere Kasai,3.4,0.095118587,leisure,friend
+,Hotel Lumiere Kasai,3.4,0.025196536,leisure,solo
+,Hotel Lumiere Kasai,3.4,0.095118587,business,friend
+,Hotel Lumiere Nishikasai,3.4,0.025196536,business,solo
+,Hotel Lumiere Nishikasai,3.4,0.025196536,leisure,solo
+,Hotel Lumiere Nishikasai,3.4,0.041650739,business,couple
+,Hotel Lumiere Nishikasai,3.4,0.041650739,leisure,couple
+,Hotel Lumiere Nishikasai,3.4,0.076088221,leisure,family
+,Hotel Mandarin,3.4,0.075572989,leisure,family
+,Hotel Mandarin,3.4,0.075572989,business,family
+,Hotel Mandarin,3.4,0.114647564,leisure,friend
+,Hotel Meigetsu,4.2,0.028287932,business,family
+,Hotel Meigetsu,4.2,0.006182791,business,solo
+,Hotel Meigetsu,4.2,0.028287932,leisure,family
+,Hotel Metropolitan Tokyo Ikebukuro,3.8,0.098426048,leisure,couple
+,Hotel Metropolitan Tokyo Ikebukuro,3.8,0.086210049,business,solo
+,Hotel Metropolitan Tokyo Ikebukuro,3.8,0.147290043,business,family
+,Hotel Mid In Akabane Ekimae,3.4,0.091412236,business,family
+,Hotel Mid In Akabane Ekimae,3.4,0.091412236,leisure,family
+,Hotel Mid In Akabane Ekimae,3.4,0.026227002,business,solo
+,Hotel Mid In Akabane Ekimae,3.4,0.11855336,leisure,friend
+,Hotel Mid In Akabane Ekimae,3.4,0.053368125,business,couple
+,Hotel Mid In Akabane Ekimae,3.4,0.026227002,leisure,solo
+,Hotel Mid In Meguro Ekimae,3.4,0.04987784,leisure,couple
+,Hotel Mid In Meguro Ekimae,3.4,0.04987784,business,couple
+,Hotel Mid In Meguro Ekimae,3.4,0.111556169,business,friend
+,Hotel Mielparque Tokyo,3.4,0.06992205,leisure,family
+,Hotel Mielparque Tokyo,3.4,0.021606528,leisure,solo
+,Hotel Mielparque Tokyo,3.4,0.021606528,business,solo
+,Hotel Mielparque Tokyo,3.4,0.080725315,leisure,friend
+,Hotel Mielparque Tokyo,3.4,0.080725315,business,friend
+,Hotel Monterey Akasaka,3.4,0.078664384,business,solo
+,Hotel Monterey Akasaka,3.4,0.078664384,leisure,solo
+,Hotel Monterey Akasaka,3.4,0.205328502,business,friend
+,Hotel Monterey Akasaka,3.4,0.096764007,business,couple
+,Hotel Monterey Akasaka,3.4,0.096764007,leisure,couple
+,Hotel Monterey Ginza,3.4,0.090996726,leisure,friend
+,Hotel Monterey Ginza,3.4,0.039589808,leisure,couple
+,Hotel Monterey Ginza,3.4,0.08586102,business,family
+,Hotel Monterey Ginza,3.4,0.034454103,leisure,solo
+,Hotel Monterey Hanzomon,3.4,0.024166071,leisure,solo
+,Hotel Monterey Hanzomon,3.4,0.024166071,business,solo
+,Hotel Monterey Hanzomon,3.4,0.034454103,leisure,couple
+,Hotel Monterey Hanzomon,3.4,0.034454103,business,couple
+,Hotel Monterey Lasoeur Ginza,3.4,0.035999801,business,solo
+,Hotel Monterey Lasoeur Ginza,3.4,0.035999801,leisure,solo
+,Hotel New Koyo,3.4,0.041650739,leisure,friend
+,Hotel New Star Ikebukuro,3.4,0.08380009,leisure,friend
+,Hotel New Star Ikebukuro,3.4,0.08380009,business,friend
+,Hotel Nihonbashi Saibo,3.4,0.077018964,leisure,friend
+,Hotel Nihonbashi Saibo,3.4,0.032592617,business,couple
+,Hotel Nihonbashi Saibo,3.4,0.032592617,leisure,couple
+,Hotel Ohedo,3.4,0.040570412,leisure,couple
+,Hotel Okura Tokyo,4.2,0.131700101,leisure,couple
+,Hotel Okura Tokyo,4.2,0.131700101,business,couple
+,Hotel Okura Tokyo Bay,4.2,0.126979906,business,solo
+,Hotel Palace Japan,4.2,0.006698024,business,solo
+,Hotel Palace Japan,4.2,0.058104941,leisure,friend
+,Hotel Palace Japan,4.2,0.040620274,business,family
+,Hotel Palace Japan,4.2,0.040620274,leisure,family
+,Hotel Palace Japan,4.2,0.006698024,leisure,solo
+,Hotel Resol Ikebukuro,3.8,0.03187794,leisure,solo
+,Hotel Resol Ikebukuro,3.8,0.116708495,leisure,friend
+,Hotel Resol Ikebukuro,3.8,0.03187794,business,solo
+,Hotel Risveglio Akasaka,4.2,0.033988731,leisure,solo
+,Hotel Risveglio Akasaka,4.2,0.100619941,business,family
+,Hotel Risveglio Akasaka,4.2,0.100619941,leisure,family
+,Hotel Risveglio Akasaka,4.2,0.033988731,business,solo
+,Hotel Rose Garden Shinjuku,3.4,0.122475776,business,friend
+,Hotel Rose Garden Shinjuku,3.4,0.055329333,leisure,couple
+,Hotel Route-Inn Tokyo Toyocho,2.6,0.129040836,business,friend
+,Hotel Shimbashi Sambankan,3.4,0.103545133,leisure,friend
+,Hotel Shimbashi Sambankan,3.4,0.032492895,business,solo
+,Hotel Shirobara Inn Asakusa,3.4,0.043711669,leisure,couple
+,Hotel Shirobara Inn Asakusa,3.4,0.032592617,business,solo
+,Hotel Shirobara Inn Asakusa,3.4,0.088121395,business,family
+,Hotel Shirobara Inn Asakusa,3.4,0.043711669,business,couple
+,Hotel Shirobara Inn Asakusa,3.4,0.099223827,business,friend
+,Hotel Shirobara Inn Asakusa,3.4,0.088121395,leisure,family
+,Hotel Sulata Shibuya Dougenzaka (Adult Only),2.6,0.101284757,leisure,solo
+,Hotel Sulata Shibuya Dougenzaka (Adult Only),2.6,0.21952233,business,friend
+,Hotel Sunline Kamata,3,0.089966261,business,friend
+,Hotel Sunroute Asakusa,3.4,0.044725514,leisure,couple
+,Hotel Sunroute Asakusa,3.4,0.101284757,leisure,friend
+,Hotel Sunroute Ginza,3.4,0.037013645,business,solo
+,Hotel Sunroute Ginza,3.4,0.037013645,leisure,solo
+,Hotel Sunroute Higashi Shinjuku,3.4,0.107450928,business,friend
+,Hotel Sunroute Higashi Shinjuku,3.4,0.098708594,business,family
+,Hotel Sunroute Higashi Shinjuku,3.4,0.098708594,leisure,family
+,Hotel Sunroute Higashi Shinjuku,3.4,0.04781691,leisure,couple
+,Hotel Sunroute Patio Omori,3.4,0.068376352,business,friend
+,Hotel Sunroute Shimbashi,3.4,0.060564761,business,couple
+,Hotel Sunroute Shimbashi,3.4,0.038509482,leisure,solo
+,Hotel Sunroute Shinagawa Seaside,3.4,0.167400735,leisure,family
+,Hotel Sunroute Shinagawa Seaside,3.4,0.167400735,business,family
+,Hotel Sunroute Shinagawa Seaside,3.4,0.081739159,leisure,friend
+,Hotel Sunroute Shinagawa Seaside,3.4,0.034969335,business,couple
+,Hotel Tateshina,2.6,0.085345788,leisure,family
+,Hotel Tateshina,2.6,0.085345788,business,family
+,Hotel Tokyo Garden Palace,3.4,0.099223827,business,family
+,Hotel Tokyo Garden Palace,3.4,0.099223827,leisure,family
+,Hotel Trusty Tokyo Bayside,3.4,0.031362707,leisure,solo
+,Hotel Trusty Tokyo Bayside,3.4,0.031362707,business,solo
+,Hotel Villa Fontaine Tokyo-Hamamatsucho,3.4,0.044210281,business,couple
+,Hotel Villa Fontaine Tokyo-Hamamatsucho,3.4,0.044210281,leisure,couple
+,Hotel Villa Fontaine Tokyo-Jimbocho,3.4,0.027689597,business,solo
+,Hotel Villa Fontaine Tokyo-Jimbocho,3.4,0.028769924,leisure,couple
+,Hotel Villa Fontaine Tokyo-Kayabacho,3.4,0.027506773,business,solo
+,Hotel Villa Fontaine Tokyo-Kudanshita,3.4,0.034188176,leisure,couple
+,Hotel Villa Fontaine Tokyo-Kudanshita,3.4,0.033091229,business,solo
+,Hotel Villa Fontaine Tokyo-Kudanshita,3.4,0.033091229,leisure,solo
+,Hotel Villa Fontaine Tokyo-Kudanshita,3.4,0.034188176,business,couple
+,Hotel Villa Fontaine Tokyo-Otemachi,3.4,0.039589808,business,solo
+,Hotel Villa Fontaine Tokyo-Otemachi,3.4,0.096149052,leisure,friend
+,Hotel Villa Fontaine Tokyo-Otemachi,3.4,0.039589808,leisure,solo
+,Hotel Villa Fontaine Tokyo-Otemachi,3.4,0.042165971,leisure,couple
+,Hotel Villa Fontaine Tokyo-Otemachi,3.4,0.042165971,business,couple
+,Hotel Villa Fontaine Tokyo-Roppongi,3.4,0.172021208,leisure,friend
+,Hotel Villa Fontaine Tokyo-Ueno Okachimachi,3.4,0.042165971,business,couple
+,Hotel Vista Kamata Tokyo,3.4,0.088935795,leisure,friend
+,Hotel Wing International Premium Tokyo Yotsuya,3.4,0.27554972,business,friend
+,Hotel Wing International Premium Tokyo Yotsuya,3.4,0.27554972,leisure,friend
+,Hotel Wing International Shinjuku,3.4,0.210264763,leisure,friend
+,Hotel Wing International Shinjuku,3.4,0.210264763,business,friend
+,Hotel Yamayuri,2.6,0.075057756,business,family
+,Hotel Yamayuri,2.6,0.075057756,leisure,family
+,Hotel Yanagibashi,2.6,0.075174099,business,family
+,Hotel Yanagibashi,2.6,0.075174099,leisure,family
+,Hotel the M Innsomnia Akasaka,4.2,0.088437183,business,couple
+,Hotel the M Innsomnia Akasaka,4.2,0.088437183,leisure,couple
+,House Ikebukuro,4.2,0.068376352,business,friend
+,House Ikebukuro,4.2,0.068376352,leisure,friend
+,Hundred Stay Tokyo Shinjuku,3.4,0.142004753,business,family
+,Hundred Stay Tokyo Shinjuku,3.4,0.076669935,leisure,solo
+,Hundred Stay Tokyo Shinjuku,3.4,0.260857281,business,friend
+,Hundred Stay Tokyo Shinjuku,3.4,0.076669935,business,solo
+,Hundred Stay Tokyo Shinjuku,3.4,0.142004753,leisure,family
+,Hyatt Regency Tokyo,4.2,0.12796051,leisure,couple
+,Hyatt Regency Tokyo,4.2,0.12796051,business,couple
+,Hyatt Regency Tokyo,4.2,0.248375355,business,family
+,Hyatt Regency Tokyo,4.2,0.248375355,leisure,family
+,IRORI NIHONBASHI HOSTEL and KITCHEN,4.2,0.002343477,business,solo
+,IRORI NIHONBASHI HOSTEL and KITCHEN,4.2,0.044841857,leisure,friend
+,Ikidane House,4.2,0.04987784,leisure,family
+,Ikidane House,4.2,0.04987784,business,family
+,Imperial Hotel Tokyo,4.2,1,business,family
+,Imperial Hotel Tokyo,4.2,1,leisure,family
+,J Residence Shinjuku,3.4,0.026742234,business,solo
+,Japanize Guest House,3.4,0.002576163,leisure,couple
+,Japanize Guest House,3.4,0.044725514,leisure,friend
+,Japonica Lodge Asakusa,3.4,0.039589808,leisure,friend
+,Juyoh Hotel,3.4,0.026227002,leisure,couple
+,Juyoh Hotel,3.4,0.007196636,leisure,solo
+,K's House Tokyo Oasis - Quality Hostel,4.2,0.035484568,business,couple
+,K's House Tokyo Oasis - Quality Hostel,4.2,0.035484568,leisure,couple
+,K's House Tokyo Oasis - Quality Hostel,4.2,0.051423538,leisure,family
+,K's House Tokyo Oasis - Quality Hostel,4.2,0.066332042,leisure,friend
+,K's House Tokyo Oasis - Quality Hostel,4.2,0.051423538,business,family
+,Kagaribi Kitasenjyu Guesthouse,4.2,0.057589709,leisure,friend
+,Kagaribi Kitasenjyu Guesthouse,4.2,0.057589709,business,friend
+,Keio Plaza Hotel Tokyo,3.8,0.180564097,business,family
+,Keio Plaza Hotel Tokyo,3.8,0.131700101,business,solo
+,Keio Plaza Hotel Tokyo,3.8,0.180564097,leisure,family
+,Keio Plaza Hotel Tokyo,3.8,0.131700101,leisure,solo
+,Keio Presso Inn Akasaka,4.2,0.070437283,leisure,solo
+,Keio Presso Inn Ikebukuro,3.4,0.152691675,leisure,friend
+,Keio Presso Inn Ikebukuro,3.4,0.03187794,leisure,solo
+,Keio Presso Inn Ikebukuro,3.4,0.070437283,business,couple
+,Keio Presso Inn Ikebukuro,3.4,0.070437283,leisure,couple
+,Keio Presso Inn Ikebukuro,3.4,0.03187794,business,solo
+,Keys House,4.2,0.041650739,leisure,friend
+,Keys House,4.2,0.041650739,business,friend
+,Khaosan Tokyo Laboratory,3.4,0.1218442,business,friend
+,Khaosan World Asakusa Hostel,3.4,0.034454103,business,couple
+,Khaosan World Asakusa Hostel,3.4,0.084830555,leisure,friend
+,Kichijoji Daiichi Hotel,3.4,0.099921884,leisure,family
+,Kichijoji Daiichi Hotel,3.4,0.054398591,business,couple
+,Kichijoji Daiichi Hotel,3.4,0.054398591,leisure,couple
+,Kichijoji Tokyu REI Hotel,3.4,0.064520418,business,couple
+,Kichijoji Tokyu REI Hotel,3.4,0.046021906,business,solo
+,Kichijoji Tokyu REI Hotel,3.4,0.046021906,leisure,solo
+,Kichijoji Tokyu REI Hotel,3.4,0.140874566,leisure,friend
+,Kichijoji Tokyu REI Hotel,3.4,0.140874566,business,friend
+,Koraku Garden Hotel,3,0.027606495,business,couple
+,Koraku Garden Hotel,3,0.027606495,leisure,couple
+,Kotobuki Sou,5,0.168115412,leisure,family
+,Kotobuki Sou,5,0.168115412,business,family
+,Lotte City Hotel Kinshicho,3.4,0.077018964,business,solo
+,MYSTAYS Shin Urayasu Conference Center,3.4,0.049362607,leisure,solo
+,MYSTAYS Shin Urayasu Conference Center,3.4,0.110542324,business,family
+,MYSTAYS Shin Urayasu Conference Center,3.4,0.110542324,leisure,family
+,MYSTAYS Shin Urayasu Conference Center,3.4,0.049362607,business,solo
+,Mandarin Oriental Tokyo,4.2,0.371283262,business,family
+,Mandarin Oriental Tokyo,4.2,0.371283262,leisure,family
+,Meguro Gajoen,4.2,0.216563897,leisure,family
+,Meguro Gajoen,4.2,0.216563897,business,family
+,Meitetsu Inn Hamamatsucho,3.4,0.039589808,business,couple
+,Mercure Hotel Ginza Tokyo,3.4,0.073728123,leisure,solo
+,Mitsui Garden Hotel Shiodome Italia-gai,3.4,0.141373178,business,friend
+,Mitsui Garden Hotel Yotsuya,4.2,0.132132232,leisure,friend
+,Mitsui Garden Hotel Yotsuya,4.2,0.132132232,leisure,family
+,Mitsui Garden Hotel Yotsuya,4.2,0.132132232,business,friend
+,Mitsui Garden Hotel Yotsuya,4.2,0.132132232,business,family
+,Mizue Dai-ichi Hotel,2.6,0.073013446,leisure,family
+,Mizue Dai-ichi Hotel,2.6,0.073013446,business,family
+,Nakano Sunplaza Hotel,3.4,0.059634019,leisure,solo
+,Nakano Sunplaza Hotel,3.4,0.095633819,business,couple
+,New Otani Inn Tokyo,3.4,0.037013645,leisure,couple
+,New Otani Inn Tokyo,3.4,0.08586102,leisure,friend
+,New Otani Inn Tokyo,3.4,0.08586102,business,friend
+,Nihonbashi Muromachi Bay Hotel,4.2,0.008742334,leisure,solo
+,Nishitetsu Inn Nihonbashi,3.4,0.037013645,business,couple
+,Nishitetsu Inn Nihonbashi,3.4,0.074027291,leisure,family
+,Nishitetsu Inn Nihonbashi,3.4,0.037013645,leisure,couple
+,Nishitetsu Inn Nihonbashi,3.4,0.074027291,business,family
+,Nishitetsu Inn Shinjuku,3.4,0.135207007,business,friend
+,Nishitetsu Inn Shinjuku,3.4,0.035484568,leisure,solo
+,Nishitetsu Inn Shinjuku,3.4,0.108996626,leisure,family
+,Nishitetsu Inn Shinjuku,3.4,0.035484568,business,solo
+,Oak Hostel Zen,4.2,0.090996726,business,family
+,Oak Hostel Zen,4.2,0.090996726,leisure,family
+,Oakwood Premier Tokyo,4.2,0.365732046,business,family
+,Oakwood Premier Tokyo,4.2,0.365732046,leisure,family
+,Ochanomizu Inn,3.4,0.083284857,leisure,family
+,Ochanomizu Inn,3.4,0.083284857,business,family
+,Ochanomizu Inn,3.4,0.039589808,business,couple
+,Ochanomizu Inn,3.4,0.03187794,business,solo
+,Omori Tokyu REI Hotel,3.4,0.028803165,leisure,solo
+,Omori Tokyu REI Hotel,3.4,0.028803165,business,solo
+,Oriental Hotel Tokyo Bay,4.2,0.085196204,business,family
+,Oriental Hotel Tokyo Bay,4.2,0.075572989,leisure,couple
+,Oriental Hotel Tokyo Bay,4.2,0.085196204,leisure,family
+,Oriental Hotel Tokyo Bay,4.2,0.075572989,business,couple
+,Otsuka City Hotel,2.6,0.078664384,leisure,friend
+,Park Hyatt Tokyo,4.2,0.482905912,business,family
+,Park Hyatt Tokyo,4.2,0.482905912,leisure,family
+,Pearl Hotel Kasai,2.6,0.08380009,business,family
+,Pearl Hotel Kasai,2.6,0.08380009,leisure,family
+,Pearl Hotel Kayabacho,2.6,0.077018964,business,friend
+,Pearl Hotel Ryogoku,2.6,0.076603454,business,friend
+,Pearl Hotel Yaesu,3,0.1218442,business,friend
+,Pearl Hotel Yaesu,3,0.055013546,leisure,couple
+,Premier Hotel Cabin Shinjuku,3.4,0.099223827,business,friend
+,Remm Hibiya,3.4,0.162979706,leisure,friend
+,Remm Hibiya,3.4,0.057589709,leisure,solo
+,Remm Hibiya,3.4,0.075572989,business,couple
+,Richmond Hotel Premier Asakusa International,4.2,0.123905131,business,family
+,Richmond Hotel Premier Asakusa International,4.2,0.123905131,leisure,family
+,Richmond Hotel Premier Tokyo Oshiage,4.2,0.075572989,leisure,family
+,Richmond Hotel Premier Tokyo Oshiage,4.2,0.075572989,business,family
+,Richmond Hotel Tokyo Mejiro,3.4,0.036515033,business,couple
+,Rihga Royal Hotel Tokyo,4.2,0.09074742,leisure,solo
+,Rihga Royal Hotel Tokyo,4.2,0.198181728,business,friend
+,Rihga Royal Hotel Tokyo,4.2,0.095633819,leisure,couple
+,Rihga Royal Hotel Tokyo,4.2,0.095633819,business,couple
+,Rihga Royal Hotel Tokyo,4.2,0.09074742,business,solo
+,Rihga Royal Hotel Tokyo,4.2,0.198181728,leisure,friend
+,Roppongi Hotel S,3.4,0.197932421,business,family
+,Roppongi Hotel S,3.4,0.093057656,business,couple
+,Roppongi Hotel S,3.4,0.197932421,business,friend
+,Roppongi Hotel S,3.4,0.197932421,leisure,family
+,Ryogoku View Hotel,3.4,0.038559343,business,solo
+,Ryogoku View Hotel,3.4,0.038559343,business,couple
+,Ryogoku View Hotel,3.4,0.054498313,leisure,family
+,Ryokan & Spa Shizuku,4.2,0.168115412,leisure,friend
+,Ryokan & Spa Shizuku,4.2,0.065301577,leisure,solo
+,Ryokan Asakusa Shigetsu,4.2,0.232934998,leisure,friend
+,Ryokan Katsutaro,3.4,0.039074576,leisure,couple
+,Ryokan Katsutaro,3.4,0.092226636,leisure,family
+,Ryokan Katsutaro,3.4,0.092226636,business,friend
+,Ryokan Katsutaro,3.4,0.092226636,business,family
+,Ryokan Katsutaro,3.4,0.039074576,business,couple
+,Ryokan Sansuiso,4.2,0.023135606,business,solo
+,Sadachiyo,4.2,0.156796915,business,family
+,Sadachiyo,4.2,0.156796915,leisure,family
+,Sakura Hostel Asakusa,3.4,0.040620274,leisure,couple
+,Sakura Hostel Asakusa,3.4,0.040620274,business,couple
+,Sakura Hotel Ikebukuro,3.4,0.053467848,leisure,family
+,Sakura Hotel Ikebukuro,3.4,0.053467848,business,family
+,Sakura Hotel Ikebukuro,3.4,0.074027291,business,friend
+,Sakura Hotel Ikebukuro,3.4,0.006182791,leisure,solo
+,Sakura Hotel Ikebukuro,3.4,0.074027291,leisure,friend
+,Sanco Inn Grande Tokyo Hamamatsucho,3.8,0.03393887,leisure,solo
+,Sauna and Capsule Hotel Dandy (Male Only),2.6,0.049262885,business,friend
+,Senju Tamuraya,4.2,0.010288032,business,solo
+,Senju Tamuraya,4.2,0.010288032,leisure,solo
+,Senju Tamuraya,4.2,0.066332042,leisure,friend
+,Senju Tamuraya,4.2,0.027257467,leisure,couple
+,Senju Tamuraya,4.2,0.027257467,business,couple
+,"Shangri-La Hotel, Tokyo",4.2,0.530905646,business,family
+,"Shangri-La Hotel, Tokyo",4.2,0.530905646,leisure,family
+,Shiba Park Hotel,3.4,0.080725315,business,family
+,Shiba Park Hotel,3.4,0.111556169,business,friend
+,Shiba Park Hotel,3.4,0.080725315,leisure,family
+,Shiba Park Hotel 151,4.2,0.122359433,business,family
+,Shiba Park Hotel 151,4.2,0.122359433,leisure,family
+,Shibuya Creston Hotel,3.4,0.166420131,leisure,family
+,Shibuya Creston Hotel,3.4,0.061977496,leisure,solo
+,Shibuya Creston Hotel,3.4,0.166420131,business,family
+,Shibuya Creston Hotel,3.4,0.061977496,business,solo
+,Shibuya Granbell Hotel,3.4,0.143949341,leisure,family
+,Shibuya Granbell Hotel,3.4,0.162979706,business,friend
+,Shibuya Hotel En,3.4,0.068376352,leisure,solo
+,Shibuya Hotel En,3.4,0.168630645,leisure,family
+,Shibuya Hotel En,3.4,0.068376352,business,solo
+,Shibuya Tobu Hotel,3.4,0.182043313,leisure,family
+,Shibuya Tobu Hotel,3.4,0.071467748,business,solo
+,Shibuya Tobu Hotel,3.4,0.098758456,business,couple
+,Shibuya Tobu Hotel,3.4,0.209350641,leisure,friend
+,Shibuya Tobu Hotel,3.4,0.098758456,leisure,couple
+,Shibuya Tokyu REI Hotel,3.4,0.161434009,leisure,friend
+,Shibuya Tokyu REI Hotel,3.4,0.161434009,business,friend
+,Shibuya Tokyu REI Hotel,3.4,0.141024149,leisure,family
+,Shinagawa Prince Hotel,3.4,0.040088421,leisure,solo
+,Shinagawa Prince Hotel,3.4,0.040088421,business,solo
+,Shinagawa Prince Hotel,3.4,0.165289943,leisure,friend
+,Shinagawa Tobu Hotel,3.4,0.056044011,business,couple
+,Shinagawa Tobu Hotel,3.4,0.056044011,leisure,couple
+,Shinagawa Tobu Hotel,3.4,0.333654661,leisure,friend
+,Shinbashi Atagoyama Tokyu REI Hotel,2.6,0.039074576,business,couple
+,Shinjuku City Hotel N.U.T.S Tokyo,2.6,0.091511958,leisure,friend
+,Shinjuku Granbell Hotel,3.4,0.142403643,leisure,friend
+,Shinjuku Granbell Hotel,3.4,0.122359433,leisure,family
+,Shinjuku Kuyakusho-mae Capsule Hotel,3.4,0.034454103,business,couple
+,Shinjuku Kuyakusho-mae Capsule Hotel,3.4,0.034454103,leisure,couple
+,Shinjuku Kuyakusho-mae Capsule Hotel,3.4,0.080725315,business,friend
+,Shinjuku Prince Hotel,3.4,0.085894261,leisure,couple
+,Shinjuku Prince Hotel,3.4,0.183622251,business,friend
+,Shinjuku Washington Hotel,3.4,0.04781691,business,solo
+,Shinjuku Washington Hotel,3.4,0.120813735,business,family
+,Shinjuku Washington Hotel,3.4,0.070437283,leisure,couple
+,Shinjuku Washington Hotel,3.4,0.04781691,leisure,solo
+,Shinjuku Washington Hotel,3.4,0.070437283,business,couple
+,Shinjuku Washington Hotel,3.4,0.152691675,leisure,friend
+,Shinjuku Washington Hotel,3.4,0.120813735,leisure,family
+,Shinkoiwa Park Hotel,3.4,0.059949806,business,friend
+,Shinkoiwa Park Hotel,3.4,0.059949806,leisure,friend
+,Shinkoiwa Park Hotel,3.4,0.024066349,leisure,couple
+,Shinnakano,1.4,0.08586102,business,family
+,Shinnakano,1.4,0.08586102,leisure,family
+,Smi:re Stay Tokyo,4.2,0.07276414,business,family
+,Smi:re Stay Tokyo,4.2,0.07276414,leisure,family
+,Smi:re Stay Tokyo,4.2,0.07276414,business,couple
+,Smile Hotel Nihombashi Mitsukoshimae,3.4,0.056044011,business,family
+,Smile Hotel Nihombashi Mitsukoshimae,3.4,0.024166071,leisure,couple
+,Smile Hotel Nihombashi Mitsukoshimae,3.4,0.056044011,leisure,family
+,Smile Hotel Nihombashi Mitsukoshimae,3.4,0.060149251,business,friend
+,Smile Hotel Sugamo,3.4,0.020060831,leisure,solo
+,Smile Hotel Sugamo,3.4,0.020060831,business,solo
+,Smile Hotel Sugamo,3.4,0.069406818,business,friend
+,Sotetsu Fresa Inn Ginza-Nanachome,3.4,0.097678129,business,family
+,Sotetsu Fresa Inn Ginza-Nanachome,3.4,0.097678129,leisure,family
+,Sotetsu Fresa Inn Hamamatsucho-Daimon,3.4,0.11773896,business,family
+,Sotetsu Fresa Inn Hamamatsucho-Daimon,3.4,0.11773896,leisure,family
+,Sotetsu Fresa Inn Hamamatsucho-Daimon,3.4,0.11773896,leisure,friend
+,Sotetsu Fresa Inn Nihombashi Kayabacho,3.4,0.042165971,leisure,solo
+,Sotetsu Fresa Inn Nihombashi Kayabacho,3.4,0.042165971,business,solo
+,Sotetsu Fresa Inn Nihombashi Kayabacho,3.4,0.042165971,business,couple
+,Sotetsu Fresa Inn Nihombashi Kayabacho,3.4,0.096149052,leisure,family
+,Sotetsu Fresa Inn Ochanomizu Jimbocho,4.2,0.103345688,leisure,family
+,Sotetsu Fresa Inn Ochanomizu Jimbocho,4.2,0.045755979,business,solo
+,Sotetsu Fresa Inn Ochanomizu Jimbocho,4.2,0.103345688,business,family
+,Sotetsu Fresa Inn Shimbashi Hibiyaguchi,3.4,0.044725514,business,solo
+,Sotetsu Fresa Inn Shimbashi Hibiyaguchi,3.4,0.101284757,leisure,family
+,Sotetsu Fresa Inn Shimbashi Hibiyaguchi,3.4,0.044725514,leisure,solo
+,Sotetsu Fresa Inn Tokyo Kamata,3.4,0.042165971,business,couple
+,Sotetsu Fresa Inn Tokyo Kamata,3.4,0.096149052,leisure,friend
+,Spa & Capsule Hotel GrandPark-Inn Sugamo,3.4,0.04987784,business,friend
+,Spa & Capsule Hotel GrandPark-Inn Sugamo,3.4,0.003606628,leisure,solo
+,Star Inn,3.8,0.049362607,leisure,friend
+,Suidobashi Grand Hotel,2.6,0.134758256,leisure,friend
+,Suidobashi Grand Hotel,2.6,0.134758256,business,friend
+,Sun Members Tokyo Shinjuku,2.6,0.146525504,business,friend
+,Sunshine City Prince Hotel,3.4,0.123905131,leisure,family
+,Sunshine City Prince Hotel,3.4,0.123905131,business,family
+,Sunshine City Prince Hotel,3.4,0.061179716,business,couple
+,Sunshine City Prince Hotel,3.4,0.134176542,leisure,friend
+,Super Hotel Shinjuku Kabukicho,4.2,0.044725514,business,solo
+,Super Hotel Shinjuku Kabukicho,4.2,0.111556169,business,friend
+,Super Hotel Ueno-Okachimachi,3.4,0.1218442,business,family
+,Sutton Place Hotel Ueno,3.4,0.111556169,leisure,family
+,Sutton Place Hotel Ueno,3.4,0.111556169,business,family
+,Sutton Place Hotel Ueno,3.4,0.04987784,business,couple
+,Sutton Place Hotel Ueno,3.4,0.111556169,leisure,friend
+,The CALM Hotel Tokyo (Adult Only),2.6,0.150630744,leisure,friend
+,The Peninsula Tokyo,4.2,0.371283262,leisure,family
+,The Peninsula Tokyo,4.2,0.371283262,business,family
+,"The Prince Sakura Tower Tokyo, Autograph Collection",4.2,0.312480263,leisure,family
+,"The Prince Sakura Tower Tokyo, Autograph Collection",4.2,0.312480263,business,family
+,"The Strings by InterContinental, Tokyo",4.2,0.242142703,business,family
+,"The Strings by InterContinental, Tokyo",4.2,0.242142703,leisure,family
+,The Tokyo Station Hotel,4.2,0.521332292,leisure,family
+,The Tokyo Station Hotel,4.2,0.521332292,business,family
+,Tokyo Banyan Hotel,3.4,0.029301777,business,couple
+,Tokyo Banyan Hotel,3.4,0.029301777,leisure,couple
+,Tokyo Bay Ariake Washington Hotel,3.4,0.097162897,leisure,friend
+,Tokyo Bay Maihama Hotel Club Resort,3.4,0.111556169,business,family
+,Tokyo Bay Maihama Hotel Club Resort,3.4,0.111556169,leisure,family
+,Tokyo Central Youth Hostel,3.4,0.050642379,leisure,couple
+,Tokyo Central Youth Hostel,3.4,0.059118786,business,friend
+,Tokyo Central Youth Hostel,3.4,0.059118786,leisure,friend
+,Tokyo Central Youth Hostel,3.4,0.00900826,leisure,solo
+,Tokyo Ginza BAY HOTEL,3.8,0.080725315,leisure,friend
+,Tokyo Green Palace,3.4,0.061977496,leisure,solo
+,Tokyo Green Palace,3.4,0.070636728,leisure,couple
+,Tokyo Green Palace,3.4,0.061977496,business,solo
+,Tokyo Guest House Itabashi-juku,4.2,0.024166071,leisure,couple
+,Tokyo Guest House Itabashi-juku,4.2,0.024166071,business,couple
+,Tokyo Guest House Itabashi-juku,4.2,0.060149251,leisure,friend
+,Tokyo Guest House Itabashi-juku,4.2,0.060149251,business,friend
+,Tokyo Hutte,3.8,0.002576163,business,solo
+,Tokyo Hutte,3.8,0.002576163,leisure,solo
+,Tokyo Hutte,3.8,0.016969435,business,couple
+,Tokyo Hutte,3.8,0.045755979,leisure,friend
+,Tokyo Hutte,3.8,0.016969435,leisure,couple
+,Tokyo Marriott Hotel,3.4,0.154104409,business,couple
+,Tokyo Marriott Hotel,3.4,0.154104409,leisure,couple
+,Tokyo Plaza Hotel,3.4,0.088437183,leisure,friend
+,Tokyu Stay Aoyama Premier,3.4,0.055528778,leisure,solo
+,Tokyu Stay Ginza,4.2,0.132647465,leisure,family
+,Tokyu Stay Ginza,4.2,0.132647465,business,family
+,Tokyu Stay Gotanda,3.8,0.024066349,leisure,solo
+,Tokyu Stay Gotanda,3.8,0.080608972,leisure,family
+,Tokyu Stay Gotanda,3.8,0.044725514,business,couple
+,Tokyu Stay Ikebukuro,4.2,0.098193362,leisure,family
+,Tokyu Stay Kamata,4.2,0.099223827,leisure,friend
+,Tokyu Stay Monzen-Nakacho,4.2,0.036515033,business,solo
+,Tokyu Stay Monzen-Nakacho,4.2,0.036515033,leisure,solo
+,Tokyu Stay Nishi Shinjuku,3.4,0.106935696,leisure,family
+,Tokyu Stay Nishi Shinjuku,3.4,0.154752605,business,friend
+,Tokyu Stay Nishi Shinjuku,3.4,0.154752605,leisure,friend
+,Tokyu Stay Shibuya,3.4,0.143434108,business,friend
+,Tokyu Stay Shibuya Shin-Minamiguchi,3.8,0.118254192,business,family
+,Tokyu Stay Shibuya Shin-Minamiguchi,3.8,0.132132232,leisure,friend
+,Tokyu Stay Shibuya Shin-Minamiguchi,3.8,0.118254192,leisure,family
+,Tokyu Stay Suidobashi,4.2,0.026742234,business,solo
+,Tokyu Stay Suidobashi,4.2,0.026742234,leisure,solo
+,Tokyu Stay Suidobashi,4.2,0.043196437,leisure,couple
+,Tokyu Stay Suidobashi,4.2,0.06992205,business,family
+,Tokyu Stay Suidobashi,4.2,0.06992205,leisure,family
+,Tokyu Stay Suidobashi,4.2,0.043196437,business,couple
+,Tokyu Stay Tsukiji,4.2,0.055013546,leisure,solo
+,Tokyu Stay Yoga,3.4,0.035999801,business,solo
+,Tokyu Stay Yoga,3.4,0.035999801,leisure,solo
+,Tokyu Stay Yoga,3.4,0.101284757,leisure,family
+,Tokyu Stay Yotsuya,3.4,0.070437283,business,couple
+,Toshi Center Hotel,3.4,0.205278641,business,friend
+,Toshi Center Hotel,3.4,0.205278641,leisure,friend
+,Toshi Center Hotel,3.4,0.205278641,business,family
+,Toyoko Inn Tokyo Akabane-eki Higashi-guchi Ichiban-gai,3.4,0.028720062,business,solo
+,Toyoko Inn Tokyo Akabane-eki Higashi-guchi Ichiban-gai,3.4,0.150298336,leisure,friend
+,Toyoko Inn Tokyo Akabane-eki Higashi-guchi Ichiban-gai,3.4,0.028720062,leisure,solo
+,Toyoko Inn Tokyo Asakusa Senzoku Tsukuba Express,3.4,0.0670301,leisure,couple
+,Toyoko Inn Tokyo Asakusa Senzoku Tsukuba Express,3.4,0.145860688,leisure,friend
+,Toyoko Inn Tokyo Haneda Kuko No.1,3.4,0.03149567,leisure,solo
+,Toyoko Inn Tokyo Haneda Kuko No.1,3.4,0.161417388,business,friend
+,Toyoko Inn Tokyo Haneda Kuko No.1,3.4,0.161417388,leisure,friend
+,Toyoko Inn Tokyo Haneda Kuko No.2,3.4,0.074791829,business,couple
+,Toyoko Inn Tokyo Kamata Higashi-guchi,2.6,0.083683747,business,family
+,Toyoko Inn Tokyo Kamata Higashi-guchi,2.6,0.083683747,leisure,family
+,Toyoko Inn Tokyo Kanda Akihabara,3.4,0.028720062,business,solo
+,Toyoko Inn Tokyo Kanda Akihabara,3.4,0.028720062,leisure,solo
+,Toyoko Inn Tokyo Monzen-Nakacho Eitaibashi,3.4,0.075356923,business,family
+,Toyoko Inn Tokyo Monzen-Nakacho Eitaibashi,3.4,0.035933319,leisure,couple
+,Toyoko Inn Tokyo Monzen-Nakacho Eitaibashi,3.4,0.075356923,leisure,family
+,Toyoko Inn Tokyo Monzen-Nakacho Eitaibashi,3.4,0.027606495,business,solo
+,Toyoko Inn Tokyo Nihombashi Ningyocho,3.4,0.034271278,business,couple
+,Toyoko Inn Tokyo Nihombashi Ningyocho,3.4,0.034271278,leisure,couple
+,Toyoko Inn Tokyo Nihombashi Ningyocho,3.4,0.074791829,business,family
+,Toyoko Inn Tokyo Nihombashi Ningyocho,3.4,0.080343045,business,friend
+,Toyoko Inn Tokyo Shinjuku Kabuki-cho,3.4,0.074791829,business,couple
+,Toyoko Inn Tokyo Shinjuku Kabuki-cho,3.4,0.03149567,leisure,solo
+,Toyoko Inn Tokyo Shinjuku Kabuki-cho,3.4,0.03149567,business,solo
+,Toyoko Inn Tokyo Tozai-Sen Nishi-kasai,3.4,0.078132531,business,friend
+,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,3.4,0.039822494,business,family
+,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,3.4,0.039822494,leisure,family
+,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,3.4,0.091445477,leisure,friend
+,UNIZO INN Tokyo Asakusa,3.4,0.104160088,leisure,friend
+,Ueno First City Hotel,3.4,0.090996726,business,friend
+,Ueno First City Hotel,3.4,0.029634185,business,couple
+,Ueno First City Hotel,3.4,0.090996726,leisure,friend
+,Ueno Hotel,3.4,0.029301777,business,solo
+,Ueno Terminal Hotel,3.4,0.109096348,leisure,family
+,Ueno Terminal Hotel,3.4,0.146741569,leisure,friend
+,Ueno Terminal Hotel,3.4,0.109096348,business,family
+,Urayasu Beaufort Hotel,2.6,0.058420729,leisure,solo
+,Urayasu Brighton Hotel Tokyo Bay,4.2,0.126979906,business,family
+,Urbain Tokyo Haneda Kamata,3.4,0.081240547,business,family
+,Urbain Tokyo Haneda Kamata,3.4,0.081240547,leisure,family
+,Urbain Tokyo Haneda Kamata,3.4,0.030847475,business,solo
+,Vessel Inn Ueno Iriya Ekimae,3,0.156281683,business,friend
+,Wise Owl Hostels Tokyo,4.2,0.075572989,leisure,friend
+,YMCA Asia Youth Center,2.6,0.051423538,leisure,family
+,YMCA Asia Youth Center,2.6,0.084830555,leisure,friend
+,YMCA Asia Youth Center,2.6,0.051423538,business,family
+,Yadoya Guest House Green,3,0.024681304,business,family
+,Zabutton hostel,4.2,0.027041401,leisure,couple
+,Zabutton hostel,4.2,0.027041401,business,couple
+,Zabutton hostel,4.2,0.065916532,leisure,friend
+,commun SHIBUYA (Male Only),3.4,0.007711869,business,solo
+,the b Akasaka,3.4,0.024166071,leisure,solo
+,the b Akasaka,3.4,0.111556169,leisure,friend
+,the b Akasaka,3.4,0.024166071,business,solo
+,the b Roppongi,3.4,0.029700666,leisure,solo
+,the b Roppongi,3.4,0.106420463,leisure,family
+,the b Roppongi,3.4,0.029700666,business,solo
+,the b Roppongi,3.4,0.110542324,leisure,friend
+,the b Roppongi,3.4,0.049362607,leisure,couple
+,the b Roppongi,3.4,0.049362607,business,couple
+,the b sangenjaya,2.6,0.097428823,business,friend
+,the b sangenjaya,2.6,0.087273755,leisure,family
+,the b sangenjaya,2.6,0.087273755,business,family
+,the b sangenjaya,2.6,0.097428823,leisure,friend
+,the b tokyo akasaka-mitsuke,3.4,0.097428823,leisure,family
+,the b tokyo akasaka-mitsuke,3.4,0.042797547,leisure,solo
+,the b tokyo akasaka-mitsuke,3.4,0.097428823,business,family
+,the b tokyo akasaka-mitsuke,3.4,0.042797547,business,couple
+,the b tokyo akasaka-mitsuke,3.4,0.042797547,business,solo
+,the b tokyo ochanomizu,3.4,0.060149251,business,family
+,the b tokyo ochanomizu,3.4,0.060149251,leisure,family

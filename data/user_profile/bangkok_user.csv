@@ -1,0 +1,1024 @@
+﻿user_id,hotel_name,rating,price,trip_type,companion
+,128 Bangkok,2.6,0.04345556,leisure,solo
+,128 Bangkok,2.6,0.04345556,business,solo
+,130 Hotel & Residence Bangkok,4.2,0.052948855,leisure,friend
+,130 Hotel & Residence Bangkok,4.2,0.024468969,business,couple
+,130 Hotel & Residence Bangkok,4.2,0.024468969,leisure,couple
+,130 Hotel & Residence Bangkok,4.2,0.052948855,business,friend
+,14 Residence,2.6,0.017348997,leisure,family
+,14 Residence,2.6,0.017348997,business,family
+,14 Resort,2.6,0.029215616,business,family
+,1989 Hostel & Cafe,4.2,0.100510265,leisure,solo
+,1989 Hostel & Cafe,4.2,0.100510265,business,solo
+,1sabai,4.2,0.002159725,business,solo
+,1sabai,4.2,0.040132906,business,family
+,1sabai,4.2,0.040132906,leisure,family
+,2W Bed & Breakfast Bangkok,4.2,0.019722321,business,couple
+,2W Bed & Breakfast Bangkok,4.2,0.019722321,leisure,couple
+,2W Bed & Breakfast Bangkok,4.2,0.033962264,business,friend
+,2W Bed & Breakfast Bangkok,4.2,0.005482378,leisure,solo
+,2W Bed & Breakfast Bangkok,4.2,0.005482378,business,solo
+,2W Bed & Breakfast Bangkok,4.2,0.033962264,leisure,friend
+,38 Mansion,1.8,0.052948855,leisure,friend
+,38 Mansion,1.8,0.052948855,business,friend
+,39 Boulevard Executive Residence,2.6,0.098042008,leisure,family
+,Abloom Exclusive Serviced Apartments,2.6,0.176361695,leisure,family
+,Ac Habitat Bangkok,2.6,0.017348997,leisure,couple
+,Ac Habitat Bangkok,2.6,0.017348997,business,couple
+,Ad Lib,4.2,0.076990625,business,solo
+,Ad Lib,4.2,0.157992168,leisure,family
+,Adamaz House,2.6,0.040844903,leisure,family
+,Adamaz House,2.6,0.040844903,business,family
+,Adelphi Grande Sukhumvit by Compass Hospitality,2.6,0.086151655,business,family
+,Adelphi Suites Bangkok,4.2,0.083208734,business,couple
+,Adelphi Suites Bangkok,4.2,0.083208734,business,solo
+,Adelphi Suites Bangkok,4.2,0.083208734,leisure,solo
+,Aetas Bangkok,4.2,0.073311973,business,couple
+,Aetas Bangkok,4.2,0.073311973,leisure,couple
+,Aetas Lumpini,4.2,0.074427436,business,solo
+,Aetas Lumpini,4.2,0.074427436,business,couple
+,Aetas Lumpini,4.2,0.074427436,leisure,couple
+,Aim House Bangkok,4.2,0.02162098,business,couple
+,Aim House Bangkok,4.2,0.02162098,business,solo
+,Aim House Bangkok,4.2,0.047252878,leisure,friend
+,Aim House Bangkok,4.2,0.047252878,business,friend
+,Aim House Bangkok,4.2,0.02162098,leisure,couple
+,Akyra Thonglor Bangkok,2.6,0.003702385,business,friend
+,Al Meroz Hotel Bangkok - The Leading Halal Hotel,4.2,0.162121752,leisure,family
+,Al Meroz Hotel Bangkok - The Leading Halal Hotel,4.2,0.070748784,leisure,couple
+,Al Meroz Hotel Bangkok - The Leading Halal Hotel,4.2,0.162121752,business,friend
+,Aloft Bangkok - Sukhumvit 11,3.4,0.100723864,business,family
+,Aloft Bangkok - Sukhumvit 11,3.4,0.100723864,leisure,family
+,Amanta Hotel & Residence Ratchada,2.6,0.064815474,business,couple
+,Amanta Hotel & Residence Ratchada,2.6,0.064815474,leisure,couple
+,Amara Bangkok Hotel,4.2,0.075614098,business,solo
+,Amara Bangkok Hotel,4.2,0.155215379,leisure,friend
+,Amara Bangkok Hotel,4.2,0.075614098,leisure,couple
+,Amara Bangkok Hotel,4.2,0.075614098,leisure,solo
+,Amaranta Hotel,4.2,0.113468613,business,friend
+,Amaranta Hotel,4.2,0.056508841,leisure,solo
+,Amaranta Hotel,4.2,0.113468613,leisure,friend
+,Amaranta Hotel,4.2,0.056508841,leisure,couple
+,Amaranta Hotel,4.2,0.056508841,business,couple
+,Amaranta Hotel,4.2,0.060068826,leisure,family
+,Amaranta Hotel,4.2,0.060068826,business,family
+,Amari Don Muang Airport,2.6,0.049056604,leisure,family
+,Amari Residences Bangkok,2.6,0.183149401,leisure,family
+,Amari Watergate Bangkok,4.2,0.088168981,business,couple
+,Amari Watergate Bangkok,4.2,0.088168981,business,family
+,Amari Watergate Bangkok,4.2,0.367509197,leisure,friend
+,Amari Watergate Bangkok,4.2,0.088168981,leisure,couple
+,Amarin Inn,2.6,0.012365017,leisure,family
+,Amarin Inn,2.6,0.012365017,business,family
+,Anantara Baan Rajprasong Bangkok Serviced Suites,4.2,0.123578972,leisure,couple
+,Anantara Baan Rajprasong Bangkok Serviced Suites,4.2,0.123578972,business,couple
+,Anantara Baan Rajprasong Bangkok Serviced Suites,4.2,0.251168862,leisure,friend
+,Anantara Riverside Bangkok Resort,4.2,0.132170405,business,couple
+,Anantara Sathorn Bangkok Hotel,3.4,0.060946956,leisure,couple
+,Anantara Sathorn Bangkok Hotel,3.4,0.135042126,business,family
+,Anantara Siam Bangkok Hotel,4.2,0.145271152,business,solo
+,Anantara Siam Bangkok Hotel,4.2,0.403821051,leisure,friend
+,Anantara Siam Bangkok Hotel,4.2,0.145271152,leisure,solo
+,Anantara Siam Bangkok Hotel,4.2,0.403821051,business,friend
+,Aphrodite Inn Bangkok,2.6,0.107630236,leisure,family
+,Aphrodite Inn Bangkok,2.6,0.107630236,business,family
+,Ariyasom Villa,4.2,0.152628456,business,couple
+,Ariyasom Villa,4.2,0.152628456,business,solo
+,Ariyasom Villa,4.2,0.152628456,leisure,solo
+,Arte Hotel,4.2,0.067188798,business,family
+,Arte Hotel,4.2,0.162121752,business,friend
+,Ascott Sathorn Bangkok,4.2,0.123246707,business,family
+,Ascott Sathorn Bangkok,4.2,0.085938056,leisure,couple
+,Ascott Sathorn Bangkok,4.2,0.085938056,business,solo
+,Ascott Sathorn Bangkok,4.2,0.085938056,leisure,solo
+,Aspira D'Andora Sukhumvit 16,4.2,0.031565207,leisure,solo
+,Aspira D'Andora Sukhumvit 16,4.2,0.031565207,business,solo
+,Aspira G Sukhumvit 33,4.2,0.033321467,business,solo
+,Aspira G Sukhumvit 33,4.2,0.070630117,business,family
+,Aspira G Sukhumvit 33,4.2,0.033321467,leisure,solo
+,Aspira G Sukhumvit 33,4.2,0.070630117,leisure,family
+,Aspira G Sukhumvit 33,4.2,0.033321467,business,couple
+,B.S. Court Hotel Sathorn,2.6,0.024468969,business,family
+,BB Garden Resort,2.6,0.04250623,leisure,friend
+,BB Garden Resort,2.6,0.04250623,business,friend
+,BB Garden Resort,2.6,0.03158894,business,family
+,BEST WESTERN PLUS Wanda Grand Hotel,2.6,0.119591788,leisure,family
+,Baan Chantra,2.6,0.050575531,leisure,family
+,Baan Glang Soi,4.2,0.033962264,leisure,family
+,Baan Glang Soi,4.2,0.033962264,business,family
+,Baan Glang Soi,4.2,0.029215616,business,solo
+,Baan Hostel,4.2,0.019484989,business,friend
+,Baan Hostel,4.2,0.019484989,leisure,friend
+,Baan K Managed By Bliston,4.2,0.109695028,business,friend
+,Baan K Managed By Bliston,4.2,0.052830189,business,couple
+,Baan K Managed By Bliston,4.2,0.109695028,leisure,friend
+,Baan K Managed By Bliston,4.2,0.052830189,business,solo
+,Baan Manusarn,4.2,0.029215616,leisure,family
+,Baan Nai Trok,2.6,0.002634389,leisure,solo
+,Baan Nai Trok,2.6,0.02257031,leisure,friend
+,Baan Nampetch Hostel,4.2,0.013314347,business,solo
+,Baan Nampetch Hostel,4.2,0.013314347,business,couple
+,Baan Nampetch Hostel,4.2,0.013314347,leisure,solo
+,Baan Noppawong,4.2,0.038708912,business,solo
+,Baan Noppawong,4.2,0.055322179,leisure,couple
+,Baan Noppawong,4.2,0.114655275,leisure,friend
+,Baan Noppawong,4.2,0.055322179,leisure,family
+,Baan Pra Nond Bed & Breakfast,4.2,0.094007357,leisure,friend
+,Baan Pra Nond Bed & Breakfast,4.2,0.040844903,business,couple
+,Baan Pra Nond Bed & Breakfast,4.2,0.040844903,leisure,couple
+,Baan Tanwa - MRT Ratchadapisek,4.2,0.054847514,business,friend
+,Baan Tanwa - MRT Ratchadapisek,4.2,0.054847514,leisure,friend
+,Baan Tanwa - MRT Ratchadapisek,4.2,0.026367628,business,couple
+,Baan Tanwa - MRT Ratchadapisek,4.2,0.026367628,leisure,couple
+,Baan Tipa House Wanglang,2.6,0.04345556,business,family
+,Baan Tipa House Wanglang,2.6,0.04345556,leisure,family
+,"Baan Wanglang Riverside, Bangkok",2.6,0.076682093,leisure,family
+,Baansilom Soi 3,2.6,0.064578142,business,friend
+,Baansilom Soi 3,2.6,0.064578142,leisure,friend
+,Back Home Backpackers,4.2,0.026367628,leisure,friend
+,Ban Kru Ae Homestay,4.2,0.024468969,business,couple
+,Ban Kru Ae Homestay,4.2,0.024468969,leisure,couple
+,"Bandara Suites Silom, Bangkok",2.6,0.097448677,business,family
+,Bangkok Bed and Bike,4.2,0.038708912,leisure,friend
+,Bangkok Bed and Bike,4.2,0.038708912,business,friend
+,Bangkok Bed and Bike,4.2,0.00666904,business,solo
+,Bangkok Bed and Bike,4.2,0.028028955,leisure,couple
+,Bangkok Bed and Bike,4.2,0.028028955,business,couple
+,Bangkok Feliz Sukumvit69,2.6,0.061255488,leisure,solo
+,Bangkok Hub,2.6,0.042743562,leisure,friend
+,Bangkok Living,2.6,0.064815474,leisure,family
+,Bangkok Loft Inn,4.2,0.052948855,leisure,friend
+,Bangkok Loft Inn,4.2,0.052948855,leisure,family
+,Bangkok Loft Inn,4.2,0.052948855,business,friend
+,Bangkok Loft Inn,4.2,0.052948855,business,family
+,Bangkok Marriott Hotel Sukhumvit,4.2,0.131458407,leisure,solo
+,Bangkok Marriott Hotel Sukhumvit,4.2,0.131458407,business,solo
+,Bangkok Marriott Hotel Sukhumvit,4.2,0.382864602,leisure,friend
+,Bangkok Marriott Hotel Sukhumvit,4.2,0.382864602,business,friend
+,Bangkok Marriott Marquis Queen’s Park,1.8,0.10912543,leisure,family
+,Bangkok Patio,4.2,0.087362051,business,friend
+,Bangkok Patio,4.2,0.087362051,leisure,friend
+,Bangkok Patio,4.2,0.045828883,business,solo
+,Bangkok Patio,4.2,0.045828883,leisure,solo
+,Bangkok Story Hostel,4.2,0.002990388,leisure,solo
+,Bangkok Story Hostel,4.2,0.002990388,business,solo
+,Bangkok W18 Hostel,4.2,0.01260235,leisure,couple
+,Bangkok W18 Hostel,4.2,0.01260235,business,couple
+,Banyan Tree Bangkok,4.2,0.131743206,business,solo
+,Banyan Tree Bangkok,4.2,0.131743206,leisure,couple
+,Banyan Tree Bangkok,4.2,0.146837546,leisure,family
+,Banyan Tree Bangkok,4.2,0.131743206,leisure,solo
+,Banyan Tree Bangkok,4.2,0.131743206,business,couple
+,Bed Station Hostel,4.2,0.081428741,business,friend
+,Bed Station Hostel,4.2,0.081428741,leisure,friend
+,Bed Station Hostel,4.2,0.005078913,business,solo
+,Bed Station Hostel,4.2,0.081428741,business,couple
+,Bed Station Hostel,4.2,0.005078913,leisure,solo
+,Bed@Town Hostel,3.4,0.048202207,leisure,friend
+,Beekataa Hostel Donmueang,4.2,0.052948855,leisure,friend
+,Beekataa Hostel Donmueang,4.2,0.022095645,leisure,solo
+,Best Western Premier Sukhumvit,2.6,0.143230094,business,family
+,Beverly 33 by Aspira,4.2,0.06244215,leisure,family
+,Beverly 33 by Aspira,4.2,0.055796843,business,solo
+,Bizotel Bangkok,4.2,0.098042008,leisure,friend
+,Bizotel Bangkok,4.2,0.047015545,business,couple
+,Bizotel Bangkok,4.2,0.047015545,leisure,couple
+,Bizotel Bangkok,4.2,0.098042008,business,friend
+,Blackfish Guest House,4.2,0.016162335,leisure,couple
+,Blackfish Guest House,4.2,0.018535659,business,family
+,Blackfish Guest House,4.2,0.018535659,leisure,family
+,Blackfish Guest House,4.2,0.016162335,business,couple
+,Bless Residence Bangkok,2.6,0.123934971,leisure,family
+,Bless Residence Bangkok,2.6,0.123934971,business,family
+,Bliston Suwan Park View,4.2,0.092346031,leisure,couple
+,Bliston Suwan Park View,4.2,0.092346031,leisure,family
+,Bliston Suwan Park View,4.2,0.188702979,leisure,friend
+,Blue Jasmine Hostel,4.2,0.021858313,business,family
+,Bourbon St. Boutique Hotel,2.6,0.038708912,business,family
+,Boxpackers Hostel,4.2,0.006431708,business,solo
+,Boxpackers Hostel,4.2,0.037759582,leisure,friend
+,Boxpackers Hostel,4.2,0.037759582,business,friend
+,Brunch Makers,4.2,0.007855702,business,solo
+,Brunch Makers,4.2,0.048202207,business,friend
+,Brunch Makers,4.2,0.007855702,leisure,solo
+,Brunch Makers,4.2,0.048202207,leisure,friend
+,Bubble Space,4.2,0.052948855,business,friend
+,Bubble Space,4.2,0.005482378,business,solo
+,Budacco,2.6,0.038708912,leisure,family
+,Buddy Mansion,1,0.018298327,business,family
+,C40Winks Hostel,4.2,0.005245046,business,solo
+,C40Winks Hostel,4.2,0.041794233,business,friend
+,C40Winks Hostel,4.2,0.023282307,business,couple
+,C40Winks Hostel,4.2,0.041794233,leisure,friend
+,CHERN Hostel,3.4,0.041082236,leisure,friend
+,CHERN Hostel,3.4,0.041082236,business,friend
+,CHERN Hostel,3.4,0.03158894,business,family
+,CK2 Hotel,2.6,0.028740952,leisure,family
+,CK2 Hotel,2.6,0.028740952,business,family
+,COMO Metropolitan Bangkok,4.2,0.109956094,business,couple
+,Cabochon Hotel & Residence,4.2,0.304521182,business,friend
+,Cabochon Hotel & Residence,4.2,0.150255132,business,solo
+,Cabochon Hotel & Residence,4.2,0.304521182,leisure,friend
+,Cabochon Hotel & Residence,4.2,0.150255132,leisure,solo
+,Cacha Hotel,2.6,0.033962264,business,family
+,Cacha Hotel,2.6,0.033962264,leisure,family
+,Calypzo Ratchada 20,2.6,0.04345556,business,family
+,Canale Hostel,4.2,0.006431708,business,solo
+,Cape House Serviced Apartments,4.2,0.219081524,business,friend
+,Cape House Serviced Apartments,4.2,0.219081524,leisure,friend
+,Cape House Serviced Apartments,4.2,0.107535303,business,solo
+,Cape House Serviced Apartments,4.2,0.107535303,leisure,solo
+,Casa Nithra,4.2,0.04345556,business,solo
+,Casa Nithra,4.2,0.090922036,leisure,friend
+,Casa Nithra,4.2,0.090922036,business,family
+,Casa Nithra,4.2,0.04345556,business,couple
+,Casa Nithra,4.2,0.090922036,business,friend
+,Casa Nithra,4.2,0.090922036,leisure,family
+,Cazz Hostel,4.2,0.013789012,leisure,couple
+,Cazz Hostel,4.2,0.013789012,business,couple
+,Cazz Hostel,4.2,0.002515723,leisure,solo
+,Centara Watergate Pavillion Hotel Bangkok,3.4,0.066381868,business,couple
+,Centara Watergate Pavillion Hotel Bangkok,3.4,0.066381868,leisure,solo
+,Centara Watergate Pavillion Hotel Bangkok,3.4,0.096546814,business,family
+,Centara Watergate Pavillion Hotel Bangkok,3.4,0.066381868,leisure,couple
+,Centre Point Chidlom,4.2,0.065764804,leisure,couple
+,Centre Point Chidlom,4.2,0.065764804,business,couple
+,Centre Point Chidlom,4.2,0.136015189,leisure,friend
+,Centre Point Chidlom,4.2,0.136015189,business,friend
+,Centre Point Chidlom,4.2,0.065764804,business,family
+,Centre Point Chidlom,4.2,0.065764804,leisure,solo
+,Centre Point Chidlom,4.2,0.065764804,business,solo
+,Centre Point Pratunam,2.6,0.112281951,business,family
+,Centre Point Silom,4.2,0.126996559,business,friend
+,Centre Point Silom,4.2,0.066239468,business,solo
+,Centre Point Silom,4.2,0.126996559,leisure,friend
+,Centre Point Silom,4.2,0.066239468,leisure,couple
+,Centre Point Silom,4.2,0.066239468,leisure,solo
+,Centre Point Sukhumvit Thong-Lo,2.6,0.073122108,leisure,family
+,Centre Point Sukhumvit Thong-Lo,2.6,0.073122108,business,family
+,Chakrabongse Villas,5,0.609255963,business,friend
+,Chakrabongse Villas,5,0.209303429,business,solo
+,"Chaophya Park Hotel, Bangkok",2.6,0.111427554,leisure,family
+,Chateau de Sukhumvit,4.2,0.05247419,leisure,friend
+,Chateau de Sukhumvit,4.2,0.038708912,business,family
+,Chateau de Sukhumvit,4.2,0.05247419,business,friend
+,Chateau de Sukhumvit,4.2,0.021407381,business,couple
+,Chateau de Sukhumvit,4.2,0.021407381,leisure,couple
+,Chatrium Hotel Riverside Bangkok,4.2,0.160460425,leisure,friend
+,Chatrium Hotel Riverside Bangkok,4.2,0.078058621,leisure,solo
+,Chatrium Hotel Riverside Bangkok,4.2,0.160460425,business,friend
+,Chatrium Hotel Riverside Bangkok,4.2,0.078058621,business,couple
+,Chatrium Residence Sathon Bangkok,3.4,0.119591788,business,friend
+,Chatrium Residence Sathon Bangkok,3.4,0.100011867,business,family
+,Chatrium Residence Sathon Bangkok,3.4,0.119591788,leisure,friend
+,Check-in My Hostel,4.2,0.013789012,business,couple
+,Check-in My Hostel,4.2,0.013789012,leisure,couple
+,Check-in My Hostel,4.2,0.004889047,leisure,solo
+,Check-in My Hostel,4.2,0.004889047,business,solo
+,Chillax Resort,3.4,0.100415332,leisure,friend
+,Chillax Resort,3.4,0.100415332,business,family
+,Chillax Resort,3.4,0.100415332,business,friend
+,Citadines Sukhumvit 16 Bangkok,2.6,0.088145247,leisure,family
+,Citrus Sukhumvit 11 by Compass Hospitality,2.6,0.038685179,leisure,family
+,Citypoint Hotel,4.2,0.095668684,business,friend
+,Citypoint Hotel,4.2,0.045828883,leisure,couple
+,Citypoint Hotel,4.2,0.045828883,business,solo
+,Citypoint Hotel,4.2,0.045828883,business,couple
+,Citypoint Hotel,4.2,0.095668684,leisure,friend
+,Cloudy Hostel,4.2,0.024468969,business,friend
+,Cloudy Hostel,4.2,0.024468969,leisure,friend
+,Cloudy Hostel,4.2,0.010229026,business,couple
+,Cloudy Hostel,4.2,0.003109054,business,solo
+,Cocktail Hostel & Bar,4.2,0.00073573,business,solo
+,Compass SkyView Hotel,4.2,0.225038567,business,friend
+,Compass SkyView Hotel,4.2,0.089023377,leisure,solo
+,Compass SkyView Hotel,4.2,0.089023377,business,solo
+,Conrad Bangkok,3.4,0.127827222,leisure,solo
+,Conrad Bangkok,3.4,0.132312804,leisure,couple
+,Conrad Bangkok,3.4,0.202705589,leisure,family
+,Conrad Bangkok,3.4,0.127827222,business,solo
+,Conrad Bangkok,3.4,0.268636525,business,friend
+,Conrad Bangkok Residences,2.6,0.244594755,business,family
+,Coop Hostel,4.2,0.019484989,leisure,couple
+,Counting star Hostel,4.2,0.026367628,business,friend
+,Counting star Hostel,4.2,0.003583719,leisure,solo
+,Counting star Hostel,4.2,0.026367628,leisure,friend
+,Cozy@9Hotel&Kitchen,2.6,0.062157351,leisure,friend
+,Cozy@9Hotel&Kitchen,2.6,0.062157351,business,friend
+,Crowne Plaza Bangkok Lumpini Park,4.2,0.133262134,business,solo
+,Crowne Plaza Bangkok Lumpini Park,4.2,0.270535185,business,friend
+,Crowne Plaza Bangkok Lumpini Park,4.2,0.270535185,leisure,friend
+,Crowne Plaza Bangkok Lumpini Park,4.2,0.133262134,leisure,solo
+,Crowne Plaza Bangkok Lumpini Park,4.2,0.133262134,business,couple
+,D&N Hostel,4.2,0.014738341,business,couple
+,D&N Hostel,4.2,0.014738341,leisure,couple
+,D&N Hostel,4.2,0.028740952,business,family
+,Darin Hostel,4.2,0.010229026,business,solo
+,Darin Hostel,4.2,0.010229026,leisure,solo
+,De Talak Hostel,3.4,0.013077014,leisure,couple
+,De Talak Hostel,3.4,0.013077014,business,couple
+,De Talak Hostel,3.4,0.003109054,leisure,solo
+,De Talak Hostel,3.4,0.020908983,business,family
+,Dewan Bangkok,4.2,0.050575531,business,family
+,Dewan Bangkok,4.2,0.050575531,business,couple
+,Dewan Bangkok,4.2,0.109908627,business,friend
+,Dewan Bangkok,4.2,0.050575531,leisure,couple
+,Dewan Bangkok,4.2,0.109908627,leisure,friend
+,Dhub Hostel Donmueng,4.2,0.005482378,business,solo
+,Dhub Hostel Donmueng,4.2,0.014975673,leisure,couple
+,Dhub Hostel Donmueng,4.2,0.005482378,leisure,solo
+,Dinsomon,4.2,0.028028955,leisure,couple
+,Dinsomon,4.2,0.028028955,business,couple
+,Don Muang Boutique House,2.6,0.005482378,leisure,couple
+,Don Muang Boutique House,2.6,0.005482378,business,couple
+,Double DD House,2.6,0.033962264,leisure,family
+,DoubleTree by Hilton Sukhumvit Bangkok,3.4,0.063035481,business,solo
+,DoubleTree by Hilton Sukhumvit Bangkok,3.4,0.063035481,leisure,solo
+,Dream Hotel Bangkok,2.6,0.090922036,leisure,family
+,Eastin Grand Hotel Sathorn,4.2,0.092061232,business,solo
+,Eight Ville,2.6,0.055322179,business,friend
+,Emporium Suites by Chatrium,2.6,0.115462205,leisure,couple
+,Emporium Suites by Chatrium,2.6,0.350492465,business,friend
+,Emporium Suites by Chatrium,2.6,0.156212175,business,family
+,Emporium Suites by Chatrium,2.6,0.350492465,leisure,friend
+,Escape at Sathorn Terrace,3.4,0.030402278,leisure,family
+,Evergreen Laurel Hotel Sathorn Bangkok,4.2,0.126521894,leisure,friend
+,Evergreen Laurel Hotel Sathorn Bangkok,4.2,0.126521894,business,friend
+,Evergreen Laurel Hotel Sathorn Bangkok,4.2,0.061255488,leisure,couple
+,Feung Nakorn Balcony Rooms and Cafe,4.2,0.038234247,leisure,family
+,Feung Nakorn Balcony Rooms and Cafe,4.2,0.038234247,business,family
+,First Inn On Nut,4.2,0.004295716,business,solo
+,"Four Points by Sheraton Bangkok, Sukhumvit 15",4.2,0.165824137,leisure,friend
+,"Four Points by Sheraton Bangkok, Sukhumvit 15",4.2,0.165824137,business,friend
+,"Four Points by Sheraton Bangkok, Sukhumvit 15",4.2,0.078675685,leisure,solo
+,Fraser Suites Sukhumvit - Bangkok,2.6,0.165159606,business,friend
+,Fyn Hotel,3.4,0.03158894,leisure,family
+,GLOW Pratunam,4.2,0.131268542,leisure,friend
+,GLOW Pratunam,4.2,0.063628812,leisure,solo
+,GLOW Pratunam,4.2,0.063628812,business,solo
+,GLOW Pratunam,4.2,0.086175389,business,family
+,Gaam Hotel,4.2,0.073834105,business,friend
+,Gaam Hotel,4.2,0.034911594,leisure,couple
+,Glur Bharani Hostel,4.2,0.02162098,leisure,friend
+,Glur Bharani Hostel,4.2,0.02162098,business,friend
+,Golden Mountain Hostel,2.6,0.005482378,leisure,solo
+,Golden Tulip Sovereign Hotel Bangkok,1,0.136964519,leisure,family
+,Good Day Hostel,4.2,0.00666904,leisure,solo
+,Good One Hostel & Cafe Bar,4.2,0.004295716,business,solo
+,Good One Hostel & Cafe Bar,4.2,0.035148926,leisure,friend
+,Good One Hostel & Cafe Bar,4.2,0.004295716,leisure,solo
+,Good One Hostel & Cafe Bar,4.2,0.035148926,business,friend
+,Grand Hyatt Erawan Bangkok,4.2,0.201305328,business,solo
+,Grand Hyatt Erawan Bangkok,4.2,0.201305328,leisure,solo
+,Grand Mercure Bangkok Asoke Residence,3.4,0.068066928,business,couple
+,Grand Mercure Bangkok Asoke Residence,3.4,0.111641153,business,family
+,Grand Mercure Bangkok Asoke Residence,3.4,0.173086508,leisure,friend
+,Grand Swiss Sukhumvit 11 by Compass Hospitality,2.6,0.071911712,leisure,family
+,Grand Tower Inn Sathorn Hotel,2.6,0.06244215,business,friend
+,Grand Tower Inn Sathorn Hotel,2.6,0.06244215,leisure,friend
+,Grande Centre Point Hotel Terminal21,4.2,0.304521182,leisure,friend
+,Grande Centre Point Hotel Terminal21,4.2,0.304521182,business,friend
+,Grande Centre Point Hotel Terminal21,4.2,0.125382698,business,solo
+,Grande Centre Point Sukhumvit 55 Thong Lo,4.2,0.094743088,leisure,couple
+,Grande Centre Point Sukhumvit 55 Thong Lo,4.2,0.094743088,business,couple
+,Grande Centre Point Sukhumvit 55 Thong Lo,4.2,0.212056485,leisure,friend
+,Greyscale Short & Long Stay,2.6,0.011415688,leisure,couple
+,Greyscale Short & Long Stay,2.6,0.011415688,business,couple
+,Gulliver's Tavern Hotel,2.6,0.136015189,leisure,family
+,Gulliver's Tavern Hotel,2.6,0.136015189,business,family
+,Hansar Bangkok,4.2,0.314441676,leisure,family
+,Hansar Bangkok,4.2,0.155215379,business,solo
+,Hansar Bangkok,4.2,0.155215379,leisure,solo
+,Happy 3,4.2,0.071935446,business,family
+,Happy 3,4.2,0.105161979,leisure,friend
+,Happy 3,4.2,0.071935446,leisure,family
+,Happy Monkey Hostel Bangkok,4.2,0.00666904,leisure,solo
+,Happy Monkey Hostel Bangkok,4.2,0.00666904,business,solo
+,Heaven@4,2.6,0.03158894,business,family
+,Here Hostel Bangkok,4.2,0.00761837,business,solo
+,Here Hostel Bangkok,4.2,0.042743562,business,friend
+,Here Hostel Bangkok,4.2,0.00761837,leisure,solo
+,Here Hostel Bangkok,4.2,0.042743562,leisure,friend
+,Here Hostel Bangkok,4.2,0.019484989,business,couple
+,Here Hostel Bangkok,4.2,0.019484989,leisure,couple
+,Hide Bangkok Hostel,4.2,0.026248962,business,friend
+,Hide Bangkok Hostel,4.2,0.020908983,business,family
+,Hide Bangkok Hostel,4.2,0.026248962,leisure,friend
+,Hide Bangkok Hostel,4.2,0.002230924,leisure,solo
+,Hide Bangkok Hostel,4.2,0.020908983,leisure,family
+,Hide Bangkok Hostel,4.2,0.002230924,business,solo
+,Hide Bangkok Hostel,4.2,0.013789012,leisure,couple
+,Hide Bangkok Hostel,4.2,0.013789012,business,couple
+,Hilton Sukhumvit Bangkok,2.6,0.090969503,business,solo
+,Hilton Sukhumvit Bangkok,2.6,0.090969503,leisure,solo
+,Holiday Inn Bangkok Silom,2.6,0.159677228,business,family
+,Holiday Inn Express Bangkok Sathorn,4.2,0.098065741,leisure,friend
+,Holiday Inn Express Bangkok Sathorn,4.2,0.047015545,leisure,solo
+,Holiday Inn Express Bangkok Sathorn,4.2,0.047015545,business,couple
+,Holiday Inn Express Bangkok Sathorn,4.2,0.098065741,business,friend
+,Holiday Inn Express Bangkok Sathorn,4.2,0.047015545,leisure,couple
+,Home Base Hostel,4.2,0.010229026,business,couple
+,Home Base Hostel,4.2,0.014026344,business,friend
+,Home Base Hostel,4.2,0.000498398,business,solo
+,Home Base Hostel,4.2,0.010229026,leisure,couple
+,Homie Hostel & Cafe,4.2,0.005482378,leisure,solo
+,Homie Hostel & Cafe,4.2,0.024468969,business,couple
+,Homie Hostel & Cafe,4.2,0.005482378,business,solo
+,Honey House 2,1,0.019722321,business,family
+,Honey Place Guesthouse,4.2,0.010229026,leisure,couple
+,Honey Place Guesthouse,4.2,0.010229026,business,couple
+,Honey Place Guesthouse,4.2,0.004295716,leisure,solo
+,Hoppers Place Donmuang Hostel,4.2,0.012365017,leisure,couple
+,Hostel At Thonglor,4.2,0.005007713,business,solo
+,Hostel At Thonglor,4.2,0.005007713,leisure,solo
+,Hostel Thonglo7,4.2,0.038708912,business,family
+,Hostel Thonglo7,4.2,0.050575531,business,friend
+,Hotel Icon Bangkok,3.4,0.052379257,leisure,couple
+,Hotel Icon Bangkok,3.4,0.106680907,business,friend
+,Hotel Icon Bangkok,3.4,0.106680907,leisure,family
+,Hotel Icon Bangkok,3.4,0.106680907,business,family
+,Hotel Icon Bangkok,3.4,0.052379257,business,couple
+,Hotel Indigo Bangkok Wireless Road,4.2,0.112187018,business,solo
+,Hotel Muse Bangkok Langsuan - MGallery Collection,4.2,0.117930462,business,solo
+,Hotel Muse Bangkok Langsuan - MGallery Collection,4.2,0.117930462,leisure,solo
+,"Hotel Solo, Sukhumvit 2, Bangkok",2.6,0.095668684,business,family
+,I Rich Residence,4.2,0.038685179,leisure,family
+,I Rich Residence,4.2,0.038685179,business,family
+,I Rich Residence,4.2,0.017348997,leisure,couple
+,I Rich Residence,4.2,0.017348997,business,couple
+,I-Sleep Silom Hostel,2.6,0.033724932,leisure,friend
+,I-Sleep Silom Hostel,2.6,0.033724932,business,friend
+,Ibis Styles Bangkok Sukhumvit 50,3.4,0.028669752,leisure,couple
+,Ibis Styles Bangkok Sukhumvit 50,3.4,0.032300937,leisure,family
+,Ibrik Resort by the river,4.2,0.071935446,business,solo
+,Ibrik Resort by the river,4.2,0.071935446,leisure,solo
+,In a Box Hostel,4.2,0.03158894,leisure,friend
+,Inn Stations Hostel,4.2,0.002088525,business,solo
+,InterContinental Bangkok,4.2,0.151299395,business,solo
+,InterContinental Bangkok,4.2,0.306609707,leisure,friend
+,J No.14,2.6,0.038708912,business,solo
+,JC House,4.2,0.002634389,leisure,solo
+,JC House,4.2,0.02257031,leisure,friend
+,JW Marriott Hotel Bangkok,4.2,0.335398125,leisure,friend
+,JW Marriott Hotel Bangkok,4.2,0.146837546,business,solo
+,JW Marriott Hotel Bangkok,4.2,0.233440133,leisure,family
+,JW Marriott Hotel Bangkok,4.2,0.146837546,leisure,solo
+,JW Marriott Hotel Bangkok,4.2,0.146837546,business,couple
+,Jade's house,2.6,0.016162335,business,family
+,Jasmine City Hotel,2.6,0.178735018,leisure,family
+,Jasmine Resort Bangkok,2.6,0.121300581,leisure,family
+,K Maison Boutique Hotel,4.2,0.055322179,leisure,solo
+,K Maison Boutique Hotel,4.2,0.055322179,business,couple
+,K Maison Boutique Hotel,4.2,0.114655275,leisure,friend
+,K Maison Boutique Hotel,4.2,0.055322179,leisure,couple
+,K Maison Boutique Hotel,4.2,0.114655275,business,friend
+,Kama Bangkok,4.2,0.016281002,business,couple
+,Kama Bangkok,4.2,0.03657292,business,friend
+,Kama Bangkok,4.2,0.03657292,leisure,friend
+,Kama Bangkok,4.2,0.016281002,leisure,couple
+,"Kantary House Hotel & Serviced Apartments, Bangkok",2.6,0.114655275,leisure,family
+,Kedkanok Apartment,2.6,0.019722321,leisure,friend
+,Kedkanok Apartment,2.6,0.019722321,business,friend
+,Khaosan Immjai,4.2,0.003109054,leisure,solo
+,Khaosan Immjai,4.2,0.010229026,leisure,couple
+,Klub Hotel,4.2,0.033724932,leisure,solo
+,Klub Hotel,4.2,0.033724932,business,solo
+,Kokotel Surawong,4.2,0.063035481,leisure,friend
+,Kokotel Surawong,4.2,0.050456865,business,family
+,Kokotel Surawong,4.2,0.035386258,business,couple
+,Kokotel Surawong,4.2,0.035386258,leisure,couple
+,Kokotel Surawong,4.2,0.029073217,leisure,solo
+,Kokotel Surawong,4.2,0.063035481,business,friend
+,Kokotel Surawong,4.2,0.050456865,leisure,family
+,Le Meridien Bangkok,4.2,0.222261778,leisure,family
+,Le Meridien Bangkok,4.2,0.222261778,leisure,friend
+,Le Meridien Bangkok,4.2,0.10912543,leisure,solo
+,Le Meridien Bangkok,4.2,0.222261778,business,friend
+,"Le Royal Meridien, Plaza Athenee Bangkok",4.2,0.126450694,leisure,solo
+,Le Siam Hotel,2.6,0.090447372,business,friend
+,Le Siam Hotel,2.6,0.090447372,leisure,friend
+,Le Tada Parkview Hotel,4.2,0.040844903,leisure,couple
+,Le Tada Parkview Hotel,4.2,0.040844903,leisure,solo
+,Le Tada Parkview Hotel,4.2,0.085700724,leisure,family
+,Le Tada Parkview Hotel,4.2,0.040844903,business,solo
+,Le Tada Parkview Hotel,4.2,0.040844903,business,couple
+,Le Tada Residence,4.2,0.035860923,business,couple
+,Le Tada Residence,4.2,0.035860923,leisure,couple
+,Lemontea Hotel,2.6,0.071698113,leisure,family
+,Lemontea Hotel,2.6,0.071698113,business,family
+,Lemontea Hotel,2.6,0.042767296,leisure,solo
+,Lemontea Hotel,2.6,0.042767296,business,solo
+,LiT BANGKOK Hotel,4.2,0.092820695,leisure,couple
+,LiT BANGKOK Hotel,4.2,0.092820695,business,solo
+,LiT BANGKOK Hotel,4.2,0.092820695,leisure,solo
+,Lily Residence Executive Serviced Apartment,2.6,0.070558918,business,friend
+,Lily Residence Executive Serviced Apartment,2.6,0.070558918,leisure,friend
+,LiveItUp Bangkok,4.2,0.02323484,leisure,family
+,LiveItUp Bangkok,4.2,0.004010917,leisure,solo
+,LiveItUp Bangkok,4.2,0.031232942,business,friend
+,Loft Suanplu,2.6,0.028266287,business,solo
+,Loftel 22 Hostel,2.6,0.019722321,leisure,friend
+,Loftel 22 Hostel,2.6,0.019722321,leisure,family
+,Loftel 22 Hostel,2.6,0.019722321,business,friend
+,Loftel Station,3.4,0.024468969,business,family
+,Loftel Station,3.4,0.013789012,leisure,couple
+,Loogchoob Homestay,4.2,0.050575531,business,couple
+,Loogchoob Homestay,4.2,0.050575531,leisure,couple
+,Love hostel,4.2,0.006336775,business,couple
+,Love hostel,4.2,0.006336775,leisure,couple
+,Love hostel,4.2,0.016684467,leisure,friend
+,Luz Hostel,4.2,0.004295716,leisure,solo
+,Luz Hostel,4.2,0.013789012,business,couple
+,MD Rose Apartment,1,0.016874333,leisure,family
+,MD Rose Apartment,1,0.016874333,business,family
+,Maduzi,4.2,0.21407381,business,friend
+,Maduzi,4.2,0.105043313,business,couple
+,Maduzi,4.2,0.21407381,leisure,friend
+,Maduzi,4.2,0.21407381,leisure,family
+,Maduzi,4.2,0.105043313,business,solo
+,Maitria Hotel Sukhumvit 18,4.2,0.073739172,business,solo
+,Maitria Hotel Sukhumvit 18,4.2,0.073739172,business,couple
+,"Marriott Executive Apartments Bangkok ,Sukhumvit Thonglor",4.2,0.185949923,business,friend
+,"Marriott Executive Apartments Bangkok ,Sukhumvit Thonglor",4.2,0.102147858,leisure,solo
+,"Marriott Executive Apartments Bangkok ,Sukhumvit Thonglor",4.2,0.102147858,business,couple
+,Marriott Executive Apartments Mayfair Bangkok,4.2,0.098754005,business,solo
+,Marriott Executive Apartments Mayfair Bangkok,4.2,0.098754005,leisure,solo
+,Marriott Executive Apartments Sukhumvit Park,4.2,0.205458645,business,friend
+,Marvin Suites,2.6,0.04345556,business,friend
+,Marvin Suites,2.6,0.025655631,business,family
+,Marvin Suites,2.6,0.04345556,leisure,friend
+,Meet Up Hostel Bangkok,4.2,0.014975673,business,couple
+,Meet Up Hostel Bangkok,4.2,0.014975673,leisure,couple
+,Mellow Fellow Hostel,4.2,0.029215616,leisure,friend
+,Mellow Fellow Hostel,4.2,0.029215616,business,friend
+,Mellow Fellow Hostel,4.2,0.004295716,leisure,solo
+,Mellow Fellow Hostel,4.2,0.01260235,leisure,couple
+,Mercure Bangkok Siam,4.2,0.079791148,leisure,family
+,Mercure Bangkok Siam,4.2,0.071413314,business,solo
+,Mercure Bangkok Siam,4.2,0.146837546,leisure,friend
+,Mercure Bangkok Siam,4.2,0.071413314,leisure,couple
+,Mercure Bangkok Siam,4.2,0.079791148,business,family
+,Mercure Bangkok Siam,4.2,0.146837546,business,friend
+,Mercure Bangkok Siam,4.2,0.071413314,leisure,solo
+,Mercure Bangkok Siam,4.2,0.071413314,business,couple
+,Methavalai Residence,4.2,0.02660496,business,couple
+,Metro Pratunam Boutique Hotel,2.6,0.057695503,business,family
+,Metro Pratunam Boutique Hotel,2.6,0.085463391,leisure,family
+,Metropole The Crest Collection by The Ascott Limited,3.4,0.06749733,leisure,couple
+,Micro Hostel,3.4,0.016162335,business,couple
+,Micro Hostel,3.4,0.016162335,leisure,couple
+,Micro Hostel,3.4,0.042268898,business,friend
+,Millennium Hilton Bangkok,2.6,0.146837546,business,family
+,Miracle Grand Convention Hotel,2.6,0.042245164,business,family
+,Mode Sathorn Hotel,4.2,0.081666073,leisure,solo
+,Mode Sathorn Hotel,4.2,0.081666073,business,solo
+,Mode Sathorn Hotel,4.2,0.081666073,leisure,couple
+,Mon Lodge & Yoga Donmueang,4.2,0.022095645,leisure,couple
+,Mon Lodge & Yoga Donmueang,4.2,0.022095645,business,couple
+,Mon Lodge & Yoga Donmueang,4.2,0.038708912,business,friend
+,Mon Lodge & Yoga Donmueang,4.2,0.035148926,leisure,family
+,Mon Lodge & Yoga Donmueang,4.2,0.038708912,leisure,friend
+,Mon Lodge & Yoga Donmueang,4.2,0.035148926,business,family
+,Monomer Hostel Bangkok,4.2,0.033962264,leisure,friend
+,Monomer Hostel Bangkok,4.2,0.005482378,business,solo
+,Montien Riverside Hotel,2.6,0.059238163,leisure,family
+,Montien Riverside Hotel,2.6,0.059238163,business,family
+,Moumou Hostel,2.6,0.012365017,leisure,family
+,Movylodge,4.2,0.033867331,leisure,friend
+,Movylodge,4.2,0.028384953,business,couple
+,My Loft Residence,3.4,0.03158894,leisure,friend
+,My Loft Residence,3.4,0.013789012,leisure,couple
+,My Loft Residence,3.4,0.03158894,business,friend
+,Mybed Sathorn,2.6,0.034104664,business,friend
+,Mybed Sathorn,2.6,0.034104664,leisure,friend
+,NAP Hotel Bangkok,4.2,0.034436929,leisure,couple
+,NAP Hotel Bangkok,4.2,0.072884775,leisure,friend
+,NAP Hotel Bangkok,4.2,0.072884775,business,friend
+,NAP Hotel Bangkok,4.2,0.072884775,business,family
+,NIDA Rooms Plubpla Bangkapi 591,4.2,0.026533761,leisure,friend
+,Naga Residence,4.2,0.069562122,leisure,friend
+,Naga Residence,4.2,0.069562122,business,friend
+,Nanatai Suites,1,0.052948855,leisure,family
+,Nanatai Suites,1,0.052948855,business,family
+,Nanda Heritage Hotel,4.2,0.049388869,business,couple
+,Nanda Heritage Hotel,4.2,0.049388869,business,solo
+,Nanda Heritage Hotel,4.2,0.049388869,leisure,couple
+,Nandha Hotel,4.2,0.035148926,business,couple
+,Nandha Hotel,4.2,0.035148926,leisure,family
+,Nandha Hotel,4.2,0.035148926,business,family
+,Nandha Hotel,4.2,0.035148926,leisure,solo
+,Nandha Hotel,4.2,0.035148926,business,solo
+,Nang Ta Yon at Ban Thap Chang Hostel,4.2,0.038708912,business,friend
+,Nang Ta Yon at Ban Thap Chang Hostel,4.2,0.038708912,leisure,friend
+,Nappark Hostel @Khao San,4.2,0.007831969,business,solo
+,Nappark Hostel @Khao San,4.2,0.007831969,leisure,solo
+,Naturbliss Boutique Residence,2.6,0.007855702,business,solo
+,Naturbliss Boutique Residence,2.6,0.007855702,leisure,solo
+,Niras Bankoc Hostel,4.2,0.007381037,business,solo
+,Niras Bankoc Hostel,4.2,0.0415569,business,friend
+,Niras Bankoc Hostel,4.2,0.0415569,leisure,friend
+,Nitan Hostel Khaosan,4.2,0.009042364,leisure,solo
+,Nitan Hostel Khaosan,4.2,0.048202207,business,friend
+,Nitan Hostel Khaosan,4.2,0.048202207,leisure,friend
+,Nornyai,4.2,0.01165302,leisure,couple
+,Nornyai,4.2,0.01165302,business,couple
+,Nornyai,4.2,0.003821051,business,solo
+,Nornyai,4.2,0.003821051,leisure,solo
+,Northgate Ratchayothin,2.6,0.127115225,leisure,friend
+,Noursabah Boutique Bed Bangkok,4.2,0.036335588,leisure,couple
+,Novotel Bangkok IMPACT,3.4,0.083754598,business,family
+,Novotel Bangkok IMPACT,3.4,0.136394921,business,friend
+,Novotel Bangkok IMPACT,3.4,0.136394921,leisure,friend
+,Novotel Bangkok Ploenchit Sukhumvit,4.2,0.07672956,leisure,couple
+,Novotel Bangkok Ploenchit Sukhumvit,4.2,0.07672956,business,couple
+,Novotel Bangkok Sukhumvit 20,4.2,0.143206361,leisure,friend
+,Novotel Bangkok Sukhumvit 20,4.2,0.143206361,business,friend
+,Novotel Bangkok Sukhumvit 20,4.2,0.069585855,leisure,solo
+,Novotel Bangkok Sukhumvit 20,4.2,0.069585855,business,solo
+,Oaks Bangkok Sathorn,4.2,0.116103002,leisure,family
+,Oaks Bangkok Sathorn,4.2,0.116103002,business,family
+,Oakwood Residence Sukhumvit 24,2.6,0.157375104,business,friend
+,Oakwood Residence Sukhumvit Thonglor Bangkok,4.2,0.079530082,business,solo
+,Oakwood Residence Sukhumvit Thonglor Bangkok,4.2,0.079530082,leisure,solo
+,Oakwood Residence Sukhumvit Thonglor Bangkok,4.2,0.100415332,business,family
+,Oh Bangkok Hostel,4.2,0.004889047,business,solo
+,Oh Bangkok Hostel,4.2,0.013789012,leisure,couple
+,Oldtown Hostel,3.4,0.00073573,leisure,solo
+,Olive Residence,2.6,0.074308769,leisure,friend
+,Olive Residence,2.6,0.07160318,business,family
+,Olive Residence,2.6,0.074308769,business,friend
+,Once Again Hostel,4.2,0.038708912,business,friend
+,Oneday Hostel Sukhumvit 26,4.2,0.023756972,leisure,couple
+,Oneday Hostel Sukhumvit 26,4.2,0.042980895,business,friend
+,Oneday Hostel Sukhumvit 26,4.2,0.023756972,business,couple
+,Oneday Hostel Sukhumvit 26,4.2,0.005601044,business,solo
+,Oneday Hostel Sukhumvit 26,4.2,0.042980895,leisure,friend
+,P-Park Residence - Charansanitwong-Rama7,2.6,0.038234247,business,family
+,P.K. Garden Home,2.6,0.100415332,business,family
+,P.K. Garden Home,2.6,0.100415332,leisure,friend
+,P.K. Garden Home,2.6,0.048202207,business,solo
+,P.K. Garden Home,2.6,0.100415332,business,friend
+,P.T. Court,2.6,0.079055417,business,family
+,P.T. Court,2.6,0.079055417,leisure,family
+,P24 at Kaset,2.6,0.037759582,business,friend
+,P24 at Kaset,2.6,0.037759582,leisure,friend
+,PSB1 Apartment,2.6,0.055322179,leisure,solo
+,PSB1 Apartment,2.6,0.055322179,business,couple
+,PSB1 Apartment,2.6,0.055322179,business,solo
+,PanPan Hostel,4.2,0.018535659,business,couple
+,Pantip Suites,2.6,0.140761837,leisure,family
+,Parinda Hotel,4.2,0.096618014,business,family
+,Parinda Hotel,4.2,0.096618014,business,friend
+,Parinda Hotel,4.2,0.096618014,leisure,friend
+,Park 19 Residence,3.4,0.038708912,business,couple
+,Park 19 Residence,3.4,0.088074048,business,family
+,Park 19 Residence,3.4,0.038708912,leisure,couple
+,Park 19 Residence,3.4,0.088074048,leisure,family
+,Park Plaza Bangkok Soi 18,4.2,0.124196037,business,friend
+,Park Plaza Bangkok Soi 18,4.2,0.124196037,leisure,friend
+,Park Plaza Bangkok Soi 18,4.2,0.06009256,business,couple
+,Parvena Hotel,3.4,0.038708912,business,family
+,Parvena Hotel,3.4,0.017348997,leisure,couple
+,Parvena Hotel,3.4,0.017348997,business,couple
+,Pathumwan Princess Hotel,4.2,0.201590127,business,friend
+,Pathumwan Princess Hotel,4.2,0.201590127,leisure,family
+,Petit Hostel,4.2,0.017348997,business,friend
+,Phurahong Homestay,2.6,0.014738341,leisure,family
+,PlayHaus Thonglor,3.4,0.033962264,business,couple
+,PlayHaus Thonglor,3.4,0.071935446,leisure,friend
+,PlayHaus Thonglor,3.4,0.033962264,leisure,couple
+,Polo Park Condominium,4.2,0.090922036,business,friend
+,Polo Park Condominium,4.2,0.090922036,leisure,friend
+,Praso@Ratchada12,2.6,0.081428741,leisure,friend
+,Praso@Ratchada12,2.6,0.081428741,business,friend
+,Praya Palazzo,2.6,0.195348285,business,friend
+,Pula Residence,3.4,0.034199597,business,solo
+,Pula Residence,3.4,0.034199597,leisure,solo
+,Pula Residence,3.4,0.07241011,business,friend
+,Pula Residence,3.4,0.07241011,leisure,friend
+,Pullman Bangkok Grande Sukhumvit,4.2,0.208686365,business,friend
+,Pullman Bangkok Grande Sukhumvit,4.2,0.102337724,leisure,solo
+,Pullman Bangkok Grande Sukhumvit,4.2,0.127281358,business,family
+,Pullman Bangkok Grande Sukhumvit,4.2,0.102337724,business,couple
+,Pullman Bangkok Grande Sukhumvit,4.2,0.102337724,leisure,couple
+,Pullman Bangkok Grande Sukhumvit,4.2,0.208686365,leisure,friend
+,Pullman Bangkok Hotel G,3.4,0.172469443,business,family
+,Pullman Bangkok Hotel G,3.4,0.172469443,leisure,family
+,Pullman Bangkok Hotel G,3.4,0.084229263,leisure,couple
+,Pullman Bangkok Hotel G,3.4,0.084229263,business,couple
+,Pullman Bangkok King Power,4.2,0.089142043,leisure,couple
+,Pullman Bangkok King Power,4.2,0.089142043,business,couple
+,RD Hostel,1.8,0.042980895,leisure,family
+,Rachanatda hostel,5,0.005245046,business,solo
+,Radisson Blu Plaza Bangkok,4.2,0.223923104,leisure,friend
+,Radisson Blu Plaza Bangkok,4.2,0.223923104,business,friend
+,Ramada Plaza Bangkok Menam Riverside,2.6,0.076444761,business,couple
+,Red Planet Asoke,2.6,0.073311973,leisure,family
+,Red Planet Asoke,2.6,0.073311973,business,family
+,Renaissance Bangkok Ratchaprasong Hotel,4.2,0.141236502,business,solo
+,Renaissance Bangkok Ratchaprasong Hotel,4.2,0.141236502,leisure,couple
+,Renaissance Bangkok Ratchaprasong Hotel,4.2,0.141236502,business,couple
+,Rest 3,4.2,0.01260235,business,couple
+,Rest 3,4.2,0.01260235,leisure,couple
+,Restiny Hostel,4.2,0.004295716,leisure,solo
+,Restiny Hostel,4.2,0.029215616,business,friend
+,Retro39,2.6,0.052426724,business,family
+,Retro39,2.6,0.052426724,leisure,family
+,Rezt Bangkok,4.2,0.004295716,leisure,solo
+,Rezt Bangkok,4.2,0.025655631,business,couple
+,Rezt Bangkok,4.2,0.025655631,leisure,couple
+,Riva Arun Bangkok,4.2,0.172564376,leisure,friend
+,Riva Surya Bangkok,4.2,0.100700131,business,solo
+,Riva Surya Bangkok,4.2,0.100700131,leisure,solo
+,Rongratana Executive Residence,2.6,0.114631541,leisure,couple
+,Rongratana Executive Residence,2.6,0.114631541,leisure,family
+,Rongratana Executive Residence,2.6,0.114631541,business,family
+,Room@Bangkok Boutique Guesthouse,2.6,0.061967485,leisure,friend
+,Room@Bangkok Boutique Guesthouse,2.6,0.061967485,business,friend
+,Royal Orchid Sheraton Hotel and Towers,4.2,0.100747597,leisure,couple
+,Royal Orchid Sheraton Hotel and Towers,4.2,0.100747597,business,couple
+,Royal Orchid Sheraton Hotel and Towers,4.2,0.205506111,leisure,family
+,Royal Princess Larn Luang,2.6,0.12414857,business,family
+,Royal View Resort - Rang Nam,4.2,0.067188798,business,friend
+,Royal View Resort - Rang Nam,4.2,0.067188798,leisure,friend
+,S Box Sukhumvit Hotel,4.2,0.017467663,leisure,solo
+,S1hostel Bangkok,2.6,0.029215616,leisure,family
+,S31 Sukhumvit Hotel,2.6,0.161409754,business,family
+,S31 Sukhumvit Hotel,2.6,0.161409754,leisure,family
+,S31 Sukhumvit Hotel,2.6,0.074664768,business,solo
+,S31 Sukhumvit Hotel,2.6,0.074664768,leisure,solo
+,SO Sofitel Bangkok,4.2,0.147953008,business,solo
+,SO Sofitel Bangkok,4.2,0.147953008,business,couple
+,SO Sofitel Bangkok,4.2,0.299916934,leisure,friend
+,SO Sofitel Bangkok,4.2,0.299916934,business,friend
+,SO Sofitel Bangkok,4.2,0.147953008,leisure,couple
+,SO Sofitel Bangkok,4.2,0.147953008,leisure,solo
+,SSIP Boutique Dhevej Bangkok,4.2,0.128895218,leisure,friend
+,SSIP Boutique Dhevej Bangkok,4.2,0.06244215,leisure,couple
+,SSIP Boutique Dhevej Bangkok,4.2,0.128895218,business,friend
+,SSIP Boutique Dhevej Bangkok,4.2,0.06244215,business,couple
+,Sabaidee Minitel,2.6,0.030402278,leisure,couple
+,Sabaidee Minitel,2.6,0.030402278,business,couple
+,Sacha's Hotel Uno,2.6,0.064103477,leisure,couple
+,Sacha's Hotel Uno,2.6,0.132217871,business,family
+,Sacha's Hotel Uno,2.6,0.064103477,business,couple
+,Sam Sen Sam Place,2.6,0.038708912,business,family
+,Samsen 360 Hostel,4.2,0.007950635,leisure,couple
+,Samsen 360 Hostel,4.2,0.001969859,leisure,solo
+,Samsen 360 Hostel,4.2,0.007950635,business,couple
+,Sandy Serviced Apartment,3.4,0.014975673,leisure,solo
+,Sandy Serviced Apartment,3.4,0.014975673,business,solo
+,"Sathorn Vista, Bangkok - Marriott Executive Apartments",4.2,0.213812745,business,friend
+,"Sathorn Vista, Bangkok - Marriott Executive Apartments",4.2,0.104900914,leisure,solo
+,"Sathorn Vista, Bangkok - Marriott Executive Apartments",4.2,0.213812745,leisure,friend
+,"Sathorn Vista, Bangkok - Marriott Executive Apartments",4.2,0.104900914,business,solo
+,"Sathorn Vista, Bangkok - Marriott Executive Apartments",4.2,0.104900914,leisure,couple
+,"Sathorn Vista, Bangkok - Marriott Executive Apartments",4.2,0.104900914,business,couple
+,Seek Sleep Hostel,4.2,0.004319449,business,solo
+,Shanghai Mansion Bangkok,4.2,0.056508841,business,couple
+,Shanghai Mansion Bangkok,4.2,0.117004865,business,friend
+,Shanghai Mansion Bangkok,4.2,0.056508841,business,solo
+,Shanghai Mansion Bangkok,4.2,0.117004865,leisure,friend
+,Shanghai Mansion Bangkok,4.2,0.056508841,leisure,solo
+,Shangri-La Hotel Bangkok,4.2,0.17757209,business,solo
+,Shangri-La Hotel Bangkok,4.2,0.17757209,business,couple
+,Shangri-La Hotel Bangkok,4.2,0.359155097,leisure,friend
+,Shangri-La Hotel Bangkok,4.2,0.359155097,business,friend
+,Shangri-La Hotel Bangkok,4.2,0.17757209,leisure,solo
+,"Sheraton Grande Sukhumvit, A Luxury Collection Hotel",4.2,0.138103714,leisure,couple
+,"Sheraton Grande Sukhumvit, A Luxury Collection Hotel",4.2,0.138103714,leisure,solo
+,"Sheraton Grande Sukhumvit, A Luxury Collection Hotel",4.2,0.138103714,business,couple
+,Siam Privi Residence,2.6,0.010727424,leisure,family
+,Siam Privi Residence,2.6,0.010727424,business,family
+,Siamaze Hostel,4.2,0.041082236,business,family
+,Siamaze Hostel,4.2,0.041082236,leisure,friend
+,Siamaze Hostel,4.2,0.002871722,business,solo
+,Siamaze Hostel,4.2,0.041082236,business,friend
+,Siamaze Hostel,4.2,0.002871722,leisure,solo
+,Siamese Nanglinchee,4.2,0.029500415,business,couple
+,Siamese Nanglinchee,4.2,0.029500415,business,solo
+,Siamese Nanglinchee,4.2,0.029500415,leisure,couple
+,Siamese Nanglinchee,4.2,0.029500415,leisure,solo
+,Siamhubbiz Hostel,2.6,0.061255488,business,friend
+,Siamhubbiz Hostel,2.6,0.061255488,leisure,friend
+,SilQ Bangkok Hotel,3.4,0.055322179,leisure,solo
+,SilQ Bangkok Hotel,3.4,0.055322179,leisure,family
+,SilQ Bangkok Hotel,3.4,0.055322179,business,family
+,SilQ Bangkok Hotel,3.4,0.055322179,leisure,couple
+,SilQ Bangkok Hotel,3.4,0.055322179,business,solo
+,Silom Bird House,4.2,0.026438828,leisure,family
+,Silom Bird House,4.2,0.005078913,business,solo
+,Silom City Hotel,2.6,0.028028955,business,family
+,Siri Poshtel Bangkok,4.2,0.033962264,leisure,couple
+,Siri Sathorn Executive Serviced Residence,4.2,0.110857957,business,friend
+,Siri Sathorn Executive Serviced Residence,4.2,0.064791741,business,solo
+,Siri Sathorn Executive Serviced Residence,4.2,0.064791741,leisure,couple
+,Siri Sathorn Executive Serviced Residence,4.2,0.110857957,leisure,family
+,Siri Sathorn Executive Serviced Residence,4.2,0.064791741,business,couple
+,Siri Sathorn Executive Serviced Residence,4.2,0.064791741,leisure,solo
+,Siri Sathorn Executive Serviced Residence,4.2,0.110857957,leisure,friend
+,Sitara Place Serviced Apartments,4.2,0.021858313,business,solo
+,Sivatel Bangkok,4.2,0.106348641,leisure,solo
+,Sivatel Bangkok,4.2,0.106348641,business,couple
+,Sivatel Bangkok,4.2,0.106348641,leisure,couple
+,Sleeplab Hostel,4.2,0.045354219,leisure,friend
+,Sleeplab Hostel,4.2,0.011178355,business,solo
+,Sleeplab Hostel,4.2,0.020671651,business,couple
+,Sleeplab Hostel,4.2,0.020671651,leisure,couple
+,Sofitel Bangkok Sukhumvit,4.2,0.649649935,business,family
+,Sofitel Bangkok Sukhumvit,4.2,0,leisure,friend
+,Sofitel Bangkok Sukhumvit,4.2,0.1166726,business,couple
+,Sofitel Bangkok Sukhumvit,4.2,0.1166726,business,solo
+,Sofitel Bangkok Sukhumvit,4.2,0.1166726,leisure,couple
+,Sofitel Bangkok Sukhumvit,4.2,0,business,friend
+,Some Rest Hostel,4.2,0.00666904,leisure,solo
+,Some Rest Hostel,4.2,0.00666904,business,solo
+,Some Rest Hostel,4.2,0.038708912,business,friend
+,Some Rest Hostel,4.2,0.038708912,leisure,friend
+,Somerset Lake Point Bangkok,3.4,0.107891302,business,family
+,Somerset Lake Point Bangkok,3.4,0.055227246,leisure,couple
+,Somerset Lake Point Bangkok,3.4,0.107891302,business,friend
+,Somerset Lake Point Bangkok,3.4,0.107891302,leisure,friend
+,Somerset Park Suanplu,2.6,0.105684111,business,family
+,Somerset Park Suanplu,2.6,0.057434437,leisure,solo
+,Somerset Park Suanplu,2.6,0.057434437,business,couple
+,Somerset Park Suanplu,2.6,0.057434437,leisure,couple
+,Somerset Park Suanplu,2.6,0.057434437,business,solo
+,Somerset Sukhumvit Thonglor,4.2,0.25928563,leisure,friend
+,Somerset Sukhumvit Thonglor,4.2,0.085938056,business,couple
+,Somerset Sukhumvit Thonglor,4.2,0.25928563,business,friend
+,Somerset Sukhumvit Thonglor,4.2,0.085938056,leisure,couple
+,Studio 62,4.2,0.017348997,business,solo
+,Sukhumvit 12 Bangkok Hotel & Suites,4.2,0.05577311,business,couple
+,Sukhumvit 12 Bangkok Hotel & Suites,4.2,0.05577311,leisure,couple
+,Summit Pavilion Hotel,1,0.067188798,business,friend
+,Summit Pavilion Hotel,1,0.067188798,leisure,friend
+,Suneta Hostel Khaosan,4.2,0.013836478,leisure,couple
+,Suneta Hostel Khaosan,4.2,0.00491278,leisure,solo
+,Suneta Hostel Khaosan,4.2,0.013836478,business,couple
+,Swissotel Le Concorde Bangkok,4.2,0.071959179,leisure,couple
+,Swissotel Le Concorde Bangkok,4.2,0.147953008,business,friend
+,Swissotel Le Concorde Bangkok,4.2,0.147953008,leisure,family
+,Swissotel Le Concorde Bangkok,4.2,0.147953008,leisure,friend
+,T Hostel @ Rama4,4.2,0.013812745,business,couple
+,T Hostel @ Rama4,4.2,0.013812745,leisure,couple
+,T Hostel @ Rama4,4.2,0.027340691,business,friend
+,T Hostel @ Rama4,4.2,0.027340691,leisure,friend
+,THA City Loft Hotel,3.4,0.052948855,business,friend
+,THA City Loft Hotel,3.4,0.052948855,leisure,friend
+,THE NARA-RAM 3 SUITE Boutique Service Apartment,2.6,0.023044974,leisure,couple
+,THE NARA-RAM 3 SUITE Boutique Service Apartment,2.6,0.023044974,business,couple
+,Tanatawey Places,4.2,0.047727542,leisure,family
+,Tanatawey Places,4.2,0.047727542,business,family
+,Tanatawey Places,4.2,0.021858313,business,solo
+,Tanatip Place,2.6,0.01260235,business,solo
+,Tanatip Place,2.6,0.01260235,leisure,solo
+,Tara Place,4.2,0.067188798,business,friend
+,Tara Place,4.2,0.03158894,leisure,solo
+,Tara Place,4.2,0.067188798,leisure,friend
+,Ten Ekamai Suites by Aspira,2.6,0.064530675,business,family
+,Ten Ekamai Suites by Aspira,2.6,0.064530675,leisure,friend
+,Ten Ekamai Suites by Aspira,2.6,0.064530675,business,friend
+,Tenface Bangkok,4.2,0.049388869,leisure,couple
+,Thai Cat Hostel,4.2,0.071935446,leisure,couple
+,Thai Cat Hostel,4.2,0.071935446,business,couple
+,Thamrongin Hotel,1,0.064815474,business,friend
+,Thamrongin Hotel,1,0.064815474,leisure,friend
+,Thanaree place,1,0.048202207,business,family
+,The Backpack Hostel,4.2,0.03158894,business,couple
+,The Backpack Hostel,4.2,0.03158894,leisure,couple
+,The Blocks Hostel,4.2,0.003821051,business,solo
+,The Blocks Hostel,4.2,0.003821051,leisure,solo
+,The Capital Mansion,2.6,0.090922036,leisure,friend
+,The Choice Residence,4.2,0.041082236,leisure,friend
+,The Choice Residence,4.2,0.018535659,business,solo
+,The Continent Bangkok by Compass Hospitality,2.6,0.090898303,leisure,family
+,The Cube Hostel,4.2,0.005482378,leisure,solo
+,The Dawin Nana,4.2,0.100367865,leisure,family
+,The Dawin Nana,4.2,0.048178474,leisure,solo
+,The Dawin Nana,4.2,0.100367865,business,family
+,The Dawin Nana,4.2,0.048178474,business,solo
+,The Hostel 16,4.2,0.002871722,business,solo
+,The Journey Hotel,4.2,0.016162335,leisure,couple
+,The Journey Hotel,4.2,0.016162335,business,couple
+,The Journey Hotel,4.2,0.016162335,leisure,family
+,The Local Surasak Hostel,4.2,0.001922392,business,solo
+,The Myth - Sud Sathorn,4.2,0.067995728,leisure,friend
+,The Myth - Sud Sathorn,4.2,0.031992405,business,couple
+,The Myth - Sud Sathorn,4.2,0.031992405,leisure,solo
+,The Myth - Sud Sathorn,4.2,0.031992405,business,solo
+,The Myth - Sud Sathorn,4.2,0.067995728,business,friend
+,The Myth - Sud Sathorn,4.2,0.031992405,leisure,couple
+,The Narathiwas Hotel & Residence Sathorn Bangkok,2.6,0.049388869,business,couple
+,The Narathiwas Hotel & Residence Sathorn Bangkok,2.6,0.049388869,leisure,couple
+,The Oasis Hostel,4.2,0.004295716,leisure,solo
+,The Orchid House 153,4.2,0.038708912,business,couple
+,The Orchid House 153,4.2,0.038708912,business,solo
+,The Park Residence @ Bangkok,2.6,0.071935446,leisure,family
+,The Posh Phayathai,4.2,0.071698113,leisure,family
+,The Raya Surawong Bangkok,2.6,0.073240774,leisure,couple
+,The Region,2.6,0.04345556,leisure,family
+,The Region,2.6,0.04345556,business,family
+,The Residence on Thonglor,4.2,0.151916459,leisure,friend
+,The Residence on Thonglor,4.2,0.073952771,business,solo
+,The Residence on Thonglor,4.2,0.151916459,business,family
+,The Residence on Thonglor,4.2,0.073952771,leisure,solo
+,The Residence on Thonglor,4.2,0.151916459,business,friend
+,The Residence on Thonglor,4.2,0.151916459,leisure,family
+,The Royal ThaTien Village,4.2,0.052948855,leisure,friend
+,The Royal ThaTien Village,4.2,0.024468969,leisure,solo
+,The Royal ThaTien Village,4.2,0.052948855,business,friend
+,The Sathon Vimanda Hotel,2.6,0.032063605,business,family
+,The Sathon Vimanda Hotel,2.6,0.032063605,leisure,family
+,The Siam,4.2,1,leisure,friend
+,The Siam,4.2,1,business,friend
+,The Sukhothai Bangkok,4.2,0.17757209,business,solo
+,The Tawana Bangkok,2.6,0.102788656,business,family
+,The Tawana Bangkok,2.6,0.102788656,leisure,family
+,The Vertical Suite,2.6,0.068138127,business,family
+,The Warehouse Bangkok,2.6,0.071840513,business,family
+,The Warehouse Bangkok,2.6,0.071840513,leisure,family
+,The Yard Hostel,4.2,0.03158894,business,couple
+,ThongLor Travellers Hostel and Cafe,4.2,0.050575531,business,friend
+,Tiger Lily Hostel,4.2,0.004770381,leisure,solo
+,Tiger Lily Hostel,4.2,0.004770381,business,solo
+,Tower Club At lebua,4.2,0.147644476,business,couple
+,Tower Club At lebua,4.2,0.147644476,leisure,solo
+,Trica Hostel,4.2,0.024468969,leisure,friend
+,Trica Hostel,4.2,0.002634389,business,solo
+,Trica Hostel,4.2,0.010229026,leisure,couple
+,Trica Hostel,4.2,0.024468969,business,friend
+,Trica Hostel,4.2,0.002634389,leisure,solo
+,Triple Two Silom,4.2,0.057339504,business,solo
+,Triple Two Silom,4.2,0.057339504,leisure,solo
+,Triple Two Silom,4.2,0.118689925,business,friend
+,U Sathorn Bangkok,4.2,0.116648867,leisure,solo
+,U Sathorn Bangkok,4.2,0.116648867,business,solo
+,U Sukhumvit Bangkok,4.2,0.166892132,leisure,friend
+,U Sukhumvit Bangkok,4.2,0.166892132,business,friend
+,U Sukhumvit Bangkok,4.2,0.076421028,business,solo
+,U Sukhumvit Bangkok,4.2,0.076421028,leisure,solo
+,U Tiny Boutique Home Suvarnabhumi Bangkok,4.2,0.049151537,leisure,solo
+,U Tiny Boutique Home Suvarnabhumi Bangkok,4.2,0.049151537,leisure,couple
+,U Tiny Boutique Home Suvarnabhumi Bangkok,4.2,0.114275543,business,friend
+,U Tiny Boutique Home Suvarnabhumi Bangkok,4.2,0.114275543,leisure,friend
+,U Tiny Boutique Home Suvarnabhumi Bangkok,4.2,0.049151537,business,solo
+,Udee Bangkok Hostel,3.4,0.00666904,leisure,solo
+,Unitato Hostel,4.2,0.019722321,leisure,friend
+,Unitato Hostel,4.2,0.001922392,leisure,solo
+,Unitato Hostel,4.2,0.019722321,business,friend
+,United Residence,4.2,0.026367628,business,couple
+,Urban Hostel Bangkok,4.2,0.023519639,business,friend
+,V Residence Bangkok,4.2,0.116862466,leisure,family
+,V Residence Bangkok,4.2,0.116862466,business,family
+,VM1 Hostel,4.2,0.005957043,business,solo
+,VM1 Hostel,4.2,0.030164946,leisure,friend
+,Villa Phra Sumen Bangkok,4.2,0.041841699,leisure,couple
+,Villa Phra Sumen Bangkok,4.2,0.041841699,leisure,solo
+,Villa Phra Sumen Bangkok,4.2,0.041841699,business,solo
+,Villa Phra Sumen Bangkok,4.2,0.041841699,business,couple
+,Viva Garden Serviced Residence,4.2,0.044404889,business,solo
+,Viva Garden Serviced Residence,4.2,0.098042008,business,friend
+,Viva Garden Serviced Residence,4.2,0.098042008,leisure,friend
+,Viva Garden Serviced Residence,4.2,0.044404889,leisure,couple
+,Viva Garden Serviced Residence,4.2,0.044404889,business,couple
+,Viva Garden Serviced Residence,4.2,0.044404889,leisure,solo
+,W Bangkok Hotel,4.2,0.144037024,business,solo
+,W Bangkok Hotel,4.2,0.292084965,business,family
+,W Home Bangkok,4.2,0.03158894,business,couple
+,W Home Bangkok,4.2,0.03158894,leisure,couple
+,WH hostel,4.2,0.045828883,business,friend
+,Wayla Hostel,4.2,0.003583719,business,solo
+,Wayla Hostel,4.2,0.026367628,leisure,friend
+,Wayla Hostel,4.2,0.026367628,business,friend
+,Wayla Hostel,4.2,0.011178355,leisure,couple
+,Wealth 30th,2.6,0.013789012,business,family
+,Wealth 30th,2.6,0.013789012,leisure,family
+,Weeping Willow,5,0.047442744,leisure,family
+,Well Hotel Bangkok,4.2,0.06588347,leisure,solo
+,Well Hotel Bangkok,4.2,0.06588347,business,couple
+,Well Hotel Bangkok,4.2,0.06588347,business,solo
+,Well Hotel Bangkok,4.2,0.06588347,leisure,couple
+,Yellow Ribbon Hills Boutique Suites,2.6,0.033938531,business,family
+,Yim Huai Khwang,4.2,0.057695503,business,family
+,Yim Huai Khwang,4.2,0.057695503,leisure,family
+,Yim Huai Khwang,4.2,0.057695503,business,friend
+,Yim Huai Khwang,4.2,0.00666904,business,solo
+,Yindee Hostel Bangkok,4.2,0.002871722,leisure,solo
+,Yindee Hostel Bangkok,4.2,0.028740952,business,friend
+,Yindee Hostel Bangkok,4.2,0.028740952,leisure,friend
+,Yoo Yen Pen Sook,4.2,0.032063605,leisure,friend
+,Yoo Yen Pen Sook,4.2,0.005007713,leisure,solo
+,ZEN Rooms Charurat,1,0.025655631,leisure,solo
+,ZEN Rooms Charurat,1,0.025655631,business,solo
+,ZEN Rooms Ladprao Soi 23,2.6,0.019722321,leisure,solo
+,ZEN Rooms Ladprao Soi 23,2.6,0.019722321,business,solo
+,Zenniq,2.6,0.077156758,business,friend
+,Ziniza The Boutique Service Apartment,2.6,0.052948855,business,family
+,Ziniza The Boutique Service Apartment,2.6,0.052948855,leisure,family
+,iCheck inn Sukhumvit 19,2.6,0.094719354,business,family
+,iSanook Hostel,4.2,0.002515723,leisure,solo
+,iSanook Hostel,4.2,0.002515723,business,solo
+,lebua at State Tower,4.2,0.109315296,business,couple
+,the FAH silom,4.2,0.032229738,business,solo
+,the FAH silom,4.2,0.032229738,leisure,solo
