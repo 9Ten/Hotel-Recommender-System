@@ -16,4 +16,4 @@ user_profile:
   - `Input Parameters`: Target_user, Trip Type, Companions
   - `Output data`: hotel recommended list
   
-  `website
+  `website`
