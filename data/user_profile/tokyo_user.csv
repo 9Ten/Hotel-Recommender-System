@@ -1,4 +1,4 @@
-﻿user_id,hotel_name,rating,price,trip_type,companion
+﻿user_id,hotel_name,rating_norm,price_norm,trip_type,companion
 ,ANA InterContinental Tokyo,3.4,0.294580085,business,family
 ,ANA InterContinental Tokyo,3.4,0.294580085,leisure,family
 ,APA Hotel - Higashishinjuku Kabukicho Higashi,3.4,0.039589808,business,solo
