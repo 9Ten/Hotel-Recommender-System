@@ -1,4 +1,4 @@
-﻿user_id,hotel_name,rating,price,trip_type,companion
+﻿user_id,hotel_name,rating_norm,price_norm,trip_type,companion
 ,128 Bangkok,2.6,0.04345556,leisure,solo
 ,128 Bangkok,2.6,0.04345556,business,solo
 ,130 Hotel & Residence Bangkok,4.2,0.052948855,leisure,friend
