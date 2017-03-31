@@ -1,4 +1,4 @@
-﻿user_id,hotel_name,rating,price,trip_type,companion
+﻿user_id,hotel_name,rating_norm,price_norm,trip_type,companion
 ,5footway.inn Project Ann Siang,4,0.008646241,leisure,solo
 ,5footway.inn Project Ann Siang,4,0.008646241,business,solo
 ,5footway.inn Project Boat Quay,3,0.042985573,business,family
