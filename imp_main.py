@@ -183,6 +183,7 @@ def prediction_rating(data_raw, data_frame, **kwargs):
 
             result = data_raw.ix[data_raw['user_id'] == neighbor, [
                 'user_id', 'hotel_name', 'rating', 'trip_type', 'companion']]
+            #--- Supplement Into Target_user data---#
             data_rec = data_rec.append(result)
     #--- Rec With Context ---#
     else:
@@ -205,7 +206,7 @@ def prediction_rating(data_raw, data_frame, **kwargs):
     result1 = []
     result2 = []
     for hotel, group in groups:
-        #--- Predict New Rating Into Hotel ---#
+        #--- Predict New Rating Into Each Hotel ---#
         predict_rating = group.apply(lambda row: (
             row.loc['weight'] * row.loc['rating']) / group['weight'].sum(), axis=1).sum()
         result1.append(hotel)
@@ -215,7 +216,7 @@ def prediction_rating(data_raw, data_frame, **kwargs):
     return hotel_rec
 
 #--- Rec Top k hotel Ordered By predict_rating ---#
-def recommendation(target_id, data_rec, top_k):
+def recommendation(target_id, data_rec, top_k=20):
     topk_hotels = data_rec.sort_values(
         by=('predict_rating'), ascending=False).head(top_k)
     return topk_hotels['hotel_name']
@@ -228,7 +229,7 @@ def weight_neighbors(data_frame):
 
 if __name__ == '__main__':
     #--- Expect each user: 10 records ---#
-    file_loc = 'D:/Desktop/Back-end/user_sample.csv'
+    file_loc = 'user_sample.csv'
     
     #--- Get parameters ---#
     target_id = 'user1'
@@ -248,12 +249,14 @@ if __name__ == '__main__':
             by=('weight'), ascending=False)
         #--- Recommendation ---#
         data_rec = prediction_rating(data_raw, data_out, **context)
-        list_rec = recommendation(target_id, data_rec, top_k)
-
+        list_rec = list(recommendation(target_id, data_rec))
+        list_booked = list(data_raw.ix[data_raw['user_id'] == target_id]['hotel_name'])
+        list_clean = [hotel for hotel in list_rec if hotel not in list_booked]
+        
         #--- Show Recommendation ---#
         print('Status: {}\n'.format(status))
         print('Recommended top {} hotels base on [{} {}]: \n{}\n'.format(
-            top_k, trip_type, companion, list(list_rec)))
-        print('Hotels booked of target user: \n{}\n'.format(
-            list(data_raw.ix[data_raw['user_id'] == target_id]['hotel_name'])))
-        # Dummy Handling list_rec duplicate
+            top_k, trip_type, companion, list_rec[:top_k + 1]))
+        print('Hotels booked of target user: \n{}\n'.format(list_booked))
+        #--- Handling Duplicate ---#
+        print('Recommended Clean: \n{}\n'.format(list_clean[:top_k + 1]))
