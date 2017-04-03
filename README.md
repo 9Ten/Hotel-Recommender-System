@@ -5,7 +5,8 @@ Final project for CSCU21
 #### Dataset: [bangkok, singopore, tokyo]
 hotel_profile:
 
-    hotel_name, rating_norm, price_norm, near_station, restaurant, entertain, shopping_mall, convenience_store, star, district, destination, rating, price
+    hotel_name, rating_norm, price_norm, near_station, restaurant, entertain, shopping_mall, 
+    convenience_store, star, district, destination, rating, price
 
 user_profile:
 
