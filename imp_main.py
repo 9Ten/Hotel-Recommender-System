@@ -13,24 +13,25 @@ def check_input(trip_type, companion):
         check_type.remove(trip_type)
     except:
         ok = False
-        print("trip_type is not valid")
+        print("Trip_type is not valid")
     try:
         check_com.remove(companion)
     except:
         ok = False
-        print("companion is not valid")
+        print("Companion is not valid")
     return ok
 
-#---Part preprocessing ---#
+#--- Part Preprocessing ---#
 def check_case(target_id, trip_type, companion, file_loc):
     user_data = pd.read_csv(file_loc)
     group_user = user_data.drop('hotel_name', axis=1)
     target_user = group_user.loc[group_user['user_id'] == target_id]
     if len(target_user) == 0:
-        print("target_user is not valid")
+        print("Target_user is not valid")
+    #--- Check Target_user data ---# 
     else:
         other_user = group_user.loc[group_user['user_id'] != target_id]
-
+        #--- Case No Context ---#
         if (trip_type == None) & (companion == None):
             status = [0, "case_none"]
             data_out = get_main(target_id, target_user,
@@ -40,14 +41,15 @@ def check_case(target_id, trip_type, companion, file_loc):
         else:
             num_target = len(target_user.loc[(target_user['trip_type'] == trip_type) & (
                 target_user['companion'] == companion)])
+            #--- Case Pass Regression ---#
             if num_target >= 6:
                 status = [1, "case_pass_regr"]
                 data_out = get_main(target_id, target_user,
                                     other_user, trip_type, companion, status[0])
                 del data_out['others']
                 return data_out, status[1]
+            #--- Case Not Pass Regression ---#
             else:
-                # no data regression
                 status = [-1, "case_not_regr"]
                 data_out = get_main(target_id, target_user,
                                     other_user, trip_type, companion, status[0])
@@ -57,9 +59,11 @@ def check_case(target_id, trip_type, companion, file_loc):
                 return data_out, status[1]
 
 def get_main(target_id, target, other, trip_type, companion, status):
+    #--- Cal Filter By trip_type, companion ---#
     if status == 1:
         target = target.loc[(target['trip_type'] == trip_type)
                             & (target['companion'] == companion)]
+    #--- Cal Not Filter By trip_type, companion ---#
     elif (status == -1) | (status == 0):
         pass
     target_weight = get_weight(target)
@@ -68,6 +72,7 @@ def get_main(target_id, target, other, trip_type, companion, status):
     result = {}
     other_user = other['user_id'].drop_duplicates(keep='first')
     other_user = other_user.values.tolist()
+    #--- Cal Weight Into Rank All User ---#
     for data in other_user:
         user = other.loc[other['user_id'] == data]
         other_weight = get_weight(user)
@@ -87,17 +92,15 @@ def get_main(target_id, target, other, trip_type, companion, status):
 
 #--- Cal Regression ---#
 def get_weight(df):
-    # weight of ['price', 'near_station', 'restaurant', 'entertain',
-    # 'shopping_mall', 'convenience_store']
     x = df[['price', 'near_station', 'restaurant', 'entertain',
             'shopping_mall', 'convenience_store']].values.tolist()
     y = df['rating'].values.tolist()
     # Create linear regression object
     regr = linear_model.LinearRegression(fit_intercept=False)
-    # http://stackoverflow.com/questions/24393518/python-sklearn-linear-model-linearregression-working-weird
     regr.fit(x, y)
     return regr.coef_
 
+#--- Ordered Weight ---#
 def get_rank_weight(weight):
     rank = pd.Series(list(weight)).rank(ascending=False)
     rank_f = rank.values.tolist()
@@ -118,14 +121,14 @@ def cal_corr(target_id, group_user_rank):
     group_user_rank.update({'neighbors': result})
     return group_user_rank
 
-#--- Before recommendation ---#
+#--- Before Recommendation ---#
 def get_neighbor(group_user_rank):
     corr = pd.Series(group_user_rank['neighbors'][1]).rank(ascending=True)
     neighbor = corr.values.tolist()
     group_user_rank['neighbors'].append(neighbor)
     return group_user_rank
 
-#--- Solve case not regression ---#
+#--- Solve Case Not Regression ---#
 def re_get_main(data_main, target_id, user_data, trip_type, companion):
     target_data = user_data.loc[(user_data['user_id'] == target_id) & (
         user_data['trip_type'] == trip_type) & (user_data['companion'] == companion)]
@@ -135,15 +138,13 @@ def re_get_main(data_main, target_id, user_data, trip_type, companion):
     neighbors = neighbors.sort_values(by=('rank'), ascending=True)
     list_neighbors = neighbors['user_id'].values.tolist()
 
+    #--- To Pass Regression ---# 
     buff_data = target_data
     rows_t = len(target_data)
     for other in list_neighbors:
-        #--- Expect each user: 10 records ---#
-        # pass regression
         if len(buff_data) >= 6:
             break
-
-        # filter trip_type, companion each other user
+        #--- Filter Context Each *Other User ---#
         other_data = user_data.loc[(user_data['user_id'] == other) & (
             user_data['trip_type'] == trip_type) & (user_data['companion'] == companion)]
         rows_o = len(other_data)
@@ -155,9 +156,10 @@ def re_get_main(data_main, target_id, user_data, trip_type, companion):
                 sup_data = other_data[:rows_o + 1]
             else:
                 sup_data = other_data[:supply + 1]
+        #--- Supplement Into Target_user data---#
         buff_data = buff_data.append(sup_data)
 
-    # recalculate
+    #--- Recal ---#
     new_weight = get_weight(buff_data)
     new_rank = get_rank_weight(new_weight)
     data_main['target'][target_id] = [new_weight, new_rank]
@@ -165,39 +167,45 @@ def re_get_main(data_main, target_id, user_data, trip_type, companion):
     data_out = get_neighbor(data_out)
     return data_out, buff_data
 
-#--- Part recommendation ---#
-def prediction_rating(dataset, data_frame, **kwargs):
+#--- Part Recommendation ---#
+def prediction_rating(data_raw, data_frame, **kwargs):
     data_frame = weight_neighbors(data_frame)
     data_rec = pd.DataFrame()
     neighbors = list(data_frame['user_id'])
     # print('Bug ties data: {}'.format(neighbors))
 
+    # Limit Data 25 records
+    #--- Rec No Context ---#
     if (kwargs['trip_type'] is None) & (kwargs['companion'] is None):
         for neighbor in neighbors:
-            if len(data_rec) > 20:
+            if len(data_rec) > 25:
                 break
 
-            result = dataset.ix[dataset['user_id'] == neighbor, [
+            result = data_raw.ix[data_raw['user_id'] == neighbor, [
                 'user_id', 'hotel_name', 'rating', 'trip_type', 'companion']]
             data_rec = data_rec.append(result)
+    #--- Rec With Context ---#
     else:
         for neighbor in neighbors:
-            if len(data_rec) > 20:
+            if len(data_rec) > 25:
                 break
             try:
-                result = dataset.ix[(dataset['user_id'] == neighbor) & (dataset['trip_type'] == kwargs['trip_type']) & (
-                    dataset['companion'] == kwargs['companion']), ['user_id', 'hotel_name', 'rating', 'trip_type', 'companion']]
+                #--- Filter Context Each *Neighbors ---#
+                result = data_raw.ix[(data_raw['user_id'] == neighbor) & (data_raw['trip_type'] == kwargs['trip_type']) & (
+                    data_raw['companion'] == kwargs['companion']), ['user_id', 'hotel_name', 'rating', 'trip_type', 'companion']]
             except:
                 pass
+            #--- Supplement Into Target_user data---#
             data_rec = data_rec.append(result)
 
-    print(len(data_rec))
+    #--- Inner Join data_rec With Weight's Neighbors---#
     data_rec = pd.merge(data_rec.drop(
         ['trip_type', 'companion'], axis=1), data_frame, how='inner', on='user_id')
     groups = data_rec.groupby('hotel_name')
     result1 = []
     result2 = []
     for hotel, group in groups:
+        #--- Predict New Rating Into Hotel ---#
         predict_rating = group.apply(lambda row: (
             row.loc['weight'] * row.loc['rating']) / group['weight'].sum(), axis=1).sum()
         result1.append(hotel)
@@ -206,20 +214,22 @@ def prediction_rating(dataset, data_frame, **kwargs):
         data={'hotel_name': result1, 'predict_rating': result2})
     return hotel_rec
 
+#--- Rec Top k hotel Ordered By predict_rating ---#
 def recommendation(target_id, data_rec, top_k):
     topk_hotels = data_rec.sort_values(
         by=('predict_rating'), ascending=False).head(top_k)
     return topk_hotels['hotel_name']
 
+#--- Change Rank's Neighbors(Ordinal) Into Weight's Neighbors ---#
 def weight_neighbors(data_frame):
     scale = preprocessing.MinMaxScaler(feature_range=(0.1, 1))
     data_frame['weight'] = scale.fit_transform(data_frame[['weight']])
     return data_frame
 
 if __name__ == '__main__':
-    #--- Read data ---#
-    file_loc = 'data/user_sample.csv'
-
+    #--- Expect each user: 10 records ---#
+    file_loc = 'D:/Desktop/Back-end/user_sample.csv'
+    
     #--- Get parameters ---#
     target_id = 'user1'
     trip_type = None
@@ -229,7 +239,7 @@ if __name__ == '__main__':
     ok = check_input(trip_type, companion)
 
     if ok:
-        data_in = pd.read_csv(file_loc)
+        data_raw = pd.read_csv(file_loc)
         data_out, status = check_case(
             target_id, trip_type, companion, file_loc)
         data_out = {'user_id': data_out['neighbors'][
@@ -237,13 +247,13 @@ if __name__ == '__main__':
         data_out = pd.DataFrame(data=data_out).sort_values(
             by=('weight'), ascending=False)
         #--- Recommendation ---#
-        data_rec = prediction_rating(data_in, data_out, **context)
+        data_rec = prediction_rating(data_raw, data_out, **context)
         list_rec = recommendation(target_id, data_rec, top_k)
 
-        #--- Show recommendation ---#
+        #--- Show Recommendation ---#
         print('Status: {}\n'.format(status))
         print('Recommended top {} hotels base on [{} {}]: \n{}\n'.format(
             top_k, trip_type, companion, list(list_rec)))
         print('Hotels booked of target user: \n{}\n'.format(
-            list(data_in.ix[data_in['user_id'] == target_id]['hotel_name'])))
-        # Dummy list_rec duplicate
+            list(data_raw.ix[data_raw['user_id'] == target_id]['hotel_name'])))
+        # Dummy Handling list_rec duplicate
